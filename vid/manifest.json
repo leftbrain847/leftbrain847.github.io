@@ -180,19 +180,5 @@
   "script": "a5ce26ee32258c593ee0f12b84d603bcbb8d7be4d6f66471d088003f2669bd45",
   "page": "8f3d9aa0387da4e3fe80338f8c4039b9e4292adfeb14723a5962257ea40a1d48",
   "recorded_on": "2026-11-09"
- },
- "spatial_puzzles": {
-  "file": "vid/spatial_puzzles.webm",
-  "start": 5.983268976211548,
-  "dur": 6.0,
-  "crop": [
-   0,
-   60.0,
-   390,
-   520.0
-  ],
-  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
-  "page": "c097e5a4cb8062197cb90600aa3443c58e2c02840ed1e6c4352d1a29652ea511",
-  "recorded_on": "2026-11-09"
  }
 }
