@@ -1,0 +1,16 @@
+{
+ "linear_algebra": {
+  "file": "vid/linear_algebra.webm",
+  "start": 1.1657299995422363,
+  "dur": 9,
+  "crop": [
+   16.0,
+   219.75,
+   358.0,
+   268.5
+  ],
+  "script": "708ca8ca645c29ea9af91006874b9ebc442afd7a862d826f2b065bfb4d60d147",
+  "page": "8e16ea4a34431c6670c87d0103252851524d0dc832367bd125876314a315ef4d",
+  "recorded_on": "2026-11-09"
+ }
+}
