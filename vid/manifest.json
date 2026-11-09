@@ -13,20 +13,6 @@
   "page": "8e16ea4a34431c6670c87d0103252851524d0dc832367bd125876314a315ef4d",
   "recorded_on": "2026-11-09"
  },
- "asl_translator": {
-  "file": "vid/asl_translator.webm",
-  "start": 1.4224507808685303,
-  "dur": 8.0,
-  "crop": [
-   17.0,
-   69.11197916666666,
-   356,
-   474.6666666666667
-  ],
-  "script": "799397cd084cf146621e265b6a51d57111e575bfafc4135ff5f90a8749a2b6eb",
-  "page": "09f550b0c0646e6f20fb0a4455f47bb885113a2a7e8c149a8d1496c6f1abcfb1",
-  "recorded_on": "2026-11-09"
- },
  "mastery_field_guide": {
   "file": "vid/mastery_field_guide.webm",
   "start": 2.815624475479126,
@@ -179,6 +165,20 @@
   ],
   "script": "a5ce26ee32258c593ee0f12b84d603bcbb8d7be4d6f66471d088003f2669bd45",
   "page": "8f3d9aa0387da4e3fe80338f8c4039b9e4292adfeb14723a5962257ea40a1d48",
+  "recorded_on": "2026-11-09"
+ },
+ "asl_translator": {
+  "file": "vid/asl_translator.webm",
+  "start": 0.9504556655883789,
+  "dur": 8.0,
+  "crop": [
+   0.0,
+   0.0,
+   390,
+   520.0
+  ],
+  "script": "799397cd084cf146621e265b6a51d57111e575bfafc4135ff5f90a8749a2b6eb",
+  "page": "02460f98d2d1e1a6e5dca683e48074537a8dd65df1a6ed57f7fe445bae499eb1",
   "recorded_on": "2026-11-09"
  }
 }
