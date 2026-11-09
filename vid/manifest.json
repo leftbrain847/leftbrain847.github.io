@@ -1,155 +1,155 @@
 {
  "linear_algebra": {
   "file": "vid/linear_algebra.webm",
-  "start": 1.1657299995422363,
+  "start": 2.3942878246307373,
   "dur": 9,
   "crop": [
    16.0,
-   219.75,
-   358.0,
-   268.5
+   115.33333333333334,
+   358,
+   477.3333333333333
   ],
-  "script": "708ca8ca645c29ea9af91006874b9ebc442afd7a862d826f2b065bfb4d60d147",
+  "script": "a64b6254aec97936ec75e726dc189f96940d892471def86f6e7f0563faf7a50d",
   "page": "8e16ea4a34431c6670c87d0103252851524d0dc832367bd125876314a315ef4d",
   "recorded_on": "2026-11-09"
  },
  "asl_translator": {
   "file": "vid/asl_translator.webm",
-  "start": 2.05511474609375,
-  "dur": 6.0,
+  "start": 1.4224507808685303,
+  "dur": 8.0,
   "crop": [
-   0,
-   0,
-   390,
-   292.5
+   17.0,
+   69.11197916666666,
+   356,
+   474.6666666666667
   ],
-  "script": "487355cd58c16a563713e0a7862916e367a042cd9ca6f0bbb170c6f2fb6f2bba",
+  "script": "799397cd084cf146621e265b6a51d57111e575bfafc4135ff5f90a8749a2b6eb",
   "page": "09f550b0c0646e6f20fb0a4455f47bb885113a2a7e8c149a8d1496c6f1abcfb1",
   "recorded_on": "2026-11-09"
  },
  "mastery_field_guide": {
   "file": "vid/mastery_field_guide.webm",
-  "start": 2.753068447113037,
-  "dur": 6.0,
+  "start": 2.815624475479126,
+  "dur": 8.0,
   "crop": [
-   0,
-   0,
-   390,
-   292.5
+   16.0,
+   34.48958333333334,
+   358,
+   477.3333333333333
   ],
-  "script": "487355cd58c16a563713e0a7862916e367a042cd9ca6f0bbb170c6f2fb6f2bba",
+  "script": "4d60dbc87354db7716d5e0ad4faa39eb9abf43d842166edb355d74a4f623ef87",
   "page": "ac2df7176e9de5fcb86e4f4b53e606a4de244edc95a6fe250ce7b5f0e14283ef",
   "recorded_on": "2026-11-09"
  },
  "november_sprint": {
   "file": "vid/november_sprint.webm",
-  "start": 2.09785532951355,
+  "start": 1.140381097793579,
   "dur": 6.0,
   "crop": [
    0,
-   0,
+   60.0,
    390,
-   292.5
+   520.0
   ],
-  "script": "487355cd58c16a563713e0a7862916e367a042cd9ca6f0bbb170c6f2fb6f2bba",
+  "script": "a3ebe97990377f769e49c7a6997acec5cb6d35179dc3ea1428b7c291089a77b8",
   "page": "1ab6c4dc78b39b2a231a42a999305f0a7eb9c102bb50b1d9487997bf2ea76596",
   "recorded_on": "2026-11-09"
  },
  "portfolio": {
   "file": "vid/portfolio.webm",
-  "start": 2.144651412963867,
-  "dur": 6.0,
+  "start": 1.2337877750396729,
+  "dur": 7.0,
   "crop": [
    0,
-   0,
+   60.0,
    390,
-   292.5
+   520.0
   ],
-  "script": "487355cd58c16a563713e0a7862916e367a042cd9ca6f0bbb170c6f2fb6f2bba",
+  "script": "8201c99ea7746aae54ac18e9c06a50936c1dc6b2df022dce51719e55cd20fb9c",
   "page": "10c587e171c7eb46285c64a43b5a5bd08f272bb493340c36e67264de4efbf612",
   "recorded_on": "2026-11-09"
  },
  "settlers": {
   "file": "vid/settlers.webm",
-  "start": 1.5217647552490234,
-  "dur": 6.0,
+  "start": 3.258897542953491,
+  "dur": 9,
   "crop": [
-   0,
-   0,
+   0.0,
+   54.1953125,
    390,
-   292.5
+   520.0
   ],
-  "script": "487355cd58c16a563713e0a7862916e367a042cd9ca6f0bbb170c6f2fb6f2bba",
+  "script": "7a7f21b778839b171a347aefea4cb56389f3ec985f7d58bcb014104cfde97106",
   "page": "ea3954dda93f606240069d1def401859c7e363a69172ee37ea47697408621a61",
   "recorded_on": "2026-11-09"
  },
  "pinball": {
   "file": "vid/pinball.webm",
-  "start": 2.032531261444092,
-  "dur": 6.0,
+  "start": 2.2144439220428467,
+  "dur": 8.0,
   "crop": [
-   0,
-   0,
-   390,
-   292.5
+   3.861328125,
+   78.296875,
+   382.27734375,
+   509.703125
   ],
-  "script": "487355cd58c16a563713e0a7862916e367a042cd9ca6f0bbb170c6f2fb6f2bba",
+  "script": "8423156cad0261d00704a0af2af5930dc55324e48917e732ef14f01f466831d1",
   "page": "f56b17cf9895f69be0efd5c68d7355ebef54f615ca1e1713fc47f5fe3e90da90",
   "recorded_on": "2026-11-09"
  },
  "4th_down": {
   "file": "vid/4th_down.webm",
-  "start": 1.71451735496521,
-  "dur": 6.0,
+  "start": 1.5637402534484863,
+  "dur": 7.0,
   "crop": [
-   0,
-   0,
-   390,
-   292.5
+   16.0,
+   43.67708333333334,
+   358,
+   477.3333333333333
   ],
-  "script": "487355cd58c16a563713e0a7862916e367a042cd9ca6f0bbb170c6f2fb6f2bba",
+  "script": "c2f81fbe8f79559d95ad62d3088ded934a665f303f4e9a2802f01c6f2a9d7fc2",
   "page": "2d33d11a1c472a305136547aecd327a6a585219e8e59754b8c70b0ca3b473b95",
   "recorded_on": "2026-11-09"
  },
  "sound_jam_band": {
   "file": "vid/sound_jam_band.webm",
-  "start": 2.2672460079193115,
-  "dur": 6.0,
+  "start": 2.307236433029175,
+  "dur": 8.0,
   "crop": [
-   0,
-   0,
-   390,
-   292.5
+   24.0,
+   0.0,
+   342,
+   456.0
   ],
-  "script": "487355cd58c16a563713e0a7862916e367a042cd9ca6f0bbb170c6f2fb6f2bba",
+  "script": "3692ed8947d21a1714cfd9e3bf5697929d374597b369cb91a350547bb2b41055",
   "page": "16f2b39980ae04416301f6869655660943a81d9a38511bf8dcb8fa3d325689b3",
   "recorded_on": "2026-11-09"
  },
  "project_index": {
   "file": "vid/project_index.webm",
-  "start": 1.678358793258667,
-  "dur": 6.0,
+  "start": 1.385859727859497,
+  "dur": 7.0,
   "crop": [
    0,
-   0,
+   60.0,
    390,
-   292.5
+   520.0
   ],
-  "script": "487355cd58c16a563713e0a7862916e367a042cd9ca6f0bbb170c6f2fb6f2bba",
+  "script": "b2b9a50853915c2ca2d146091114b2bdc16b37c9ff6db0d430cfeeea6d5aff15",
   "page": "ea50ecd034c862cfaacb60e449d4eab6bf5466e47ea4657c9141072632558fc0",
   "recorded_on": "2026-11-09"
  },
  "ludo": {
   "file": "vid/ludo.webm",
-  "start": 1.5075862407684326,
-  "dur": 6.0,
+  "start": 2.229553461074829,
+  "dur": 9,
   "crop": [
-   0,
-   0,
-   390,
-   292.5
+   16.0,
+   81.33333333333334,
+   358,
+   477.3333333333333
   ],
-  "script": "487355cd58c16a563713e0a7862916e367a042cd9ca6f0bbb170c6f2fb6f2bba",
+  "script": "a5ce26ee32258c593ee0f12b84d603bcbb8d7be4d6f66471d088003f2669bd45",
   "page": "8f3d9aa0387da4e3fe80338f8c4039b9e4292adfeb14723a5962257ea40a1d48",
   "recorded_on": "2026-11-09"
  }
