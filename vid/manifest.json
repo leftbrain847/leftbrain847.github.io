@@ -12,5 +12,145 @@
   "script": "708ca8ca645c29ea9af91006874b9ebc442afd7a862d826f2b065bfb4d60d147",
   "page": "8e16ea4a34431c6670c87d0103252851524d0dc832367bd125876314a315ef4d",
   "recorded_on": "2026-11-09"
+ },
+ "asl_translator": {
+  "file": "vid/asl_translator.webm",
+  "start": 2.05511474609375,
+  "dur": 6.0,
+  "crop": [
+   0,
+   0,
+   390,
+   292.5
+  ],
+  "script": "487355cd58c16a563713e0a7862916e367a042cd9ca6f0bbb170c6f2fb6f2bba",
+  "page": "09f550b0c0646e6f20fb0a4455f47bb885113a2a7e8c149a8d1496c6f1abcfb1",
+  "recorded_on": "2026-11-09"
+ },
+ "mastery_field_guide": {
+  "file": "vid/mastery_field_guide.webm",
+  "start": 2.753068447113037,
+  "dur": 6.0,
+  "crop": [
+   0,
+   0,
+   390,
+   292.5
+  ],
+  "script": "487355cd58c16a563713e0a7862916e367a042cd9ca6f0bbb170c6f2fb6f2bba",
+  "page": "ac2df7176e9de5fcb86e4f4b53e606a4de244edc95a6fe250ce7b5f0e14283ef",
+  "recorded_on": "2026-11-09"
+ },
+ "november_sprint": {
+  "file": "vid/november_sprint.webm",
+  "start": 2.09785532951355,
+  "dur": 6.0,
+  "crop": [
+   0,
+   0,
+   390,
+   292.5
+  ],
+  "script": "487355cd58c16a563713e0a7862916e367a042cd9ca6f0bbb170c6f2fb6f2bba",
+  "page": "1ab6c4dc78b39b2a231a42a999305f0a7eb9c102bb50b1d9487997bf2ea76596",
+  "recorded_on": "2026-11-09"
+ },
+ "portfolio": {
+  "file": "vid/portfolio.webm",
+  "start": 2.144651412963867,
+  "dur": 6.0,
+  "crop": [
+   0,
+   0,
+   390,
+   292.5
+  ],
+  "script": "487355cd58c16a563713e0a7862916e367a042cd9ca6f0bbb170c6f2fb6f2bba",
+  "page": "10c587e171c7eb46285c64a43b5a5bd08f272bb493340c36e67264de4efbf612",
+  "recorded_on": "2026-11-09"
+ },
+ "settlers": {
+  "file": "vid/settlers.webm",
+  "start": 1.5217647552490234,
+  "dur": 6.0,
+  "crop": [
+   0,
+   0,
+   390,
+   292.5
+  ],
+  "script": "487355cd58c16a563713e0a7862916e367a042cd9ca6f0bbb170c6f2fb6f2bba",
+  "page": "ea3954dda93f606240069d1def401859c7e363a69172ee37ea47697408621a61",
+  "recorded_on": "2026-11-09"
+ },
+ "pinball": {
+  "file": "vid/pinball.webm",
+  "start": 2.032531261444092,
+  "dur": 6.0,
+  "crop": [
+   0,
+   0,
+   390,
+   292.5
+  ],
+  "script": "487355cd58c16a563713e0a7862916e367a042cd9ca6f0bbb170c6f2fb6f2bba",
+  "page": "f56b17cf9895f69be0efd5c68d7355ebef54f615ca1e1713fc47f5fe3e90da90",
+  "recorded_on": "2026-11-09"
+ },
+ "4th_down": {
+  "file": "vid/4th_down.webm",
+  "start": 1.71451735496521,
+  "dur": 6.0,
+  "crop": [
+   0,
+   0,
+   390,
+   292.5
+  ],
+  "script": "487355cd58c16a563713e0a7862916e367a042cd9ca6f0bbb170c6f2fb6f2bba",
+  "page": "2d33d11a1c472a305136547aecd327a6a585219e8e59754b8c70b0ca3b473b95",
+  "recorded_on": "2026-11-09"
+ },
+ "sound_jam_band": {
+  "file": "vid/sound_jam_band.webm",
+  "start": 2.2672460079193115,
+  "dur": 6.0,
+  "crop": [
+   0,
+   0,
+   390,
+   292.5
+  ],
+  "script": "487355cd58c16a563713e0a7862916e367a042cd9ca6f0bbb170c6f2fb6f2bba",
+  "page": "16f2b39980ae04416301f6869655660943a81d9a38511bf8dcb8fa3d325689b3",
+  "recorded_on": "2026-11-09"
+ },
+ "project_index": {
+  "file": "vid/project_index.webm",
+  "start": 1.678358793258667,
+  "dur": 6.0,
+  "crop": [
+   0,
+   0,
+   390,
+   292.5
+  ],
+  "script": "487355cd58c16a563713e0a7862916e367a042cd9ca6f0bbb170c6f2fb6f2bba",
+  "page": "ea50ecd034c862cfaacb60e449d4eab6bf5466e47ea4657c9141072632558fc0",
+  "recorded_on": "2026-11-09"
+ },
+ "ludo": {
+  "file": "vid/ludo.webm",
+  "start": 1.5075862407684326,
+  "dur": 6.0,
+  "crop": [
+   0,
+   0,
+   390,
+   292.5
+  ],
+  "script": "487355cd58c16a563713e0a7862916e367a042cd9ca6f0bbb170c6f2fb6f2bba",
+  "page": "8f3d9aa0387da4e3fe80338f8c4039b9e4292adfeb14723a5962257ea40a1d48",
+  "recorded_on": "2026-11-09"
  }
 }
