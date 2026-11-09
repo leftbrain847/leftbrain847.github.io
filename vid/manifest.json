@@ -13,6 +13,20 @@
   "page": "8e16ea4a34431c6670c87d0103252851524d0dc832367bd125876314a315ef4d",
   "recorded_on": "2026-11-09"
  },
+ "asl_translator": {
+  "file": "vid/asl_translator.webm",
+  "start": 0.9504556655883789,
+  "dur": 8.0,
+  "crop": [
+   0.0,
+   0.0,
+   390,
+   520.0
+  ],
+  "script": "799397cd084cf146621e265b6a51d57111e575bfafc4135ff5f90a8749a2b6eb",
+  "page": "02460f98d2d1e1a6e5dca683e48074537a8dd65df1a6ed57f7fe445bae499eb1",
+  "recorded_on": "2026-11-09"
+ },
  "mastery_field_guide": {
   "file": "vid/mastery_field_guide.webm",
   "start": 2.815624475479126,
@@ -167,18 +181,18 @@
   "page": "8f3d9aa0387da4e3fe80338f8c4039b9e4292adfeb14723a5962257ea40a1d48",
   "recorded_on": "2026-11-09"
  },
- "asl_translator": {
-  "file": "vid/asl_translator.webm",
-  "start": 0.9504556655883789,
-  "dur": 8.0,
+ "nfl_roster_grader": {
+  "file": "vid/nfl_roster_grader.webm",
+  "start": 0.9667572975158691,
+  "dur": 7.0,
   "crop": [
    0.0,
-   0.0,
+   60.0,
    390,
    520.0
   ],
-  "script": "799397cd084cf146621e265b6a51d57111e575bfafc4135ff5f90a8749a2b6eb",
-  "page": "02460f98d2d1e1a6e5dca683e48074537a8dd65df1a6ed57f7fe445bae499eb1",
+  "script": "d2bc3aef8ccc693a85f2eb8507a39f40e8eaedb47628d459b3c8046df424cd55",
+  "page": "748f01b5c3f6698cab5abd59f19c7001ae3bb9de88a27256a315d88971760602",
   "recorded_on": "2026-11-09"
  }
 }
