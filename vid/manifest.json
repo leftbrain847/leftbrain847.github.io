@@ -211,7 +211,7 @@
  },
  "nfl_roster_grader": {
   "file": "vid/nfl_roster_grader.webm",
-  "start": 1.5022025108337402,
+  "start": 1.6097335815429688,
   "dur": 7.0,
   "crop": [
    0.0,
@@ -220,7 +220,21 @@
    520.0
   ],
   "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
-  "page": "8e5508fc017a2644f19990d4073d5ce1356f6e6344e53bb329ca9f6facf7b9b4",
+  "page": "f7a037780b6ad82c9d057fd781debaa094e13457d7e1cf5c24b30ca8e40c7a77",
+  "recorded_on": "2026-11-10"
+ },
+ "spatial_puzzles": {
+  "file": "vid/spatial_puzzles.webm",
+  "start": 7.274609565734863,
+  "dur": 6.0,
+  "crop": [
+   0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
+  "page": "c097e5a4cb8062197cb90600aa3443c58e2c02840ed1e6c4352d1a29652ea511",
   "recorded_on": "2026-11-10"
  }
 }
