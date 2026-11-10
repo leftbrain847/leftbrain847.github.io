@@ -69,20 +69,6 @@
   "page": "10c587e171c7eb46285c64a43b5a5bd08f272bb493340c36e67264de4efbf612",
   "recorded_on": "2026-11-09"
  },
- "nfl_roster_grader": {
-  "file": "vid/nfl_roster_grader.webm",
-  "start": 1.6097335815429688,
-  "dur": 7.0,
-  "crop": [
-   0.0,
-   60.0,
-   390,
-   520.0
-  ],
-  "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
-  "page": "f7a037780b6ad82c9d057fd781debaa094e13457d7e1cf5c24b30ca8e40c7a77",
-  "recorded_on": "2026-11-10"
- },
  "redzone": {
   "file": "vid/redzone.webm",
   "start": 1.7171099185943604,
@@ -95,6 +81,20 @@
   ],
   "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
   "page": "5e4b5ee657bb5bfcf71268a0e26cbe5ba606c6045c9ff4efc2acbb48bd841fcb",
+  "recorded_on": "2026-11-10"
+ },
+ "settlers": {
+  "file": "vid/settlers.webm",
+  "start": 3.0488035678863525,
+  "dur": 9,
+  "crop": [
+   0.0,
+   54.1953125,
+   390,
+   520.0
+  ],
+  "script": "7a7f21b778839b171a347aefea4cb56389f3ec985f7d58bcb014104cfde97106",
+  "page": "b6dedf82179f562849a93578e615abf6dd17915bb19d64388440ce5b1a186e70",
   "recorded_on": "2026-11-10"
  },
  "lull": {
@@ -195,20 +195,6 @@
   "page": "8f3d9aa0387da4e3fe80338f8c4039b9e4292adfeb14723a5962257ea40a1d48",
   "recorded_on": "2026-11-09"
  },
- "settlers": {
-  "file": "vid/settlers.webm",
-  "start": 3.0488035678863525,
-  "dur": 9,
-  "crop": [
-   0.0,
-   54.1953125,
-   390,
-   520.0
-  ],
-  "script": "7a7f21b778839b171a347aefea4cb56389f3ec985f7d58bcb014104cfde97106",
-  "page": "b6dedf82179f562849a93578e615abf6dd17915bb19d64388440ce5b1a186e70",
-  "recorded_on": "2026-11-10"
- },
  "congress": {
   "file": "vid/congress.webm",
   "start": 1.8003649711608887,
@@ -221,6 +207,20 @@
   ],
   "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
   "page": "71463886f6948a6f7de6f9e79353d427a5fde3af3b3fda74549b5696d83696b3",
+  "recorded_on": "2026-11-10"
+ },
+ "nfl_roster_grader": {
+  "file": "vid/nfl_roster_grader.webm",
+  "start": 1.555021047592163,
+  "dur": 7.0,
+  "crop": [
+   0.0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
+  "page": "2eb5665d4dd7f3a4454a0c416bc08775b75d959ba1f0e27c333d46a113724fc8",
   "recorded_on": "2026-11-10"
  }
 }
