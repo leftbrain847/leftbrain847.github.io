@@ -69,19 +69,33 @@
   "page": "10c587e171c7eb46285c64a43b5a5bd08f272bb493340c36e67264de4efbf612",
   "recorded_on": "2026-11-09"
  },
- "settlers": {
-  "file": "vid/settlers.webm",
-  "start": 3.258897542953491,
-  "dur": 9,
+ "nfl_roster_grader": {
+  "file": "vid/nfl_roster_grader.webm",
+  "start": 1.7167713642120361,
+  "dur": 7.0,
   "crop": [
    0.0,
-   54.1953125,
+   60.0,
    390,
    520.0
   ],
-  "script": "7a7f21b778839b171a347aefea4cb56389f3ec985f7d58bcb014104cfde97106",
-  "page": "ea3954dda93f606240069d1def401859c7e363a69172ee37ea47697408621a61",
-  "recorded_on": "2026-11-09"
+  "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
+  "page": "0578e98292450c4d5ebca3dfdef290c5212946ebd59f56f1bcbc9148ff49fc98",
+  "recorded_on": "2026-11-10"
+ },
+ "redzone": {
+  "file": "vid/redzone.webm",
+  "start": 1.7171099185943604,
+  "dur": 6.0,
+  "crop": [
+   0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
+  "page": "5e4b5ee657bb5bfcf71268a0e26cbe5ba606c6045c9ff4efc2acbb48bd841fcb",
+  "recorded_on": "2026-11-10"
  },
  "lull": {
   "file": "vid/lull.webm",
@@ -181,37 +195,23 @@
   "page": "8f3d9aa0387da4e3fe80338f8c4039b9e4292adfeb14723a5962257ea40a1d48",
   "recorded_on": "2026-11-09"
  },
- "congress": {
-  "file": "vid/congress.webm",
-  "start": 1.8741586208343506,
-  "dur": 6.0,
-  "crop": [
-   0,
-   60.0,
-   390,
-   520.0
-  ],
-  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
-  "page": "baae3990ff7847050bb0cec05e41701681df2083d769161497da8677aa269fdb",
-  "recorded_on": "2026-11-10"
- },
- "nfl_roster_grader": {
-  "file": "vid/nfl_roster_grader.webm",
-  "start": 1.7167713642120361,
-  "dur": 7.0,
+ "settlers": {
+  "file": "vid/settlers.webm",
+  "start": 2.9998648166656494,
+  "dur": 9,
   "crop": [
    0.0,
-   60.0,
+   51.6953125,
    390,
    520.0
   ],
-  "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
-  "page": "0578e98292450c4d5ebca3dfdef290c5212946ebd59f56f1bcbc9148ff49fc98",
+  "script": "7a7f21b778839b171a347aefea4cb56389f3ec985f7d58bcb014104cfde97106",
+  "page": "94fa1afe98f352d9e02a21b3d22152a6e0de77869471f9d1ef84819c8b625ef1",
   "recorded_on": "2026-11-10"
  },
- "redzone": {
-  "file": "vid/redzone.webm",
-  "start": 1.7171099185943604,
+ "congress": {
+  "file": "vid/congress.webm",
+  "start": 1.7108433246612549,
   "dur": 6.0,
   "crop": [
    0,
@@ -220,7 +220,7 @@
    520.0
   ],
   "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
-  "page": "5e4b5ee657bb5bfcf71268a0e26cbe5ba606c6045c9ff4efc2acbb48bd841fcb",
+  "page": "2fdaf2aa45cdd24ad4d7cd4b8c4f2c162b1eb16cd5b96ea2ee0bb692a4e1979f",
   "recorded_on": "2026-11-10"
  }
 }
