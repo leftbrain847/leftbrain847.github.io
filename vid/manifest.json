@@ -211,7 +211,7 @@
  },
  "nfl_roster_grader": {
   "file": "vid/nfl_roster_grader.webm",
-  "start": 1.580613136291504,
+  "start": 1.4898743629455566,
   "dur": 7.0,
   "crop": [
    0.0,
@@ -220,7 +220,7 @@
    520.0
   ],
   "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
-  "page": "a4b4696e00e0b557c30dffe22fca8a4848d02614a71c61d7240556cf8da52557",
+  "page": "0c4c84875f2b28b9abebef9c8879c45ab37638967add48adb38c87324b8abd8a",
   "recorded_on": "2026-11-10"
  }
 }
