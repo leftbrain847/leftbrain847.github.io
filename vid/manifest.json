@@ -181,18 +181,32 @@
   "page": "8f3d9aa0387da4e3fe80338f8c4039b9e4292adfeb14723a5962257ea40a1d48",
   "recorded_on": "2026-11-09"
  },
- "nfl_roster_grader": {
-  "file": "vid/nfl_roster_grader.webm",
-  "start": 0.9667572975158691,
-  "dur": 7.0,
+ "spatial_puzzles": {
+  "file": "vid/spatial_puzzles.webm",
+  "start": 6.9187774658203125,
+  "dur": 6.0,
   "crop": [
-   0.0,
+   0,
    60.0,
    390,
    520.0
   ],
-  "script": "d2bc3aef8ccc693a85f2eb8507a39f40e8eaedb47628d459b3c8046df424cd55",
-  "page": "748f01b5c3f6698cab5abd59f19c7001ae3bb9de88a27256a315d88971760602",
-  "recorded_on": "2026-11-09"
+  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
+  "page": "c097e5a4cb8062197cb90600aa3443c58e2c02840ed1e6c4352d1a29652ea511",
+  "recorded_on": "2026-11-10"
+ },
+ "congress": {
+  "file": "vid/congress.webm",
+  "start": 1.8741586208343506,
+  "dur": 6.0,
+  "crop": [
+   0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
+  "page": "baae3990ff7847050bb0cec05e41701681df2083d769161497da8677aa269fdb",
+  "recorded_on": "2026-11-10"
  }
 }
