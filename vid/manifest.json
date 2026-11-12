@@ -1,4 +1,18 @@
 {
+ "statl": {
+  "file": "vid/statl.webm",
+  "start": 1.0342602729797363,
+  "dur": 8.0,
+  "crop": [
+   0.0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "bcc0759385dfc0602becfb3c0b2dc0dfe64d403d68a8addac72e6f917f4b65e2",
+  "page": "e6d61d96b346c008e303338a3c8d628fdea063e562794e125a806c9c5f1cf3e7",
+  "recorded_on": "2026-11-11"
+ },
  "linear_algebra": {
   "file": "vid/linear_algebra.webm",
   "start": 2.3942878246307373,
@@ -68,20 +82,6 @@
   "script": "8201c99ea7746aae54ac18e9c06a50936c1dc6b2df022dce51719e55cd20fb9c",
   "page": "10c587e171c7eb46285c64a43b5a5bd08f272bb493340c36e67264de4efbf612",
   "recorded_on": "2026-11-09"
- },
- "nfl_roster_grader": {
-  "file": "vid/nfl_roster_grader.webm",
-  "start": 1.4898743629455566,
-  "dur": 7.0,
-  "crop": [
-   0.0,
-   60.0,
-   390,
-   520.0
-  ],
-  "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
-  "page": "0c4c84875f2b28b9abebef9c8879c45ab37638967add48adb38c87324b8abd8a",
-  "recorded_on": "2026-11-10"
  },
  "redzone": {
   "file": "vid/redzone.webm",
@@ -223,18 +223,32 @@
   "page": "71463886f6948a6f7de6f9e79353d427a5fde3af3b3fda74549b5696d83696b3",
   "recorded_on": "2026-11-10"
  },
- "statl": {
-  "file": "vid/statl.webm",
-  "start": 1.0342602729797363,
-  "dur": 8.0,
+ "nfl_roster_grader": {
+  "file": "vid/nfl_roster_grader.webm",
+  "start": 1.6244299411773682,
+  "dur": 7.0,
   "crop": [
    0.0,
    60.0,
    390,
    520.0
   ],
-  "script": "bcc0759385dfc0602becfb3c0b2dc0dfe64d403d68a8addac72e6f917f4b65e2",
-  "page": "e6d61d96b346c008e303338a3c8d628fdea063e562794e125a806c9c5f1cf3e7",
-  "recorded_on": "2026-11-11"
+  "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
+  "page": "f3eb9319ec7a3de3a40544f3a5ad60df3ec34c4696fbd11f5cbe11b8b12e1d84",
+  "recorded_on": "2026-11-12"
+ },
+ "world_radio": {
+  "file": "vid/world_radio.webm",
+  "start": 1.5567572116851807,
+  "dur": 6.0,
+  "crop": [
+   0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
+  "page": "99ecf8a735c74a1d87ef8bc8e376675f16d5cc16c77e3c20f53ce860ee9d61b9",
+  "recorded_on": "2026-11-12"
  }
 }
