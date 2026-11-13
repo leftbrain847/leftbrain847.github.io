@@ -83,19 +83,19 @@
   "page": "10c587e171c7eb46285c64a43b5a5bd08f272bb493340c36e67264de4efbf612",
   "recorded_on": "2026-11-09"
  },
- "nfl_roster_grader": {
-  "file": "vid/nfl_roster_grader.webm",
-  "start": 1.5935776233673096,
-  "dur": 7.0,
+ "recession_forecast": {
+  "file": "vid/recession_forecast.webm",
+  "start": 1.5629403591156006,
+  "dur": 6.0,
   "crop": [
-   0.0,
+   0,
    60.0,
    390,
    520.0
   ],
-  "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
-  "page": "ff6830cc96ea354ae09a258229b2d0b8ad7a0e0785ee4770591bd70e2f68f643",
-  "recorded_on": "2026-11-12"
+  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
+  "page": "29c599506984b6229d9fd993121976dc26eff039e1f544e0cd385003e548c4b5",
+  "recorded_on": "2026-11-13"
  },
  "redzone": {
   "file": "vid/redzone.webm",
@@ -251,18 +251,18 @@
   "page": "99ecf8a735c74a1d87ef8bc8e376675f16d5cc16c77e3c20f53ce860ee9d61b9",
   "recorded_on": "2026-11-12"
  },
- "recession_forecast": {
-  "file": "vid/recession_forecast.webm",
-  "start": 1.5629403591156006,
-  "dur": 6.0,
+ "nfl_roster_grader": {
+  "file": "vid/nfl_roster_grader.webm",
+  "start": 1.5897622108459473,
+  "dur": 7.0,
   "crop": [
-   0,
+   0.0,
    60.0,
    390,
    520.0
   ],
-  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
-  "page": "29c599506984b6229d9fd993121976dc26eff039e1f544e0cd385003e548c4b5",
+  "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
+  "page": "7c14e43ef03164c36a6f83fb427ecc4f5f8c3e11a41e0b5414a31fd5303f8b7e",
   "recorded_on": "2026-11-13"
  }
 }
