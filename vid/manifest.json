@@ -265,20 +265,6 @@
   "page": "99ecf8a735c74a1d87ef8bc8e376675f16d5cc16c77e3c20f53ce860ee9d61b9",
   "recorded_on": "2026-11-12"
  },
- "spatial_puzzles": {
-  "file": "vid/spatial_puzzles.webm",
-  "start": 7.664478063583374,
-  "dur": 6.0,
-  "crop": [
-   0,
-   60.0,
-   390,
-   520.0
-  ],
-  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
-  "page": "d3e6bf0f6526bc42e4f66da9d4182edcb6798c29865e23bb3cd640add9aa5b94",
-  "recorded_on": "2026-11-14"
- },
  "garden_party": {
   "file": "vid/garden_party.webm",
   "start": 2.0543878078460693,
@@ -291,6 +277,20 @@
   ],
   "script": "3002f9e5b0163e3ad6f6c50d2bc58bda081a170d8b591ea8d4f0778c642289b9",
   "page": "2234b25edf6fc33dc0fcfc420cd5ab4dcf5e5140fc11eb338d6ec9367f2bf484",
+  "recorded_on": "2026-11-14"
+ },
+ "spatial_puzzles": {
+  "file": "vid/spatial_puzzles.webm",
+  "start": 6.6583709716796875,
+  "dur": 6.0,
+  "crop": [
+   0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
+  "page": "c097e5a4cb8062197cb90600aa3443c58e2c02840ed1e6c4352d1a29652ea511",
   "recorded_on": "2026-11-14"
  }
 }
