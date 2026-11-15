@@ -9,6 +9,7 @@ each fonts/*.css (Google's CSS for that page) points its font URLs at the copies
 | fonts-field-guide | Google Fonts (pinned files) | OFL-1.1 | https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,750&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap |
 | fonts-linear-algebra | Google Fonts (pinned files) | OFL-1.1 | https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=JetBrains+Mono:wght@500;700&display=swap |
 | fonts-lull | Google Fonts (pinned files) | OFL-1.1 | https://fonts.googleapis.com/css2?family=Marcellus&family=Figtree:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap |
+| fonts-project-index | Google Fonts (pinned files) | OFL-1.1 | https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap |
 | mediapipe-tasks-vision-loader | 0.10.35 | Apache-2.0 | https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision@0.10.35/wasm/vision_wasm_internal.js |
 
 ## License texts
