@@ -97,20 +97,6 @@
   "page": "29c599506984b6229d9fd993121976dc26eff039e1f544e0cd385003e548c4b5",
   "recorded_on": "2026-11-13"
  },
- "nfl_roster_grader": {
-  "file": "vid/nfl_roster_grader.webm",
-  "start": 1.5425395965576172,
-  "dur": 7.0,
-  "crop": [
-   0.0,
-   60.0,
-   390,
-   520.0
-  ],
-  "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
-  "page": "b3bae9c96baa04b4e89bca26c50ef60905cdd717ed8dbda07b671c4b54aa70db",
-  "recorded_on": "2026-11-15"
- },
  "redzone": {
   "file": "vid/redzone.webm",
   "start": 1.7171099185943604,
@@ -209,20 +195,6 @@
   "page": "2d33d11a1c472a305136547aecd327a6a585219e8e59754b8c70b0ca3b473b95",
   "recorded_on": "2026-11-09"
  },
- "spatial_puzzles": {
-  "file": "vid/spatial_puzzles.webm",
-  "start": 6.739561319351196,
-  "dur": 6.0,
-  "crop": [
-   0,
-   60.0,
-   390,
-   520.0
-  ],
-  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
-  "page": "c097e5a4cb8062197cb90600aa3443c58e2c02840ed1e6c4352d1a29652ea511",
-  "recorded_on": "2026-11-16"
- },
  "sound_jam_band": {
   "file": "vid/sound_jam_band.webm",
   "start": 2.307236433029175,
@@ -306,5 +278,19 @@
   "script": "3002f9e5b0163e3ad6f6c50d2bc58bda081a170d8b591ea8d4f0778c642289b9",
   "page": "af120339fb8c15f6ca50b4cd573ec02ab3097bd06917df3bc640a23ab118c2cd",
   "recorded_on": "2026-11-15"
+ },
+ "nfl_roster_grader": {
+  "file": "vid/nfl_roster_grader.webm",
+  "start": 1.7898216247558594,
+  "dur": 7.0,
+  "crop": [
+   0.0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
+  "page": "4cf9328da15633f897fe4dbba6fe044218a09268e53c8a075f8b1d57d319a9bd",
+  "recorded_on": "2026-11-16"
  }
 }
