@@ -1,0 +1,586 @@
+{
+ "word": "saludos y despedidas",
+ "slug": "saludos_y_despedidas",
+ "kind": "concept",
+ "hash": "c7b2f9ff266bdbb6",
+ "duration": 456.624,
+ "voice": "dora",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 6.527,
+   "es": "Hola, ¿qué tal?",
+   "group": "saludar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 6.527,
+   "end": 13.257,
+   "es": "Buenas, ¿cómo estás?",
+   "group": "saludar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 13.257,
+   "end": 19.092,
+   "es": "¿Cómo te va?",
+   "group": "saludar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 19.092,
+   "end": 25.673,
+   "es": "Hola, ¿cómo andas?",
+   "group": "saludar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 25.673,
+   "end": 31.529,
+   "es": "¿Todo bien?",
+   "group": "saludar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 31.529,
+   "end": 37.471,
+   "es": "¿Qué cuentas?",
+   "group": "saludar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 37.471,
+   "end": 43.817,
+   "es": "¿Qué hay de nuevo?",
+   "group": "saludar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 7,
+   "start": 43.817,
+   "end": 50.612,
+   "es": "¡Hola, cuánto tiempo!",
+   "group": "saludar",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 8,
+   "start": 50.612,
+   "end": 57.044,
+   "es": "¡Qué gusto verte!",
+   "group": "saludar",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 9,
+   "start": 58.544,
+   "end": 65.296,
+   "es": "Muy bien, gracias.",
+   "group": "responder",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 65.296,
+   "end": 71.557,
+   "es": "Aquí, tranquilo.",
+   "group": "responder",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 71.557,
+   "end": 78.907,
+   "es": "Más o menos, la verdad.",
+   "group": "responder",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 78.907,
+   "end": 87.259,
+   "es": "Bastante bien, un poco cansado.",
+   "group": "responder",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 87.259,
+   "end": 94.779,
+   "es": "Nada nuevo, lo de siempre.",
+   "group": "responder",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 14,
+   "start": 94.779,
+   "end": 100.549,
+   "es": "Ahí vamos.",
+   "group": "responder",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 15,
+   "start": 102.049,
+   "end": 107.991,
+   "es": "Bien, ¿y tú?",
+   "group": "devolver la pregunta",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 16,
+   "start": 107.991,
+   "end": 115.788,
+   "es": "Todo tranquilo, ¿y tú qué tal?",
+   "group": "devolver la pregunta",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 17,
+   "start": 115.788,
+   "end": 123.543,
+   "es": "Muy bien, ¿y a ti cómo te va?",
+   "group": "devolver la pregunta",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 18,
+   "start": 123.543,
+   "end": 131.788,
+   "es": "Bien, gracias, ¿y tú cómo estás?",
+   "group": "devolver la pregunta",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 19,
+   "start": 131.788,
+   "end": 139.671,
+   "es": "Pues aquí, trabajando, ¿y tú?",
+   "group": "devolver la pregunta",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 20,
+   "start": 139.671,
+   "end": 148.151,
+   "es": "Aquí, como siempre, ¿y tú qué cuentas?",
+   "group": "devolver la pregunta",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 149.651,
+   "end": 155.592,
+   "es": "Hasta luego.",
+   "group": "decir adiós",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 22,
+   "start": 155.592,
+   "end": 161.256,
+   "es": "Nos vemos.",
+   "group": "decir adiós",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 23,
+   "start": 161.256,
+   "end": 167.88,
+   "es": "Nos vemos mañana.",
+   "group": "decir adiós",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 24,
+   "start": 167.88,
+   "end": 174.888,
+   "es": "Nos vemos otro día.",
+   "group": "decir adiós",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 25,
+   "start": 174.888,
+   "end": 181.171,
+   "es": "Hablamos luego.",
+   "group": "decir adiós",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 26,
+   "start": 181.171,
+   "end": 187.24,
+   "es": "Hasta pronto.",
+   "group": "decir adiós",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 27,
+   "start": 187.24,
+   "end": 193.928,
+   "es": "Te escribo luego.",
+   "group": "decir adiós",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 28,
+   "start": 195.428,
+   "end": 201.455,
+   "es": "Igualmente.",
+   "group": "responder a una despedida",
+   "group_index": 4,
+   "level": "A1"
+  },
+  {
+   "i": 29,
+   "start": 201.455,
+   "end": 208.399,
+   "es": "Tú también, cuídate.",
+   "group": "responder a una despedida",
+   "group_index": 4,
+   "level": "A1"
+  },
+  {
+   "i": 30,
+   "start": 208.399,
+   "end": 215.471,
+   "es": "De acuerdo, nos vemos.",
+   "group": "responder a una despedida",
+   "group_index": 4,
+   "level": "A1"
+  },
+  {
+   "i": 31,
+   "start": 215.471,
+   "end": 222.948,
+   "es": "Gracias, lo mismo digo.",
+   "group": "responder a una despedida",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 222.948,
+   "end": 229.487,
+   "es": "El gusto fue mío.",
+   "group": "responder a una despedida",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 229.487,
+   "end": 237.455,
+   "es": "Gracias, yo les doy tus saludos.",
+   "group": "responder a una despedida",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 237.455,
+   "end": 244.996,
+   "es": "Hasta luego, que estés bien.",
+   "group": "responder a una despedida",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 246.496,
+   "end": 252.096,
+   "es": "¡Qué bien!",
+   "group": "reaccionar a la respuesta",
+   "group_index": 5,
+   "level": "A1"
+  },
+  {
+   "i": 36,
+   "start": 252.096,
+   "end": 258.08,
+   "es": "Ay, qué pena.",
+   "group": "reaccionar a la respuesta",
+   "group_index": 5,
+   "level": "A1"
+  },
+  {
+   "i": 37,
+   "start": 258.08,
+   "end": 266.944,
+   "es": "Te entiendo, yo también estoy cansado.",
+   "group": "reaccionar a la respuesta",
+   "group_index": 5,
+   "level": "A1"
+  },
+  {
+   "i": 38,
+   "start": 266.944,
+   "end": 273.44,
+   "es": "Me alegro mucho.",
+   "group": "reaccionar a la respuesta",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 273.44,
+   "end": 281.323,
+   "es": "Me alegro de que te vaya bien.",
+   "group": "reaccionar a la respuesta",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 40,
+   "start": 281.323,
+   "end": 288.992,
+   "es": "Espero que todo siga bien.",
+   "group": "reaccionar a la respuesta",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 41,
+   "start": 290.492,
+   "end": 296.903,
+   "es": "¿Qué tal tu día?",
+   "group": "preguntar cómo va todo",
+   "group_index": 6,
+   "level": "A1"
+  },
+  {
+   "i": 42,
+   "start": 296.903,
+   "end": 303.847,
+   "es": "¿Qué tal el trabajo?",
+   "group": "preguntar cómo va todo",
+   "group_index": 6,
+   "level": "A1"
+  },
+  {
+   "i": 43,
+   "start": 303.847,
+   "end": 310.577,
+   "es": "¿Qué tal la familia?",
+   "group": "preguntar cómo va todo",
+   "group_index": 6,
+   "level": "A1"
+  },
+  {
+   "i": 44,
+   "start": 310.577,
+   "end": 317.799,
+   "es": "¿Cómo va todo en casa?",
+   "group": "preguntar cómo va todo",
+   "group_index": 6,
+   "level": "A1"
+  },
+  {
+   "i": 45,
+   "start": 317.799,
+   "end": 324.508,
+   "es": "¿Cómo va la semana?",
+   "group": "preguntar cómo va todo",
+   "group_index": 6,
+   "level": "A1"
+  },
+  {
+   "i": 46,
+   "start": 324.508,
+   "end": 332.284,
+   "es": "¿Cómo te fue el fin de semana?",
+   "group": "preguntar cómo va todo",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 47,
+   "start": 332.284,
+   "end": 339.804,
+   "es": "¿Qué has hecho estos días?",
+   "group": "preguntar cómo va todo",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 48,
+   "start": 339.804,
+   "end": 346.428,
+   "es": "¿Cómo has estado?",
+   "group": "preguntar cómo va todo",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 49,
+   "start": 347.928,
+   "end": 354.317,
+   "es": "Bueno, te dejo.",
+   "group": "avisar que te vas",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 50,
+   "start": 354.317,
+   "end": 360.728,
+   "es": "Me tengo que ir.",
+   "group": "avisar que te vas",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 51,
+   "start": 360.728,
+   "end": 367.757,
+   "es": "Ya me voy, que es tarde.",
+   "group": "avisar que te vas",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 52,
+   "start": 367.757,
+   "end": 374.723,
+   "es": "Bueno, me voy yendo.",
+   "group": "avisar que te vas",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 53,
+   "start": 374.723,
+   "end": 381.347,
+   "es": "Bueno, me despido.",
+   "group": "avisar que te vas",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 54,
+   "start": 381.347,
+   "end": 390.573,
+   "es": "Te dejo, que seguro tienes cosas que hacer.",
+   "group": "avisar que te vas",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 55,
+   "start": 390.573,
+   "end": 398.52,
+   "es": "Bueno, no te quito más tiempo.",
+   "group": "avisar que te vas",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 400.02,
+   "end": 406.345,
+   "es": "Cuídate mucho.",
+   "group": "buenos deseos",
+   "group_index": 8,
+   "level": "A1"
+  },
+  {
+   "i": 57,
+   "start": 406.345,
+   "end": 413.076,
+   "es": "Buen fin de semana.",
+   "group": "buenos deseos",
+   "group_index": 8,
+   "level": "A1"
+  },
+  {
+   "i": 58,
+   "start": 413.076,
+   "end": 419.593,
+   "es": "Que te vaya bien.",
+   "group": "buenos deseos",
+   "group_index": 8,
+   "level": "A2"
+  },
+  {
+   "i": 59,
+   "start": 419.593,
+   "end": 426.58,
+   "es": "Que tengas buen día.",
+   "group": "buenos deseos",
+   "group_index": 8,
+   "level": "A2"
+  },
+  {
+   "i": 60,
+   "start": 426.58,
+   "end": 433.673,
+   "es": "Saludos a tu familia.",
+   "group": "buenos deseos",
+   "group_index": 8,
+   "level": "A2"
+  },
+  {
+   "i": 61,
+   "start": 433.673,
+   "end": 440.404,
+   "es": "Fue un gusto verte.",
+   "group": "buenos deseos",
+   "group_index": 8,
+   "level": "A2"
+  },
+  {
+   "i": 62,
+   "start": 440.404,
+   "end": 448.415,
+   "es": "Que tengas una buena semana.",
+   "group": "buenos deseos",
+   "group_index": 8,
+   "level": "A2"
+  },
+  {
+   "i": 63,
+   "start": 448.415,
+   "end": 456.553,
+   "es": "Que disfrutes el resto del día.",
+   "group": "buenos deseos",
+   "group_index": 8,
+   "level": "B1"
+  }
+ ]
+}

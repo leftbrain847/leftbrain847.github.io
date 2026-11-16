@@ -1,0 +1,577 @@
+{
+ "word": "igual",
+ "slug": "igual",
+ "kind": "word",
+ "hash": "c1b4331c1db369d7",
+ "duration": 548.904,
+ "voice": "alex",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 8.916,
+   "es": "Mi camisa es igual a la tuya.",
+   "group": "igual e iguales",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 8.916,
+   "end": 16.841,
+   "es": "Las dos casas son iguales.",
+   "group": "igual e iguales",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 16.841,
+   "end": 24.937,
+   "es": "Tu bolso es igual al mío.",
+   "group": "igual e iguales",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 24.937,
+   "end": 33.268,
+   "es": "Los gemelos son casi iguales.",
+   "group": "igual e iguales",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 33.268,
+   "end": 41.535,
+   "es": "Estos zapatos no son iguales.",
+   "group": "igual e iguales",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 41.535,
+   "end": 49.353,
+   "es": "Todos los días son iguales.",
+   "group": "igual e iguales",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 49.353,
+   "end": 58.431,
+   "es": "Mi teléfono es igual al de mi hermano.",
+   "group": "igual e iguales",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 7,
+   "start": 58.431,
+   "end": 66.335,
+   "es": "Las dos tazas son iguales.",
+   "group": "igual e iguales",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 8,
+   "start": 67.835,
+   "end": 75.589,
+   "es": "Hablas igual que tu madre.",
+   "group": "igual que",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 75.589,
+   "end": 83.813,
+   "es": "Ella canta igual que su abuela.",
+   "group": "igual que",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 83.813,
+   "end": 91.547,
+   "es": "Mi hijo come igual que yo.",
+   "group": "igual que",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 91.547,
+   "end": 99.536,
+   "es": "Hoy hace frío, igual que ayer.",
+   "group": "igual que",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 99.536,
+   "end": 106.587,
+   "es": "Pienso igual que tú.",
+   "group": "igual que",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 106.587,
+   "end": 114.597,
+   "es": "Él trabaja igual que siempre.",
+   "group": "igual que",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 14,
+   "start": 114.597,
+   "end": 123.909,
+   "es": "La casa está igual que hace diez años.",
+   "group": "igual que",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 15,
+   "start": 123.909,
+   "end": 132.219,
+   "es": "Lo hice igual que la última vez.",
+   "group": "igual que",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 16,
+   "start": 133.719,
+   "end": 142.647,
+   "es": "Las dos películas son igual de largas.",
+   "group": "igual de + adjetivo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 17,
+   "start": 142.647,
+   "end": 151.511,
+   "es": "Mi hermano es igual de alto que yo.",
+   "group": "igual de + adjetivo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 18,
+   "start": 151.511,
+   "end": 161.249,
+   "es": "Este restaurante es igual de caro que el otro.",
+   "group": "igual de + adjetivo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 19,
+   "start": 161.249,
+   "end": 170.988,
+   "es": "Los dos exámenes fueron igual de difíciles.",
+   "group": "igual de + adjetivo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 20,
+   "start": 170.988,
+   "end": 180.471,
+   "es": "Ella es igual de simpática que su hermana.",
+   "group": "igual de + adjetivo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 180.471,
+   "end": 190.039,
+   "es": "El tren y el autobús son igual de rápidos.",
+   "group": "igual de + adjetivo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 190.039,
+   "end": 199.5,
+   "es": "Hoy el tráfico está igual de mal que ayer.",
+   "group": "igual de + adjetivo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 23,
+   "start": 199.5,
+   "end": 208.94,
+   "es": "Los dos trabajos son igual de importantes.",
+   "group": "igual de + adjetivo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 24,
+   "start": 210.44,
+   "end": 216.723,
+   "es": "Me da igual.",
+   "group": "me da igual y es igual",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 25,
+   "start": 216.723,
+   "end": 223.965,
+   "es": "Me da igual el color.",
+   "group": "me da igual y es igual",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 26,
+   "start": 223.965,
+   "end": 231.72,
+   "es": "Da igual, mañana lo hacemos.",
+   "group": "me da igual y es igual",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 231.72,
+   "end": 240.2,
+   "es": "A mi padre le da igual la música.",
+   "group": "me da igual y es igual",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 240.2,
+   "end": 248.829,
+   "es": "¿Te da igual comer en casa o fuera?",
+   "group": "me da igual y es igual",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 248.829,
+   "end": 256.328,
+   "es": "Es igual, no pasa nada.",
+   "group": "me da igual y es igual",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 256.328,
+   "end": 263.827,
+   "es": "Nos da igual el lugar.",
+   "group": "me da igual y es igual",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 263.827,
+   "end": 271.987,
+   "es": "A ellos les da igual el precio.",
+   "group": "me da igual y es igual",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 271.987,
+   "end": 281.427,
+   "es": "Ese día me daba igual perder el partido.",
+   "group": "me da igual y es igual",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 281.427,
+   "end": 288.584,
+   "es": "A mí no me da igual.",
+   "group": "me da igual y es igual",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 288.584,
+   "end": 297.213,
+   "es": "Da igual si llueve, vamos a salir.",
+   "group": "me da igual y es igual",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 298.713,
+   "end": 307.385,
+   "es": "La madre quiere a sus hijos por igual.",
+   "group": "por igual",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 36,
+   "start": 307.385,
+   "end": 315.652,
+   "es": "Dividimos la cuenta por igual.",
+   "group": "por igual",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 37,
+   "start": 315.652,
+   "end": 325.241,
+   "es": "En casa repartimos las tareas por igual.",
+   "group": "por igual",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 38,
+   "start": 325.241,
+   "end": 333.231,
+   "es": "La ley es para todos por igual.",
+   "group": "por igual",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 39,
+   "start": 333.231,
+   "end": 343.673,
+   "es": "Las ganancias se reparten por igual entre los socios.",
+   "group": "por igual",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 40,
+   "start": 343.673,
+   "end": 352.047,
+   "es": "El calor afecta a todos por igual.",
+   "group": "por igual",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 41,
+   "start": 353.547,
+   "end": 361.963,
+   "es": "Al igual que tú, prefiero el campo.",
+   "group": "al igual que",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 42,
+   "start": 361.963,
+   "end": 370.315,
+   "es": "Al igual que su padre, es médico.",
+   "group": "al igual que",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 43,
+   "start": 370.315,
+   "end": 381.077,
+   "es": "Al igual que el año pasado, vamos a la playa en agosto.",
+   "group": "al igual que",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 44,
+   "start": 381.077,
+   "end": 391.371,
+   "es": "Ella, al igual que su hermano, habla tres idiomas.",
+   "group": "al igual que",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 45,
+   "start": 391.371,
+   "end": 401.771,
+   "es": "Al igual que muchas personas, trabajo desde casa.",
+   "group": "al igual que",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 46,
+   "start": 401.771,
+   "end": 410.763,
+   "es": "Al igual que ayer, el tren llegó tarde.",
+   "group": "al igual que",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 47,
+   "start": 410.763,
+   "end": 421.013,
+   "es": "Al igual que en otros países, aquí la comida es cara.",
+   "group": "al igual que",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 422.513,
+   "end": 429.756,
+   "es": "Igual llueve mañana.",
+   "group": "igual: quizás",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 429.756,
+   "end": 438.385,
+   "es": "Igual vamos al cine esta noche.",
+   "group": "igual: quizás",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 50,
+   "start": 438.385,
+   "end": 446.204,
+   "es": "Igual no viene a la fiesta.",
+   "group": "igual: quizás",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 446.204,
+   "end": 454.257,
+   "es": "Llámalo, igual está en casa.",
+   "group": "igual: quizás",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 454.257,
+   "end": 461.393,
+   "es": "Igual tienes razón.",
+   "group": "igual: quizás",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 461.393,
+   "end": 469.809,
+   "es": "Igual llegamos un poco tarde.",
+   "group": "igual: quizás",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 469.809,
+   "end": 477.863,
+   "es": "No sé, igual me quedo en casa.",
+   "group": "igual: quizás",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 477.863,
+   "end": 486.62,
+   "es": "Pregunta en la tienda, igual lo tienen.",
+   "group": "igual: quizás",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 488.12,
+   "end": 496.963,
+   "es": "Es un lugar de una belleza sin igual.",
+   "group": "sin igual y no tener igual",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 57,
+   "start": 496.963,
+   "end": 506.189,
+   "es": "Tiene un talento sin igual para la música.",
+   "group": "sin igual y no tener igual",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 58,
+   "start": 506.189,
+   "end": 514.115,
+   "es": "Esta comida no tiene igual.",
+   "group": "sin igual y no tener igual",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 59,
+   "start": 514.115,
+   "end": 522.04,
+   "es": "Fue una experiencia sin igual.",
+   "group": "sin igual y no tener igual",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 60,
+   "start": 522.04,
+   "end": 531.395,
+   "es": "Mi abuela tenía una paciencia sin igual.",
+   "group": "sin igual y no tener igual",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 61,
+   "start": 531.395,
+   "end": 539.171,
+   "es": "Es un cantante sin igual.",
+   "group": "sin igual y no tener igual",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 62,
+   "start": 539.171,
+   "end": 548.845,
+   "es": "La vista desde esta montaña no tiene igual.",
+   "group": "sin igual y no tener igual",
+   "group_index": 7,
+   "level": "B1"
+  }
+ ]
+}

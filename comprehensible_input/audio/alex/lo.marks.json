@@ -1,0 +1,568 @@
+{
+ "word": "lo",
+ "slug": "lo",
+ "kind": "word",
+ "hash": "fb6b10ffb976dc92",
+ "duration": 498.312,
+ "voice": "alex",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 10.047,
+   "es": "¿Conoces a Pedro? Sí, lo conozco del trabajo.",
+   "group": "lo, a él o a eso",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 10.047,
+   "end": 17.844,
+   "es": "¿El café? Lo tomo sin azúcar.",
+   "group": "lo, a él o a eso",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 17.844,
+   "end": 26.9,
+   "es": "Mi hermano está en casa, lo llamo ahora.",
+   "group": "lo, a él o a eso",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 26.9,
+   "end": 35.359,
+   "es": "Este vestido es bonito, lo compro.",
+   "group": "lo, a él o a eso",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 35.359,
+   "end": 44.201,
+   "es": "No encuentro mi teléfono, ¿lo tienes tú?",
+   "group": "lo, a él o a eso",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 44.201,
+   "end": 52.767,
+   "es": "El pan está aquí, lo pongo en la mesa.",
+   "group": "lo, a él o a eso",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 52.767,
+   "end": 62.825,
+   "es": "Mi abuelo vive lejos, pero lo visito los domingos.",
+   "group": "lo, a él o a eso",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 7,
+   "start": 62.825,
+   "end": 71.668,
+   "es": "El auto está sucio, lo lavo mañana.",
+   "group": "lo, a él o a eso",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 8,
+   "start": 71.668,
+   "end": 79.593,
+   "es": "¿Dónde está el perro? No lo veo.",
+   "group": "lo, a él o a eso",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 81.093,
+   "end": 86.821,
+   "es": "No lo sé.",
+   "group": "lo sé, no lo sé",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 86.821,
+   "end": 92.613,
+   "es": "Ya lo sé.",
+   "group": "lo sé, no lo sé",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 92.613,
+   "end": 99.536,
+   "es": "Lo sé, tienes razón.",
+   "group": "lo sé, no lo sé",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 99.536,
+   "end": 108.144,
+   "es": "¿Sabes dónde vive Ana? No, no lo sé.",
+   "group": "lo sé, no lo sé",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 108.144,
+   "end": 114.064,
+   "es": "No lo creo.",
+   "group": "lo sé, no lo sé",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 14,
+   "start": 114.064,
+   "end": 120.688,
+   "es": "Lo siento mucho.",
+   "group": "lo sé, no lo sé",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 15,
+   "start": 120.688,
+   "end": 126.693,
+   "es": "¿Lo entiendes?",
+   "group": "lo sé, no lo sé",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 16,
+   "start": 126.693,
+   "end": 132.827,
+   "es": "Te lo prometo.",
+   "group": "lo sé, no lo sé",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 17,
+   "start": 134.327,
+   "end": 141.74,
+   "es": "Voy a comprarlo mañana.",
+   "group": "comprarlo, tómalo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 18,
+   "start": 141.74,
+   "end": 149.58,
+   "es": "¿Puedes repetirlo, por favor?",
+   "group": "comprarlo, tómalo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 19,
+   "start": 149.58,
+   "end": 156.865,
+   "es": "Quiero verlo otra vez.",
+   "group": "comprarlo, tómalo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 20,
+   "start": 156.865,
+   "end": 163.617,
+   "es": "Tómalo, es para ti.",
+   "group": "comprarlo, tómalo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 163.617,
+   "end": 171.137,
+   "es": "Pruébalo, está muy rico.",
+   "group": "comprarlo, tómalo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 171.137,
+   "end": 177.889,
+   "es": "Estoy pensándolo.",
+   "group": "comprarlo, tómalo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 23,
+   "start": 177.889,
+   "end": 187.201,
+   "es": "Tengo que terminarlo antes del viernes.",
+   "group": "comprarlo, tómalo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 24,
+   "start": 187.201,
+   "end": 193.996,
+   "es": "Ábrelo con cuidado.",
+   "group": "comprarlo, tómalo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 25,
+   "start": 193.996,
+   "end": 202.305,
+   "es": "Necesito leerlo dos veces.",
+   "group": "comprarlo, tómalo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 203.805,
+   "end": 211.688,
+   "es": "Lo que necesito es dormir.",
+   "group": "lo que",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 211.688,
+   "end": 219.144,
+   "es": "No entiendo lo que dices.",
+   "group": "lo que",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 219.144,
+   "end": 226.856,
+   "es": "Esto es lo que compré ayer.",
+   "group": "lo que",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 226.856,
+   "end": 235.357,
+   "es": "Lo que más me gusta es la playa.",
+   "group": "lo que",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 235.357,
+   "end": 241.939,
+   "es": "Dime lo que pasó.",
+   "group": "lo que",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 241.939,
+   "end": 250.312,
+   "es": "Lo que pasa es que estoy cansado.",
+   "group": "lo que",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 250.312,
+   "end": 258.472,
+   "es": "Gracias por todo lo que hiciste.",
+   "group": "lo que",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 258.472,
+   "end": 265.885,
+   "es": "No sé lo que voy a hacer.",
+   "group": "lo que",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 265.885,
+   "end": 273.981,
+   "es": "Todo lo que dijo era verdad.",
+   "group": "lo que",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 273.981,
+   "end": 280.477,
+   "es": "Haz lo que quieras.",
+   "group": "lo que",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 36,
+   "start": 281.977,
+   "end": 288.857,
+   "es": "Yo quiero lo mismo.",
+   "group": "a lo mejor, lo mismo, por lo menos",
+   "group_index": 4,
+   "level": "A1"
+  },
+  {
+   "i": 37,
+   "start": 288.857,
+   "end": 296.42,
+   "es": "A lo mejor llueve mañana.",
+   "group": "a lo mejor, lo mismo, por lo menos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 38,
+   "start": 296.42,
+   "end": 303.876,
+   "es": "A lo mejor tienes razón.",
+   "group": "a lo mejor, lo mismo, por lo menos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 303.876,
+   "end": 311.225,
+   "es": "Siempre dice lo mismo.",
+   "group": "a lo mejor, lo mismo, por lo menos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 40,
+   "start": 311.225,
+   "end": 317.743,
+   "es": "Me da lo mismo.",
+   "group": "a lo mejor, lo mismo, por lo menos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 41,
+   "start": 317.743,
+   "end": 324.985,
+   "es": "Por lo menos come algo.",
+   "group": "a lo mejor, lo mismo, por lo menos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 324.985,
+   "end": 334.255,
+   "es": "Llegamos tarde, pero por lo menos llegamos.",
+   "group": "a lo mejor, lo mismo, por lo menos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 43,
+   "start": 334.255,
+   "end": 342.948,
+   "es": "Necesito por lo menos dos horas.",
+   "group": "a lo mejor, lo mismo, por lo menos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 44,
+   "start": 342.948,
+   "end": 351.3,
+   "es": "Por lo general, desayuno en casa.",
+   "group": "a lo mejor, lo mismo, por lo menos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 45,
+   "start": 352.8,
+   "end": 360.149,
+   "es": "Lo bueno es que hace sol.",
+   "group": "lo bueno, lo importante",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 46,
+   "start": 360.149,
+   "end": 367.243,
+   "es": "Lo malo es el precio.",
+   "group": "lo bueno, lo importante",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 47,
+   "start": 367.243,
+   "end": 375.595,
+   "es": "Lo importante es estar juntos.",
+   "group": "lo bueno, lo importante",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 48,
+   "start": 375.595,
+   "end": 384.011,
+   "es": "Lo mejor del viaje fue la comida.",
+   "group": "lo bueno, lo importante",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 49,
+   "start": 384.011,
+   "end": 390.976,
+   "es": "Lo peor ya pasó.",
+   "group": "lo bueno, lo importante",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 50,
+   "start": 390.976,
+   "end": 398.603,
+   "es": "Lo difícil es empezar.",
+   "group": "lo bueno, lo importante",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 51,
+   "start": 398.603,
+   "end": 407.125,
+   "es": "Lo más importante es la salud.",
+   "group": "lo bueno, lo importante",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 52,
+   "start": 407.125,
+   "end": 415.243,
+   "es": "Lo raro es que nadie contestó.",
+   "group": "lo bueno, lo importante",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 53,
+   "start": 415.243,
+   "end": 423.872,
+   "es": "Lo bueno de esta ciudad es el clima.",
+   "group": "lo bueno, lo importante",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 54,
+   "start": 425.372,
+   "end": 434.321,
+   "es": "No sabes lo rápido que corre mi hija.",
+   "group": "lo rápido que",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 434.321,
+   "end": 443.463,
+   "es": "Me sorprende lo bien que hablas español.",
+   "group": "lo rápido que",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 443.463,
+   "end": 451.516,
+   "es": "Mira lo grande que está tu hijo.",
+   "group": "lo rápido que",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 57,
+   "start": 451.516,
+   "end": 460.465,
+   "es": "No te imaginas lo cansada que estoy.",
+   "group": "lo rápido que",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 58,
+   "start": 460.465,
+   "end": 470.311,
+   "es": "Ya ves lo difícil que es encontrar trabajo.",
+   "group": "lo rápido que",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 59,
+   "start": 470.311,
+   "end": 478.919,
+   "es": "Es increíble lo caro que está todo.",
+   "group": "lo rápido que",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 60,
+   "start": 478.919,
+   "end": 488.401,
+   "es": "Me encanta lo tranquilo que es este barrio.",
+   "group": "lo rápido que",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 61,
+   "start": 488.401,
+   "end": 498.247,
+   "es": "Todavía recuerdo lo feliz que estaba ese día.",
+   "group": "lo rápido que",
+   "group_index": 6,
+   "level": "B1"
+  }
+ ]
+}

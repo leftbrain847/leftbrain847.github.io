@@ -1,0 +1,568 @@
+{
+ "word": "que",
+ "slug": "que",
+ "kind": "word",
+ "hash": "17d5c53646d66118",
+ "duration": 496.776,
+ "voice": "alex",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 8.255,
+   "es": "Tengo que trabajar mañana.",
+   "group": "tener que, hay que",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 8.255,
+   "end": 16.073,
+   "es": "Tienes que probar esta sopa.",
+   "group": "tener que, hay que",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 16.073,
+   "end": 23.188,
+   "es": "Hay que salir temprano.",
+   "group": "tener que, hay que",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 23.188,
+   "end": 30.58,
+   "es": "Tenemos que comprar pan.",
+   "group": "tener que, hay que",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 30.58,
+   "end": 38.121,
+   "es": "Hay que pagar en efectivo.",
+   "group": "tener que, hay que",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 38.121,
+   "end": 44.639,
+   "es": "¿Tienes que ir hoy?",
+   "group": "tener que, hay que",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 44.639,
+   "end": 52.5,
+   "es": "Mis hijos tienen que estudiar.",
+   "group": "tener que, hay que",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 7,
+   "start": 52.5,
+   "end": 60.681,
+   "es": "Hay que tener cuidado con el perro.",
+   "group": "tener que, hay que",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 8,
+   "start": 62.181,
+   "end": 70.448,
+   "es": "La chica que canta es mi prima.",
+   "group": "el libro que leí",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 70.448,
+   "end": 78.757,
+   "es": "Tengo un amigo que vive en Chile.",
+   "group": "el libro que leí",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 78.757,
+   "end": 87.173,
+   "es": "El tren que va a Lima sale ahora.",
+   "group": "el libro que leí",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 87.173,
+   "end": 95.739,
+   "es": "Es una película que me gusta mucho.",
+   "group": "el libro que leí",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 95.739,
+   "end": 105.947,
+   "es": "Las personas que trabajan aquí son muy amables.",
+   "group": "el libro que leí",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 105.947,
+   "end": 114.0,
+   "es": "El libro que leí es muy bueno.",
+   "group": "el libro que leí",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 14,
+   "start": 114.0,
+   "end": 122.608,
+   "es": "La casa que compramos es pequeña.",
+   "group": "el libro que leí",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 15,
+   "start": 122.608,
+   "end": 131.792,
+   "es": "¿Dónde está la camisa que me regalaste?",
+   "group": "el libro que leí",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 16,
+   "start": 131.792,
+   "end": 141.573,
+   "es": "El restaurante que te recomendé está cerrado.",
+   "group": "el libro que leí",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 17,
+   "start": 143.073,
+   "end": 150.167,
+   "es": "Creo que va a llover.",
+   "group": "creo que",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 18,
+   "start": 150.167,
+   "end": 157.473,
+   "es": "Dice que está cansado.",
+   "group": "creo que",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 19,
+   "start": 157.473,
+   "end": 164.887,
+   "es": "Pienso que tienes razón.",
+   "group": "creo que",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 20,
+   "start": 164.887,
+   "end": 171.617,
+   "es": "Sé que es difícil.",
+   "group": "creo que",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 21,
+   "start": 171.617,
+   "end": 179.116,
+   "es": "Parece que no hay nadie.",
+   "group": "creo que",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 22,
+   "start": 179.116,
+   "end": 185.548,
+   "es": "Supongo que sí.",
+   "group": "creo que",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 23,
+   "start": 185.548,
+   "end": 193.388,
+   "es": "Estoy seguro de que lo sabe.",
+   "group": "creo que",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 24,
+   "start": 193.388,
+   "end": 201.313,
+   "es": "Me dijo que no podía venir.",
+   "group": "creo que",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 25,
+   "start": 201.313,
+   "end": 208.705,
+   "es": "Veo que ya terminaste.",
+   "group": "creo que",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 210.205,
+   "end": 218.451,
+   "es": "Mi hermano es más alto que yo.",
+   "group": "más que, menos que",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 27,
+   "start": 218.451,
+   "end": 226.909,
+   "es": "Este auto es más caro que el otro.",
+   "group": "más que, menos que",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 226.909,
+   "end": 234.792,
+   "es": "Hoy hace menos frío que ayer.",
+   "group": "más que, menos que",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 234.792,
+   "end": 243.251,
+   "es": "Me gusta más el té que el café.",
+   "group": "más que, menos que",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 243.251,
+   "end": 251.389,
+   "es": "Corre más rápido que su padre.",
+   "group": "más que, menos que",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 251.389,
+   "end": 259.336,
+   "es": "Ella trabaja más que nadie.",
+   "group": "más que, menos que",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 259.336,
+   "end": 267.645,
+   "es": "La película es peor que el libro.",
+   "group": "más que, menos que",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 267.645,
+   "end": 275.293,
+   "es": "Ahora gana menos que antes.",
+   "group": "más que, menos que",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 275.293,
+   "end": 283.133,
+   "es": "Más vale tarde que nunca.",
+   "group": "más que, menos que",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 284.633,
+   "end": 291.748,
+   "es": "Es que no tengo tiempo.",
+   "group": "es que",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 36,
+   "start": 291.748,
+   "end": 299.865,
+   "es": "Lo siento, es que estaba ocupado.",
+   "group": "es que",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 37,
+   "start": 299.865,
+   "end": 308.068,
+   "es": "No puedo ir, es que estoy enfermo.",
+   "group": "es que",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 38,
+   "start": 308.068,
+   "end": 315.119,
+   "es": "¿Es que no me escuchas?",
+   "group": "es que",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 315.119,
+   "end": 322.233,
+   "es": "Es que no sabía nada.",
+   "group": "es que",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 40,
+   "start": 322.233,
+   "end": 330.713,
+   "es": "Perdón, es que había mucho tráfico.",
+   "group": "es que",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 41,
+   "start": 330.713,
+   "end": 338.404,
+   "es": "Es que hoy no me siento bien.",
+   "group": "es que",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 339.904,
+   "end": 348.661,
+   "es": "Estaba cansado, así que me acosté.",
+   "group": "así que, ya que",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 43,
+   "start": 348.661,
+   "end": 357.355,
+   "es": "Está lloviendo, así que no salimos.",
+   "group": "así que, ya que",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 44,
+   "start": 357.355,
+   "end": 365.963,
+   "es": "Ya que estás aquí, ayúdame con esto.",
+   "group": "así que, ya que",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 45,
+   "start": 365.963,
+   "end": 374.571,
+   "es": "Ya que tienes tiempo, ¿vamos al cine?",
+   "group": "así que, ya que",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 46,
+   "start": 376.071,
+   "end": 383.804,
+   "es": "Quiero que vengas a mi casa.",
+   "group": "quiero que vengas",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 47,
+   "start": 383.804,
+   "end": 390.769,
+   "es": "Espero que te guste.",
+   "group": "quiero que vengas",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 390.769,
+   "end": 398.375,
+   "es": "Necesito que me ayudes.",
+   "group": "quiero que vengas",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 398.375,
+   "end": 406.62,
+   "es": "Es importante que duermas bien.",
+   "group": "quiero que vengas",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 50,
+   "start": 406.62,
+   "end": 414.46,
+   "es": "Prefiero que hablemos mañana.",
+   "group": "quiero que vengas",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 414.46,
+   "end": 423.58,
+   "es": "Mi madre quiere que la llame todos los días.",
+   "group": "quiero que vengas",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 423.58,
+   "end": 431.271,
+   "es": "Es mejor que salgamos ya.",
+   "group": "quiero que vengas",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 431.271,
+   "end": 438.876,
+   "es": "No creo que llegue a tiempo.",
+   "group": "quiero que vengas",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 440.376,
+   "end": 447.171,
+   "es": "¡Que te vaya bien!",
+   "group": "¡que te vaya bien!",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 447.171,
+   "end": 453.539,
+   "es": "Que descanses.",
+   "group": "¡que te vaya bien!",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 453.539,
+   "end": 460.909,
+   "es": "¡Que tengas buen viaje!",
+   "group": "¡que te vaya bien!",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 57,
+   "start": 460.909,
+   "end": 468.045,
+   "es": "¡Que te mejores pronto!",
+   "group": "¡que te vaya bien!",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 58,
+   "start": 468.045,
+   "end": 475.245,
+   "es": "¡Que sean muy felices!",
+   "group": "¡que te vaya bien!",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 59,
+   "start": 475.245,
+   "end": 481.827,
+   "es": "Que duermas bien.",
+   "group": "¡que te vaya bien!",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 60,
+   "start": 481.827,
+   "end": 489.176,
+   "es": "¡Que disfrutes la fiesta!",
+   "group": "¡que te vaya bien!",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 61,
+   "start": 489.176,
+   "end": 496.717,
+   "es": "¡Que cumplas muchos más!",
+   "group": "¡que te vaya bien!",
+   "group_index": 7,
+   "level": "B1"
+  }
+ ]
+}

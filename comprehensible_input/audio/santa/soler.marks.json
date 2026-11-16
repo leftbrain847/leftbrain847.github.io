@@ -1,0 +1,532 @@
+{
+ "word": "soler",
+ "slug": "soler",
+ "kind": "word",
+ "hash": "018d363fda74c85b",
+ "duration": 524.88,
+ "voice": "santa",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 8.191,
+   "es": "Suelo desayunar a las siete.",
+   "group": "suelo, sueles, suele",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 8.191,
+   "end": 16.521,
+   "es": "Mi padre suele leer el periódico.",
+   "group": "suelo, sueles, suele",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 16.521,
+   "end": 23.657,
+   "es": "Solemos comer en casa.",
+   "group": "suelo, sueles, suele",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 23.657,
+   "end": 31.391,
+   "es": "Ella suele llegar temprano.",
+   "group": "suelo, sueles, suele",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 31.391,
+   "end": 38.889,
+   "es": "Suelo caminar al trabajo.",
+   "group": "suelo, sueles, suele",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 38.889,
+   "end": 47.476,
+   "es": "Los niños suelen dormir la siesta.",
+   "group": "suelo, sueles, suele",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 47.476,
+   "end": 56.084,
+   "es": "Mis abuelos suelen cenar temprano.",
+   "group": "suelo, sueles, suele",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 7,
+   "start": 56.084,
+   "end": 64.223,
+   "es": "Suelo beber agua con la comida.",
+   "group": "suelo, sueles, suele",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 8,
+   "start": 64.223,
+   "end": 72.596,
+   "es": "Los sábados solemos ir al mercado.",
+   "group": "suelo, sueles, suele",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 74.096,
+   "end": 81.595,
+   "es": "¿Sueles cocinar en casa?",
+   "group": "preguntas",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 81.595,
+   "end": 89.435,
+   "es": "¿A qué hora sueles levantarte?",
+   "group": "preguntas",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 89.435,
+   "end": 97.339,
+   "es": "¿Dónde suelen comer ustedes?",
+   "group": "preguntas",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 97.339,
+   "end": 105.307,
+   "es": "¿Qué sueles hacer los domingos?",
+   "group": "preguntas",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 105.307,
+   "end": 112.72,
+   "es": "¿Sueles viajar en verano?",
+   "group": "preguntas",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 14,
+   "start": 112.72,
+   "end": 120.56,
+   "es": "¿Cómo sueles ir al trabajo?",
+   "group": "preguntas",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 15,
+   "start": 120.56,
+   "end": 129.829,
+   "es": "¿Tu hermana suele llamar los fines de semana?",
+   "group": "preguntas",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 16,
+   "start": 129.829,
+   "end": 137.52,
+   "es": "¿Qué suele cenar tu familia?",
+   "group": "preguntas",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 17,
+   "start": 139.02,
+   "end": 146.817,
+   "es": "No suelo ver la televisión.",
+   "group": "no suelo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 18,
+   "start": 146.817,
+   "end": 155.617,
+   "es": "Mi madre no suele cocinar los lunes.",
+   "group": "no suelo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 19,
+   "start": 155.617,
+   "end": 163.351,
+   "es": "No solemos salir de noche.",
+   "group": "no suelo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 20,
+   "start": 163.351,
+   "end": 170.956,
+   "es": "Él no suele llegar tarde.",
+   "group": "no suelo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 170.956,
+   "end": 178.924,
+   "es": "No suelo comer carne roja.",
+   "group": "no suelo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 178.924,
+   "end": 188.151,
+   "es": "Los domingos no suelen abrir las tiendas.",
+   "group": "no suelo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 23,
+   "start": 188.151,
+   "end": 196.737,
+   "es": "No suelo dormir bien en los aviones.",
+   "group": "no suelo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 24,
+   "start": 196.737,
+   "end": 207.777,
+   "es": "Mis amigos no suelen contestar los mensajes rápido.",
+   "group": "no suelo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 25,
+   "start": 209.277,
+   "end": 217.949,
+   "es": "En agosto suele hacer mucho calor.",
+   "group": "lo normal",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 217.949,
+   "end": 226.579,
+   "es": "En esta ciudad suele llover en abril.",
+   "group": "lo normal",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 226.579,
+   "end": 234.568,
+   "es": "El tren suele llegar puntual.",
+   "group": "lo normal",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 234.568,
+   "end": 243.368,
+   "es": "Los lunes suele haber mucho tráfico.",
+   "group": "lo normal",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 243.368,
+   "end": 251.891,
+   "es": "Este restaurante suele estar lleno.",
+   "group": "lo normal",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 251.891,
+   "end": 260.712,
+   "es": "La primera clase suele ser fácil.",
+   "group": "lo normal",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 260.712,
+   "end": 270.003,
+   "es": "En invierno suele nevar en las montañas.",
+   "group": "lo normal",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 270.003,
+   "end": 279.677,
+   "es": "Las entradas del museo suelen costar poco.",
+   "group": "lo normal",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 281.177,
+   "end": 289.508,
+   "es": "De niño, solía jugar en la calle.",
+   "group": "solía: hábitos del pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 289.508,
+   "end": 298.585,
+   "es": "Mi abuela solía hacer pan los domingos.",
+   "group": "solía: hábitos del pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 298.585,
+   "end": 306.937,
+   "es": "Solíamos ir a la playa en verano.",
+   "group": "solía: hábitos del pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 36,
+   "start": 306.937,
+   "end": 315.695,
+   "es": "¿Qué solías hacer después de clase?",
+   "group": "solía: hábitos del pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 37,
+   "start": 315.695,
+   "end": 323.684,
+   "es": "Mi padre solía fumar mucho.",
+   "group": "solía: hábitos del pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 38,
+   "start": 323.684,
+   "end": 332.975,
+   "es": "En la universidad, solía estudiar de noche.",
+   "group": "solía: hábitos del pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 332.975,
+   "end": 342.372,
+   "es": "Mis primos solían visitarnos en Navidad.",
+   "group": "solía: hábitos del pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 40,
+   "start": 342.372,
+   "end": 351.129,
+   "es": "Solía tomar el autobús a las siete.",
+   "group": "solía: hábitos del pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 41,
+   "start": 351.129,
+   "end": 359.993,
+   "es": "Ella solía escribir cartas a mano.",
+   "group": "solía: hábitos del pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 361.493,
+   "end": 371.317,
+   "es": "Antes solía correr, pero ahora prefiero nadar.",
+   "group": "antes y ahora",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 43,
+   "start": 371.317,
+   "end": 381.056,
+   "es": "Solía tomar tres cafés al día, pero ya no.",
+   "group": "antes y ahora",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 44,
+   "start": 381.056,
+   "end": 392.821,
+   "es": "Antes solíamos cenar juntos, pero ahora cada uno come a su hora.",
+   "group": "antes y ahora",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 45,
+   "start": 392.821,
+   "end": 403.413,
+   "es": "Antes no solía leer, y ahora leo todas las noches.",
+   "group": "antes y ahora",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 46,
+   "start": 403.413,
+   "end": 414.283,
+   "es": "Mi hermano solía ser muy tímido, pero ha cambiado mucho.",
+   "group": "antes y ahora",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 47,
+   "start": 414.283,
+   "end": 425.963,
+   "es": "Antes solíamos escribirnos cartas, y hoy todo es por mensaje.",
+   "group": "antes y ahora",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 425.963,
+   "end": 437.365,
+   "es": "Este barrio solía ser tranquilo, pero ahora hay mucho ruido.",
+   "group": "antes y ahora",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 437.365,
+   "end": 446.656,
+   "es": "Ya no suelo acostarme tarde como antes.",
+   "group": "antes y ahora",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 50,
+   "start": 448.156,
+   "end": 457.959,
+   "es": "Eso no suele pasar en un lugar tan tranquilo.",
+   "group": "no suele pasar",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 457.959,
+   "end": 467.057,
+   "es": "Como suele pasar, el vuelo salió tarde.",
+   "group": "no suele pasar",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 467.057,
+   "end": 476.839,
+   "es": "Como solía decir mi abuelo, el tiempo es oro.",
+   "group": "no suele pasar",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 476.839,
+   "end": 485.809,
+   "es": "Esto no suele ocurrir en esta empresa.",
+   "group": "no suele pasar",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 485.809,
+   "end": 496.273,
+   "es": "Lo que suele pasar es que nadie lee las instrucciones.",
+   "group": "no suele pasar",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 496.273,
+   "end": 505.628,
+   "es": "Los problemas suelen resolverse hablando.",
+   "group": "no suele pasar",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 505.628,
+   "end": 514.94,
+   "es": "Es raro, porque él no suele equivocarse.",
+   "group": "no suele pasar",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 57,
+   "start": 514.94,
+   "end": 524.828,
+   "es": "Como se suele decir, más vale tarde que nunca.",
+   "group": "no suele pasar",
+   "group_index": 6,
+   "level": "B1"
+  }
+ ]
+}

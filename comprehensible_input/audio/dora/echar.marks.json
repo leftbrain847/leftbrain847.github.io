@@ -1,0 +1,541 @@
+{
+ "word": "echar",
+ "slug": "echar",
+ "kind": "word",
+ "hash": "39d2fdde137efae2",
+ "duration": 520.584,
+ "voice": "dora",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 7.785,
+   "es": "Echa la pelota al perro.",
+   "group": "echar, lanzar algo",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 7.785,
+   "end": 15.455,
+   "es": "Echo la carta en el buzón.",
+   "group": "echar, lanzar algo",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 15.455,
+   "end": 23.956,
+   "es": "Los niños echan piedras al río.",
+   "group": "echar, lanzar algo",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 23.956,
+   "end": 31.881,
+   "es": "¿Puedes echar esto a la basura?",
+   "group": "echar, lanzar algo",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 31.881,
+   "end": 39.444,
+   "es": "Ella echa pan a los patos.",
+   "group": "echar, lanzar algo",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 39.444,
+   "end": 47.028,
+   "es": "No eches papeles al suelo.",
+   "group": "echar, lanzar algo",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 47.028,
+   "end": 55.359,
+   "es": "Echamos una moneda a la fuente.",
+   "group": "echar, lanzar algo",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 7,
+   "start": 56.859,
+   "end": 64.891,
+   "es": "Echa un poco de sal a la sopa.",
+   "group": "echar en la comida y la bebida",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 8,
+   "start": 64.891,
+   "end": 72.645,
+   "es": "¿Le echas azúcar al café?",
+   "group": "echar en la comida y la bebida",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 72.645,
+   "end": 79.995,
+   "es": "Yo no echo leche al té.",
+   "group": "echar en la comida y la bebida",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 79.995,
+   "end": 87.643,
+   "es": "Echa más agua a la olla.",
+   "group": "echar en la comida y la bebida",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 87.643,
+   "end": 96.101,
+   "es": "Mi abuela echa mucho ajo a todo.",
+   "group": "echar en la comida y la bebida",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 96.101,
+   "end": 104.603,
+   "es": "Echa un poco de hielo a la limonada.",
+   "group": "echar en la comida y la bebida",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 104.603,
+   "end": 113.36,
+   "es": "¿Cuánto aceite le echo a la ensalada?",
+   "group": "echar en la comida y la bebida",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 14,
+   "start": 113.36,
+   "end": 122.224,
+   "es": "Le eché demasiada pimienta a la carne.",
+   "group": "echar en la comida y la bebida",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 15,
+   "start": 123.724,
+   "end": 132.439,
+   "es": "¿Me echas una mano con estas cajas?",
+   "group": "echar una mano, echar un vistazo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 16,
+   "start": 132.439,
+   "end": 141.068,
+   "es": "Mi vecino siempre me echa una mano.",
+   "group": "echar una mano, echar un vistazo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 17,
+   "start": 141.068,
+   "end": 148.887,
+   "es": "Te echo una mano con la cena.",
+   "group": "echar una mano, echar un vistazo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 18,
+   "start": 148.887,
+   "end": 158.625,
+   "es": "Ayer le eché una mano a mi hermano con la mudanza.",
+   "group": "echar una mano, echar un vistazo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 19,
+   "start": 158.625,
+   "end": 167.425,
+   "es": "¿Puedes echar un vistazo a mi trabajo?",
+   "group": "echar una mano, echar un vistazo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 20,
+   "start": 167.425,
+   "end": 175.799,
+   "es": "Voy a echar un vistazo a la tienda.",
+   "group": "echar una mano, echar un vistazo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 175.799,
+   "end": 184.321,
+   "es": "Echa un vistazo al bebé, por favor.",
+   "group": "echar una mano, echar un vistazo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 184.321,
+   "end": 193.697,
+   "es": "El mecánico le echó un vistazo al motor.",
+   "group": "echar una mano, echar un vistazo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 23,
+   "start": 195.197,
+   "end": 202.931,
+   "es": "El perro se echa en el sofá.",
+   "group": "echarse, acostarse",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 24,
+   "start": 202.931,
+   "end": 211.624,
+   "es": "Estoy cansado, voy a echarme un rato.",
+   "group": "echarse, acostarse",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 25,
+   "start": 211.624,
+   "end": 220.019,
+   "es": "Después de comer, me eché en la cama.",
+   "group": "echarse, acostarse",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 220.019,
+   "end": 229.907,
+   "es": "Mi padre se echa en la hamaca todas las tardes.",
+   "group": "echarse, acostarse",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 229.907,
+   "end": 239.176,
+   "es": "Nos echamos en la arena a tomar el sol.",
+   "group": "echarse, acostarse",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 239.176,
+   "end": 248.211,
+   "es": "Échate un momento si te duele la cabeza.",
+   "group": "echarse, acostarse",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 248.211,
+   "end": 257.053,
+   "es": "El gato se echó al lado de la ventana.",
+   "group": "echarse, acostarse",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 258.553,
+   "end": 265.092,
+   "es": "¿Me echas de menos?",
+   "group": "echar de menos",
+   "group_index": 4,
+   "level": "A1"
+  },
+  {
+   "i": 31,
+   "start": 265.092,
+   "end": 272.761,
+   "es": "Echo de menos a mi familia.",
+   "group": "echar de menos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 272.761,
+   "end": 281.625,
+   "es": "Echamos de menos la comida de casa.",
+   "group": "echar de menos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 281.625,
+   "end": 291.023,
+   "es": "Cuando vivía lejos, echaba de menos el mar.",
+   "group": "echar de menos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 291.023,
+   "end": 298.692,
+   "es": "Te he echado mucho de menos.",
+   "group": "echar de menos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 298.692,
+   "end": 308.815,
+   "es": "Mi hija echa de menos a sus amigos del colegio.",
+   "group": "echar de menos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 36,
+   "start": 308.815,
+   "end": 317.252,
+   "es": "Voy a echar de menos esta ciudad.",
+   "group": "echar de menos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 37,
+   "start": 317.252,
+   "end": 328.655,
+   "es": "Nadie echó de menos la televisión durante las vacaciones.",
+   "group": "echar de menos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 38,
+   "start": 330.155,
+   "end": 339.189,
+   "es": "Mi madre echó a los niños de la cocina.",
+   "group": "echar a alguien",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 339.189,
+   "end": 348.224,
+   "es": "Lo echaron del trabajo por llegar tarde.",
+   "group": "echar a alguien",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 40,
+   "start": 348.224,
+   "end": 358.197,
+   "es": "El dueño nos echó del restaurante a medianoche.",
+   "group": "echar a alguien",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 41,
+   "start": 358.197,
+   "end": 367.083,
+   "es": "Si no pagas el alquiler, te van a echar.",
+   "group": "echar a alguien",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 42,
+   "start": 367.083,
+   "end": 375.904,
+   "es": "Echaron a dos jugadores del partido.",
+   "group": "echar a alguien",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 43,
+   "start": 375.904,
+   "end": 385.941,
+   "es": "Me echaron de la biblioteca por hablar por teléfono.",
+   "group": "echar a alguien",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 44,
+   "start": 385.941,
+   "end": 395.573,
+   "es": "No creo que te echen por un error tan pequeño.",
+   "group": "echar a alguien",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 45,
+   "start": 397.073,
+   "end": 406.044,
+   "es": "Cuando vio al perro, el niño echó a correr.",
+   "group": "echar a + infinitivo, echarse a + infinitivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 46,
+   "start": 406.044,
+   "end": 414.481,
+   "es": "Al oír la noticia, se echó a llorar.",
+   "group": "echar a + infinitivo, echarse a + infinitivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 47,
+   "start": 414.481,
+   "end": 423.111,
+   "es": "De repente, todos se echaron a reír.",
+   "group": "echar a + infinitivo, echarse a + infinitivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 423.111,
+   "end": 430.417,
+   "es": "El pájaro echó a volar.",
+   "group": "echar a + infinitivo, echarse a + infinitivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 430.417,
+   "end": 440.241,
+   "es": "Cuando abrieron la puerta, la gente echó a andar.",
+   "group": "echar a + infinitivo, echarse a + infinitivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 50,
+   "start": 440.241,
+   "end": 449.02,
+   "es": "Si le dices eso, se va a echar a llorar.",
+   "group": "echar a + infinitivo, echarse a + infinitivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 449.02,
+   "end": 459.121,
+   "es": "Empezó a llover y echamos a correr hacia la casa.",
+   "group": "echar a + infinitivo, echarse a + infinitivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 460.621,
+   "end": 468.483,
+   "es": "Siempre me echa la culpa a mí.",
+   "group": "expresiones con echar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 468.483,
+   "end": 476.877,
+   "es": "El calor echó a perder la fruta.",
+   "group": "expresiones con echar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 476.877,
+   "end": 485.741,
+   "es": "No eches a perder esta oportunidad.",
+   "group": "expresiones con echar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 485.741,
+   "end": 494.264,
+   "es": "Siempre me echa en cara mis errores.",
+   "group": "expresiones con echar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 494.264,
+   "end": 502.936,
+   "es": "Estaba tan furioso que echaba humo.",
+   "group": "expresiones con echar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 57,
+   "start": 502.936,
+   "end": 512.312,
+   "es": "Me gustaría echar raíces en este pueblo.",
+   "group": "expresiones con echar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 58,
+   "start": 512.312,
+   "end": 520.536,
+   "es": "No le eches más leña al fuego.",
+   "group": "expresiones con echar",
+   "group_index": 7,
+   "level": "B1"
+  }
+ ]
+}

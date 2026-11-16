@@ -1,0 +1,541 @@
+{
+ "word": "faltar / hacer falta",
+ "slug": "faltar_hacer_falta",
+ "kind": "word",
+ "hash": "f09fa2f79ea13a70",
+ "duration": 495.528,
+ "voice": "santa",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 7.081,
+   "es": "Me falta dinero.",
+   "group": "me falta, nos faltan",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 7.081,
+   "end": 13.3,
+   "es": "¿Qué te falta?",
+   "group": "me falta, nos faltan",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 13.3,
+   "end": 20.735,
+   "es": "A la sopa le falta sal.",
+   "group": "me falta, nos faltan",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 20.735,
+   "end": 28.084,
+   "es": "Nos faltan dos sillas.",
+   "group": "me falta, nos faltan",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 28.084,
+   "end": 36.244,
+   "es": "A mi camisa le falta un botón.",
+   "group": "me falta, nos faltan",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 36.244,
+   "end": 43.679,
+   "es": "Te falta una firma aquí.",
+   "group": "me falta, nos faltan",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 43.679,
+   "end": 52.329,
+   "es": "Me faltan tres páginas del libro.",
+   "group": "me falta, nos faltan",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 7,
+   "start": 52.329,
+   "end": 60.767,
+   "es": "A este equipo le falta un jugador.",
+   "group": "me falta, nos faltan",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 8,
+   "start": 62.267,
+   "end": 69.701,
+   "es": "Falta poco para llegar.",
+   "group": "falta poco, faltan dos días",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 69.701,
+   "end": 78.48,
+   "es": "Faltan dos días para mi cumpleaños.",
+   "group": "falta poco, faltan dos días",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 78.48,
+   "end": 86.171,
+   "es": "¿Cuánto falta para el verano?",
+   "group": "falta poco, faltan dos días",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 86.171,
+   "end": 94.992,
+   "es": "Faltan cinco minutos para las nueve.",
+   "group": "falta poco, faltan dos días",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 94.992,
+   "end": 102.533,
+   "es": "Ya falta poco, niños.",
+   "group": "falta poco, faltan dos días",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 102.533,
+   "end": 112.656,
+   "es": "Todavía faltan tres semanas para las vacaciones.",
+   "group": "falta poco, faltan dos días",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 14,
+   "start": 112.656,
+   "end": 120.517,
+   "es": "¿Cuántas estaciones faltan?",
+   "group": "falta poco, faltan dos días",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 15,
+   "start": 120.517,
+   "end": 128.997,
+   "es": "Solo falta una semana para la boda.",
+   "group": "falta poco, faltan dos días",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 16,
+   "start": 130.497,
+   "end": 138.017,
+   "es": "En la fiesta faltó comida.",
+   "group": "faltó, faltaba",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 17,
+   "start": 138.017,
+   "end": 147.201,
+   "es": "Me faltó tiempo para terminar el examen.",
+   "group": "faltó, faltaba",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 18,
+   "start": 147.201,
+   "end": 155.468,
+   "es": "Cuando llegamos, faltaba el postre.",
+   "group": "faltó, faltaba",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 19,
+   "start": 155.468,
+   "end": 164.524,
+   "es": "Siempre nos faltaba dinero a fin de mes.",
+   "group": "faltó, faltaba",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 20,
+   "start": 164.524,
+   "end": 171.916,
+   "es": "¿Quién faltó a la reunión?",
+   "group": "faltó, faltaba",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 171.916,
+   "end": 180.887,
+   "es": "Faltó agua en el barrio toda la semana.",
+   "group": "faltó, faltaba",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 180.887,
+   "end": 190.049,
+   "es": "Faltaban diez minutos para la medianoche.",
+   "group": "faltó, faltaba",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 23,
+   "start": 191.549,
+   "end": 200.499,
+   "es": "Hoy falto a clase porque estoy enfermo.",
+   "group": "faltar a clase, faltar al trabajo",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 24,
+   "start": 200.499,
+   "end": 207.869,
+   "es": "Nunca falto al trabajo.",
+   "group": "faltar a clase, faltar al trabajo",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 25,
+   "start": 207.869,
+   "end": 216.349,
+   "es": "Mi hijo faltó a clase dos días.",
+   "group": "faltar a clase, faltar al trabajo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 216.349,
+   "end": 223.656,
+   "es": "¿Por qué faltaste ayer?",
+   "group": "faltar a clase, faltar al trabajo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 223.656,
+   "end": 232.861,
+   "es": "Si faltas mucho, vas a perder el curso.",
+   "group": "faltar a clase, faltar al trabajo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 232.861,
+   "end": 241.171,
+   "es": "Ella nunca ha faltado a una cita.",
+   "group": "faltar a clase, faltar al trabajo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 241.171,
+   "end": 249.053,
+   "es": "No quiero faltar a tu fiesta.",
+   "group": "faltar a clase, faltar al trabajo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 250.553,
+   "end": 257.967,
+   "es": "Hace falta paciencia.",
+   "group": "hace falta + nombre",
+   "group_index": 4,
+   "level": "A1"
+  },
+  {
+   "i": 31,
+   "start": 257.967,
+   "end": 265.145,
+   "es": "¿Te hace falta algo?",
+   "group": "hace falta + nombre",
+   "group_index": 4,
+   "level": "A1"
+  },
+  {
+   "i": 32,
+   "start": 265.145,
+   "end": 273.327,
+   "es": "Me hace falta un abrigo nuevo.",
+   "group": "hace falta + nombre",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 273.327,
+   "end": 281.252,
+   "es": "Nos hacen falta más platos.",
+   "group": "hace falta + nombre",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 281.252,
+   "end": 290.692,
+   "es": "Para este trabajo hace falta experiencia.",
+   "group": "hace falta + nombre",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 290.692,
+   "end": 299.663,
+   "es": "En esta casa hace falta más luz.",
+   "group": "hace falta + nombre",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 36,
+   "start": 299.663,
+   "end": 308.1,
+   "es": "Te hacen falta unas vacaciones.",
+   "group": "hace falta + nombre",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 37,
+   "start": 308.1,
+   "end": 315.705,
+   "es": "Le hacía falta un amigo.",
+   "group": "hace falta + nombre",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 38,
+   "start": 317.205,
+   "end": 324.853,
+   "es": "Hace falta estudiar más.",
+   "group": "hace falta + infinitivo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 324.853,
+   "end": 332.48,
+   "es": "No hace falta pagar ahora.",
+   "group": "hace falta + infinitivo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 40,
+   "start": 332.48,
+   "end": 340.277,
+   "es": "¿Hace falta reservar mesa?",
+   "group": "hace falta + infinitivo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 41,
+   "start": 340.277,
+   "end": 348.395,
+   "es": "No hace falta llevar paraguas.",
+   "group": "hace falta + infinitivo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 348.395,
+   "end": 358.347,
+   "es": "Para viajar allí hace falta tener pasaporte.",
+   "group": "hace falta + infinitivo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 43,
+   "start": 358.347,
+   "end": 367.509,
+   "es": "Gracias, pero no hacía falta traer nada.",
+   "group": "hace falta + infinitivo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 44,
+   "start": 367.509,
+   "end": 377.013,
+   "es": "Hará falta comprar más comida para el sábado.",
+   "group": "hace falta + infinitivo",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 45,
+   "start": 378.513,
+   "end": 386.055,
+   "es": "No hace falta que vengas.",
+   "group": "hace falta que, no hace falta que",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 46,
+   "start": 386.055,
+   "end": 393.895,
+   "es": "No hace falta que me esperes.",
+   "group": "hace falta que, no hace falta que",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 47,
+   "start": 393.895,
+   "end": 402.14,
+   "es": "No hace falta que traigan nada.",
+   "group": "hace falta que, no hace falta que",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 402.14,
+   "end": 409.703,
+   "es": "¿Hace falta que lo repita?",
+   "group": "hace falta que, no hace falta que",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 409.703,
+   "end": 419.185,
+   "es": "Hace falta que alguien hable con el director.",
+   "group": "hace falta que, no hace falta que",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 50,
+   "start": 419.185,
+   "end": 427.644,
+   "es": "No hacía falta que te molestaras.",
+   "group": "hace falta que, no hace falta que",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 427.644,
+   "end": 436.913,
+   "es": "No hace falta que me lo expliques otra vez.",
+   "group": "hace falta que, no hace falta que",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 438.413,
+   "end": 444.824,
+   "es": "¡Lo que faltaba!",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 53,
+   "start": 444.824,
+   "end": 452.152,
+   "es": "Me haces mucha falta.",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 452.152,
+   "end": 460.781,
+   "es": "No le faltes el respeto a tu abuela.",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 460.781,
+   "end": 470.648,
+   "es": "Vivo lejos y me hace mucha falta mi familia.",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 470.648,
+   "end": 479.917,
+   "es": "Faltó poco para que perdiéramos el avión.",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 57,
+   "start": 479.917,
+   "end": 488.056,
+   "es": "No faltaría más, pase usted.",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 58,
+   "start": 488.056,
+   "end": 495.469,
+   "es": "Aquí no nos falta nada.",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "B1"
+  }
+ ]
+}

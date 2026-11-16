@@ -1,0 +1,559 @@
+{
+ "word": "se",
+ "slug": "se",
+ "kind": "word",
+ "hash": "7754f963bc0c72ff",
+ "duration": 496.248,
+ "voice": "alex",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 9.001,
+   "es": "Mi hermano se ducha por la mañana.",
+   "group": "se ducha, se levanta",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 9.001,
+   "end": 16.671,
+   "es": "Ella se levanta a las siete.",
+   "group": "se ducha, se levanta",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 16.671,
+   "end": 24.724,
+   "es": "Mi abuela se acuesta temprano.",
+   "group": "se ducha, se levanta",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 24.724,
+   "end": 32.031,
+   "es": "¿Cómo se llama tu perro?",
+   "group": "se ducha, se levanta",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 32.031,
+   "end": 39.785,
+   "es": "El niño se lava las manos.",
+   "group": "se ducha, se levanta",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 39.785,
+   "end": 48.585,
+   "es": "Mi padre se afeita todos los días.",
+   "group": "se ducha, se levanta",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 48.585,
+   "end": 56.105,
+   "es": "Se pone el abrigo y sale.",
+   "group": "se ducha, se levanta",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 7,
+   "start": 56.105,
+   "end": 63.839,
+   "es": "Los niños se visten solos.",
+   "group": "se ducha, se levanta",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 8,
+   "start": 63.839,
+   "end": 72.553,
+   "es": "Mi madre se peina antes de salir.",
+   "group": "se ducha, se levanta",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 74.053,
+   "end": 81.616,
+   "es": "Mi jefe se va a las cinco.",
+   "group": "se va, se queda",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 81.616,
+   "end": 88.667,
+   "es": "Hoy se queda en casa.",
+   "group": "se va, se queda",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 88.667,
+   "end": 96.656,
+   "es": "Se sienta junto a la ventana.",
+   "group": "se va, se queda",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 96.656,
+   "end": 104.837,
+   "es": "Mi hijo se enoja fácilmente.",
+   "group": "se va, se queda",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 104.837,
+   "end": 113.445,
+   "es": "Se preocupa mucho por su familia.",
+   "group": "se va, se queda",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 14,
+   "start": 113.445,
+   "end": 121.221,
+   "es": "Mi amigo se casa en junio.",
+   "group": "se va, se queda",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 15,
+   "start": 121.221,
+   "end": 129.083,
+   "es": "Ana se fue sin decir nada.",
+   "group": "se va, se queda",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 16,
+   "start": 129.083,
+   "end": 137.392,
+   "es": "Se quedaron en un hotel pequeño.",
+   "group": "se va, se queda",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 17,
+   "start": 137.392,
+   "end": 145.189,
+   "es": "Se acordó de mi cumpleaños.",
+   "group": "se va, se queda",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 18,
+   "start": 146.689,
+   "end": 154.444,
+   "es": "Mis padres se quieren mucho.",
+   "group": "se quieren",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 19,
+   "start": 154.444,
+   "end": 162.711,
+   "es": "Se conocieron en la universidad.",
+   "group": "se quieren",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 20,
+   "start": 162.711,
+   "end": 170.423,
+   "es": "Los vecinos no se hablan.",
+   "group": "se quieren",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 170.423,
+   "end": 178.433,
+   "es": "Se escriben todas las semanas.",
+   "group": "se quieren",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 178.433,
+   "end": 186.615,
+   "es": "Se abrazaron en el aeropuerto.",
+   "group": "se quieren",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 23,
+   "start": 186.615,
+   "end": 195.201,
+   "es": "Ana y Luis se ven todos los días.",
+   "group": "se quieren",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 24,
+   "start": 195.201,
+   "end": 203.873,
+   "es": "Los dos hermanos se parecen mucho.",
+   "group": "se quieren",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 25,
+   "start": 203.873,
+   "end": 212.439,
+   "es": "Se ayudan con las tareas de la casa.",
+   "group": "se quieren",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 213.939,
+   "end": 220.861,
+   "es": "Aquí se vive bien.",
+   "group": "se vive bien aquí",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 220.861,
+   "end": 229.789,
+   "es": "Se come muy bien en este restaurante.",
+   "group": "se vive bien aquí",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 229.789,
+   "end": 237.736,
+   "es": "¿Cómo se dice esto en español?",
+   "group": "se vive bien aquí",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 237.736,
+   "end": 246.003,
+   "es": "En esta tienda se habla español.",
+   "group": "se vive bien aquí",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 246.003,
+   "end": 253.416,
+   "es": "No se puede fumar aquí.",
+   "group": "se vive bien aquí",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 253.416,
+   "end": 260.979,
+   "es": "¿Por dónde se va al centro?",
+   "group": "se vive bien aquí",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 260.979,
+   "end": 269.693,
+   "es": "Se trabaja mucho en esta empresa.",
+   "group": "se vive bien aquí",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 269.693,
+   "end": 277.149,
+   "es": "Desde aquí se ve el mar.",
+   "group": "se vive bien aquí",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 277.149,
+   "end": 284.456,
+   "es": "¿Cómo se escribe tu nombre?",
+   "group": "se vive bien aquí",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 285.956,
+   "end": 294.308,
+   "es": "En esta calle se venden casas.",
+   "group": "se venden casas",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 36,
+   "start": 294.308,
+   "end": 303.791,
+   "es": "Se alquila un apartamento cerca del parque.",
+   "group": "se venden casas",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 37,
+   "start": 303.791,
+   "end": 312.313,
+   "es": "Se necesita ayuda en la cocina.",
+   "group": "se venden casas",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 38,
+   "start": 312.313,
+   "end": 320.431,
+   "es": "Aquí se arreglan computadoras.",
+   "group": "se venden casas",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 320.431,
+   "end": 328.057,
+   "es": "Aquí se aceptan tarjetas.",
+   "group": "se venden casas",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 40,
+   "start": 328.057,
+   "end": 336.516,
+   "es": "Se vendieron todas las entradas.",
+   "group": "se venden casas",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 41,
+   "start": 336.516,
+   "end": 344.804,
+   "es": "Este plato se prepara con arroz.",
+   "group": "se venden casas",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 344.804,
+   "end": 354.329,
+   "es": "Se construyó un puente nuevo el año pasado.",
+   "group": "se venden casas",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 43,
+   "start": 355.829,
+   "end": 362.517,
+   "es": "Se lo doy mañana.",
+   "group": "se lo, se la",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 44,
+   "start": 362.517,
+   "end": 370.571,
+   "es": "¿El libro? Se lo presté a Marta.",
+   "group": "se lo, se la",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 45,
+   "start": 370.571,
+   "end": 377.259,
+   "es": "Se lo dije ayer.",
+   "group": "se lo, se la",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 46,
+   "start": 377.259,
+   "end": 385.312,
+   "es": "¿Le diste la carta? Sí, se la di.",
+   "group": "se lo, se la",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 47,
+   "start": 385.312,
+   "end": 394.389,
+   "es": "Mi hijo quería un perro y se lo compramos.",
+   "group": "se lo, se la",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 48,
+   "start": 394.389,
+   "end": 403.68,
+   "es": "Si tienes la foto, mándasela a tu madre.",
+   "group": "se lo, se la",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 49,
+   "start": 403.68,
+   "end": 411.819,
+   "es": "Se lo explico otra vez, señora.",
+   "group": "se lo, se la",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 50,
+   "start": 411.819,
+   "end": 419.552,
+   "es": "Se los regalé a mis sobrinos.",
+   "group": "se lo, se la",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 51,
+   "start": 419.552,
+   "end": 427.093,
+   "es": "No se lo digas a nadie.",
+   "group": "se lo, se la",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 428.593,
+   "end": 435.985,
+   "es": "Se me olvidó tu nombre.",
+   "group": "se me olvidó, se le cayó",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 435.985,
+   "end": 442.908,
+   "es": "Se le cayó el vaso.",
+   "group": "se me olvidó, se le cayó",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 442.908,
+   "end": 450.108,
+   "es": "Se nos acabó la leche.",
+   "group": "se me olvidó, se le cayó",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 450.108,
+   "end": 457.628,
+   "es": "Se me rompió el teléfono.",
+   "group": "se me olvidó, se le cayó",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 457.628,
+   "end": 465.361,
+   "es": "Se te olvidaron las llaves.",
+   "group": "se me olvidó, se le cayó",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 57,
+   "start": 465.361,
+   "end": 474.46,
+   "es": "Se le perdió la tarjeta en el autobús.",
+   "group": "se me olvidó, se le cayó",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 58,
+   "start": 474.46,
+   "end": 481.383,
+   "es": "Se me quemó el arroz.",
+   "group": "se me olvidó, se le cayó",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 59,
+   "start": 481.383,
+   "end": 488.177,
+   "es": "Se nos hizo tarde.",
+   "group": "se me olvidó, se le cayó",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 60,
+   "start": 488.177,
+   "end": 496.188,
+   "es": "Al niño se le cayó un diente.",
+   "group": "se me olvidó, se le cayó",
+   "group_index": 6,
+   "level": "B1"
+  }
+ ]
+}

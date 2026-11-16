@@ -1,0 +1,532 @@
+{
+ "word": "pasar",
+ "slug": "pasar",
+ "kind": "word",
+ "hash": "72f77762cfb358cd",
+ "duration": 483.696,
+ "voice": "santa",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 8.767,
+   "es": "Pasa, pasa, estás en tu casa.",
+   "group": "pasar, entrar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 8.767,
+   "end": 14.879,
+   "es": "¿Puedo pasar?",
+   "group": "pasar, entrar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 14.879,
+   "end": 21.588,
+   "es": "Pasen, por favor.",
+   "group": "pasar, entrar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 21.588,
+   "end": 29.172,
+   "es": "Pase, la doctora lo espera.",
+   "group": "pasar, entrar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 29.172,
+   "end": 36.863,
+   "es": "No se puede pasar por aquí.",
+   "group": "pasar, entrar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 36.863,
+   "end": 44.425,
+   "es": "Déjame pasar, por favor.",
+   "group": "pasar, entrar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 45.925,
+   "end": 51.717,
+   "es": "¿Qué pasa?",
+   "group": "pasar, ocurrir",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 7,
+   "start": 51.717,
+   "end": 57.488,
+   "es": "¿Qué pasó?",
+   "group": "pasar, ocurrir",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 8,
+   "start": 57.488,
+   "end": 63.877,
+   "es": "No pasa nada.",
+   "group": "pasar, ocurrir",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 63.877,
+   "end": 70.075,
+   "es": "¿Qué te pasa?",
+   "group": "pasar, ocurrir",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 70.075,
+   "end": 78.256,
+   "es": "Algo le pasa a mi computadora.",
+   "group": "pasar, ocurrir",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 78.256,
+   "end": 85.051,
+   "es": "¿Qué le pasa al bebé?",
+   "group": "pasar, ocurrir",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 85.051,
+   "end": 93.147,
+   "es": "Esto siempre me pasa los lunes.",
+   "group": "pasar, ocurrir",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 93.147,
+   "end": 102.224,
+   "es": "Ayer pasó algo muy raro en la oficina.",
+   "group": "pasar, ocurrir",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 14,
+   "start": 102.224,
+   "end": 109.723,
+   "es": "¿Qué te ha pasado en la mano?",
+   "group": "pasar, ocurrir",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 15,
+   "start": 111.223,
+   "end": 120.044,
+   "es": "El autobús pasa cada diez minutos.",
+   "group": "pasar por un lugar",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 16,
+   "start": 120.044,
+   "end": 127.82,
+   "es": "Paso por tu casa a las seis.",
+   "group": "pasar por un lugar",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 17,
+   "start": 127.82,
+   "end": 135.788,
+   "es": "Este tren pasa por mi pueblo.",
+   "group": "pasar por un lugar",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 18,
+   "start": 135.788,
+   "end": 144.844,
+   "es": "Pasamos por el parque de camino a casa.",
+   "group": "pasar por un lugar",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 19,
+   "start": 144.844,
+   "end": 152.62,
+   "es": "Ayer pasé por la panadería.",
+   "group": "pasar por un lugar",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 20,
+   "start": 152.62,
+   "end": 163.34,
+   "es": "¿Puedes pasar por el supermercado después del trabajo?",
+   "group": "pasar por un lugar",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 163.34,
+   "end": 171.927,
+   "es": "Un perro pasó corriendo por la calle.",
+   "group": "pasar por un lugar",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 173.427,
+   "end": 181.928,
+   "es": "Paso mucho tiempo con mi familia.",
+   "group": "pasar el tiempo",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 23,
+   "start": 181.928,
+   "end": 190.173,
+   "es": "Pasamos el verano en la playa.",
+   "group": "pasar el tiempo",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 24,
+   "start": 190.173,
+   "end": 197.587,
+   "es": "Pasé la tarde leyendo.",
+   "group": "pasar el tiempo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 25,
+   "start": 197.587,
+   "end": 205.341,
+   "es": "¿Dónde pasaste la Navidad?",
+   "group": "pasar el tiempo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 205.341,
+   "end": 214.717,
+   "es": "Ella pasa horas delante de la computadora.",
+   "group": "pasar el tiempo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 214.717,
+   "end": 224.136,
+   "es": "Hemos pasado una semana increíble en Perú.",
+   "group": "pasar el tiempo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 224.136,
+   "end": 233.64,
+   "es": "Voy a pasar el fin de semana con mis abuelos.",
+   "group": "pasar el tiempo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 235.14,
+   "end": 241.807,
+   "es": "¡Que lo pases bien!",
+   "group": "pasarlo bien o mal",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 241.807,
+   "end": 250.137,
+   "es": "Lo pasamos muy bien en la fiesta.",
+   "group": "pasarlo bien o mal",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 250.137,
+   "end": 259.535,
+   "es": "Los niños lo pasaron genial en el parque.",
+   "group": "pasarlo bien o mal",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 259.535,
+   "end": 268.505,
+   "es": "Lo pasé muy mal en el viaje en barco.",
+   "group": "pasarlo bien o mal",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 268.505,
+   "end": 276.879,
+   "es": "¿Lo pasaste bien en el concierto?",
+   "group": "pasarlo bien o mal",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 276.879,
+   "end": 286.319,
+   "es": "Mi abuela lo pasó mal cuando estuvo enferma.",
+   "group": "pasarlo bien o mal",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 286.319,
+   "end": 294.521,
+   "es": "Siempre lo pasamos bien juntos.",
+   "group": "pasarlo bien o mal",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 36,
+   "start": 296.021,
+   "end": 304.053,
+   "es": "El tiempo pasa muy rápido.",
+   "group": "el tiempo pasa",
+   "group_index": 5,
+   "level": "A1"
+  },
+  {
+   "i": 37,
+   "start": 304.053,
+   "end": 311.573,
+   "es": "Ya pasaron tres años.",
+   "group": "el tiempo pasa",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 38,
+   "start": 311.573,
+   "end": 320.267,
+   "es": "Pasaron muchos días sin noticias.",
+   "group": "el tiempo pasa",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 320.267,
+   "end": 329.387,
+   "es": "Han pasado diez minutos y no ha llegado.",
+   "group": "el tiempo pasa",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 40,
+   "start": 329.387,
+   "end": 337.312,
+   "es": "Con los años, el dolor pasa.",
+   "group": "el tiempo pasa",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 41,
+   "start": 337.312,
+   "end": 344.448,
+   "es": "Ya pasó la tormenta.",
+   "group": "el tiempo pasa",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 344.448,
+   "end": 354.549,
+   "es": "Cuando pase el invierno, vamos a pintar la casa.",
+   "group": "el tiempo pasa",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 43,
+   "start": 356.049,
+   "end": 362.823,
+   "es": "¿Me pasas la sal?",
+   "group": "pasar algo a alguien",
+   "group_index": 6,
+   "level": "A1"
+  },
+  {
+   "i": 44,
+   "start": 362.823,
+   "end": 370.577,
+   "es": "Pásame el agua, por favor.",
+   "group": "pasar algo a alguien",
+   "group_index": 6,
+   "level": "A1"
+  },
+  {
+   "i": 45,
+   "start": 370.577,
+   "end": 378.716,
+   "es": "Te paso el número de mi hermano.",
+   "group": "pasar algo a alguien",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 46,
+   "start": 378.716,
+   "end": 386.748,
+   "es": "Le pasé el balón a mi amigo.",
+   "group": "pasar algo a alguien",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 47,
+   "start": 386.748,
+   "end": 394.951,
+   "es": "¿Me pasaste las fotos del viaje?",
+   "group": "pasar algo a alguien",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 48,
+   "start": 394.951,
+   "end": 403.665,
+   "es": "Ya le he pasado el mensaje a mi jefe.",
+   "group": "pasar algo a alguien",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 49,
+   "start": 405.165,
+   "end": 414.691,
+   "es": "Pasé el examen de matemáticas a la primera.",
+   "group": "expresiones con pasar",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 50,
+   "start": 414.691,
+   "end": 423.213,
+   "es": "Me pasé de parada en el autobús.",
+   "group": "expresiones con pasar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 423.213,
+   "end": 431.587,
+   "es": "Ya se me pasó el dolor de cabeza.",
+   "group": "expresiones con pasar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 431.587,
+   "end": 438.979,
+   "es": "No te pases con la sal.",
+   "group": "expresiones con pasar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 438.979,
+   "end": 447.949,
+   "es": "Se me pasó llamarte, lo siento mucho.",
+   "group": "expresiones con pasar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 447.949,
+   "end": 458.243,
+   "es": "Pasamos por momentos difíciles el año pasado.",
+   "group": "expresiones con pasar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 458.243,
+   "end": 466.637,
+   "es": "Ojalá que no le pase nada malo.",
+   "group": "expresiones con pasar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 466.637,
+   "end": 475.288,
+   "es": "Pase lo que pase, yo estoy contigo.",
+   "group": "expresiones con pasar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 57,
+   "start": 475.288,
+   "end": 483.64,
+   "es": "Esa canción ya pasó de moda.",
+   "group": "expresiones con pasar",
+   "group_index": 7,
+   "level": "B1"
+  }
+ ]
+}

@@ -1,0 +1,559 @@
+{
+ "word": "vez",
+ "slug": "vez",
+ "kind": "word",
+ "hash": "21a806d066f7f246",
+ "duration": 526.104,
+ "voice": "santa",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 9.535,
+   "es": "Voy al gimnasio tres veces por semana.",
+   "group": "una vez, dos veces",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 9.535,
+   "end": 17.993,
+   "es": "Como pescado una vez a la semana.",
+   "group": "una vez, dos veces",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 17.993,
+   "end": 26.559,
+   "es": "Llamo a mi madre dos veces al día.",
+   "group": "una vez, dos veces",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 26.559,
+   "end": 34.377,
+   "es": "Lee la pregunta dos veces.",
+   "group": "una vez, dos veces",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 34.377,
+   "end": 41.343,
+   "es": "Solo lo digo una vez.",
+   "group": "una vez, dos veces",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 41.343,
+   "end": 50.633,
+   "es": "Tomo esta medicina tres veces al día.",
+   "group": "una vez, dos veces",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 50.633,
+   "end": 57.684,
+   "es": "Fui a París una vez.",
+   "group": "una vez, dos veces",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 7,
+   "start": 59.184,
+   "end": 66.683,
+   "es": "A veces trabajo en casa.",
+   "group": "a veces, muchas veces",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 8,
+   "start": 66.683,
+   "end": 74.096,
+   "es": "A veces llueve en verano.",
+   "group": "a veces, muchas veces",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 74.096,
+   "end": 82.811,
+   "es": "Mi hermano a veces cocina para todos.",
+   "group": "a veces, muchas veces",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 82.811,
+   "end": 91.035,
+   "es": "Muchas veces comemos juntos.",
+   "group": "a veces, muchas veces",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 91.035,
+   "end": 99.109,
+   "es": "A veces no entiendo a mi jefe.",
+   "group": "a veces, muchas veces",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 99.109,
+   "end": 108.123,
+   "es": "Muchas veces el tren llega tarde.",
+   "group": "a veces, muchas veces",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 108.123,
+   "end": 116.112,
+   "es": "¿Vas mucho al cine? A veces.",
+   "group": "a veces, muchas veces",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 14,
+   "start": 117.612,
+   "end": 125.089,
+   "es": "¿Puedes decirlo otra vez?",
+   "group": "otra vez",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 15,
+   "start": 125.089,
+   "end": 131.799,
+   "es": "Otra vez llueve.",
+   "group": "otra vez",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 16,
+   "start": 131.799,
+   "end": 140.791,
+   "es": "Mañana vamos otra vez a la playa.",
+   "group": "otra vez",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 17,
+   "start": 140.791,
+   "end": 146.945,
+   "es": "¡Otra vez tú!",
+   "group": "otra vez",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 18,
+   "start": 146.945,
+   "end": 156.172,
+   "es": "El niño quiere ver la película otra vez.",
+   "group": "otra vez",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 19,
+   "start": 156.172,
+   "end": 164.993,
+   "es": "Mi teléfono otra vez no funciona.",
+   "group": "otra vez",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 20,
+   "start": 164.993,
+   "end": 172.897,
+   "es": "Perdí las llaves otra vez.",
+   "group": "otra vez",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 174.397,
+   "end": 182.685,
+   "es": "Es la primera vez que vengo aquí.",
+   "group": "la primera vez, la última vez, la próxima vez",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 22,
+   "start": 182.685,
+   "end": 191.379,
+   "es": "La primera vez que la vi, no hablamos.",
+   "group": "la primera vez, la última vez, la próxima vez",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 23,
+   "start": 191.379,
+   "end": 200.093,
+   "es": "¿Cuándo fue la última vez que comiste?",
+   "group": "la primera vez, la última vez, la próxima vez",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 24,
+   "start": 200.093,
+   "end": 209.939,
+   "es": "La última vez que fui, el museo estaba cerrado.",
+   "group": "la primera vez, la última vez, la próxima vez",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 25,
+   "start": 209.939,
+   "end": 218.547,
+   "es": "Esta es la última vez que te ayudo.",
+   "group": "la primera vez, la última vez, la próxima vez",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 218.547,
+   "end": 228.179,
+   "es": "Recuerdo la primera vez que subí a un avión.",
+   "group": "la primera vez, la última vez, la próxima vez",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 228.179,
+   "end": 236.381,
+   "es": "La próxima vez, llámame antes.",
+   "group": "la primera vez, la última vez, la próxima vez",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 237.881,
+   "end": 246.297,
+   "es": "De vez en cuando como chocolate.",
+   "group": "de vez en cuando",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 246.297,
+   "end": 255.737,
+   "es": "Mis primos nos visitan de vez en cuando.",
+   "group": "de vez en cuando",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 255.737,
+   "end": 264.836,
+   "es": "De vez en cuando me gusta caminar solo.",
+   "group": "de vez en cuando",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 264.836,
+   "end": 273.487,
+   "es": "Vamos al teatro de vez en cuando.",
+   "group": "de vez en cuando",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 273.487,
+   "end": 282.863,
+   "es": "De vez en cuando escucho música clásica.",
+   "group": "de vez en cuando",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 282.863,
+   "end": 291.727,
+   "es": "Es bueno descansar de vez en cuando.",
+   "group": "de vez en cuando",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 293.227,
+   "end": 299.957,
+   "es": "Tal vez mañana.",
+   "group": "tal vez",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 299.957,
+   "end": 307.456,
+   "es": "Tal vez voy a la fiesta.",
+   "group": "tal vez",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 36,
+   "start": 307.456,
+   "end": 314.72,
+   "es": "Tal vez tienes razón.",
+   "group": "tal vez",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 37,
+   "start": 314.72,
+   "end": 322.453,
+   "es": "Tal vez está en la cocina.",
+   "group": "tal vez",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 38,
+   "start": 322.453,
+   "end": 330.293,
+   "es": "Tal vez llueva esta tarde.",
+   "group": "tal vez",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 39,
+   "start": 330.293,
+   "end": 339.051,
+   "es": "Tal vez Ana no sepa la dirección.",
+   "group": "tal vez",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 40,
+   "start": 339.051,
+   "end": 347.701,
+   "es": "Tal vez podamos vernos el sábado.",
+   "group": "tal vez",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 41,
+   "start": 349.201,
+   "end": 357.233,
+   "es": "Hoy tomo té en vez de café.",
+   "group": "en vez de",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 357.233,
+   "end": 366.161,
+   "es": "Vamos a pie en vez de tomar un taxi.",
+   "group": "en vez de",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 43,
+   "start": 366.161,
+   "end": 375.388,
+   "es": "En vez de ver la televisión, lee un libro.",
+   "group": "en vez de",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 44,
+   "start": 375.388,
+   "end": 383.505,
+   "es": "Compré pollo en vez de carne.",
+   "group": "en vez de",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 45,
+   "start": 383.505,
+   "end": 392.647,
+   "es": "Ella fue a la reunión en vez de su jefe.",
+   "group": "en vez de",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 46,
+   "start": 392.647,
+   "end": 403.687,
+   "es": "Prefiero quedarme en casa en vez de salir esta noche.",
+   "group": "en vez de",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 47,
+   "start": 403.687,
+   "end": 412.359,
+   "es": "En vez de quejarte, ayúdame un poco.",
+   "group": "en vez de",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 413.859,
+   "end": 422.509,
+   "es": "No puedo hacer dos cosas a la vez.",
+   "group": "a la vez",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 422.509,
+   "end": 430.051,
+   "es": "Todos hablaban a la vez.",
+   "group": "a la vez",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 50,
+   "start": 430.051,
+   "end": 439.661,
+   "es": "Es una película triste y divertida a la vez.",
+   "group": "a la vez",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 439.661,
+   "end": 448.077,
+   "es": "Sentí miedo y alegría a la vez.",
+   "group": "a la vez",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 448.077,
+   "end": 457.027,
+   "es": "Mi hermana estudia y trabaja a la vez.",
+   "group": "a la vez",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 457.027,
+   "end": 465.827,
+   "es": "Los dos llegamos a la puerta a la vez.",
+   "group": "a la vez",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 467.327,
+   "end": 475.124,
+   "es": "Hace cada vez más calor.",
+   "group": "cada vez más, cada vez menos",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 475.124,
+   "end": 482.815,
+   "es": "Cada vez hay menos tiempo.",
+   "group": "cada vez más, cada vez menos",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 482.815,
+   "end": 490.975,
+   "es": "Mi español es cada vez mejor.",
+   "group": "cada vez más, cada vez menos",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 57,
+   "start": 490.975,
+   "end": 500.692,
+   "es": "Cada vez más personas trabajan desde casa.",
+   "group": "cada vez más, cada vez menos",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 58,
+   "start": 500.692,
+   "end": 509.385,
+   "es": "La ciudad está cada vez más cara.",
+   "group": "cada vez más, cada vez menos",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 59,
+   "start": 509.385,
+   "end": 517.439,
+   "es": "Cada vez leo menos libros.",
+   "group": "cada vez más, cada vez menos",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 60,
+   "start": 517.439,
+   "end": 526.047,
+   "es": "Tu hijo está cada vez más alto.",
+   "group": "cada vez más, cada vez menos",
+   "group_index": 8,
+   "level": "B1"
+  }
+ ]
+}

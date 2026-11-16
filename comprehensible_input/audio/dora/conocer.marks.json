@@ -1,0 +1,568 @@
+{
+ "word": "conocer",
+ "slug": "conocer",
+ "kind": "word",
+ "hash": "09e6e2b98fe553b8",
+ "duration": 569.448,
+ "voice": "dora",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 7.487,
+   "es": "Conozco a tu hermano.",
+   "group": "conocer a una persona",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 7.487,
+   "end": 14.772,
+   "es": "No conozco a nadie aquí.",
+   "group": "conocer a una persona",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 14.772,
+   "end": 21.929,
+   "es": "¿Conoces a mi vecina?",
+   "group": "conocer a una persona",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 21.929,
+   "end": 30.644,
+   "es": "Ella conoce a todos en la oficina.",
+   "group": "conocer a una persona",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 30.644,
+   "end": 39.337,
+   "es": "Conocemos al profesor de música.",
+   "group": "conocer a una persona",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 39.337,
+   "end": 47.86,
+   "es": "Mis padres no conocen a mi jefe.",
+   "group": "conocer a una persona",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 47.86,
+   "end": 56.852,
+   "es": "Yo conozco a la dueña del restaurante.",
+   "group": "conocer a una persona",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 7,
+   "start": 56.852,
+   "end": 65.588,
+   "es": "Te conozco desde hace muchos años.",
+   "group": "conocer a una persona",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 8,
+   "start": 67.088,
+   "end": 74.437,
+   "es": "No conozco esta ciudad.",
+   "group": "conocer un lugar",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 74.437,
+   "end": 83.6,
+   "es": "Conozco un buen restaurante cerca de aquí.",
+   "group": "conocer un lugar",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 83.6,
+   "end": 90.181,
+   "es": "¿Conoces México?",
+   "group": "conocer un lugar",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 90.181,
+   "end": 97.957,
+   "es": "Mi abuela no conoce el mar.",
+   "group": "conocer un lugar",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 97.957,
+   "end": 105.669,
+   "es": "Quiero conocer Buenos Aires.",
+   "group": "conocer un lugar",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 105.669,
+   "end": 113.36,
+   "es": "Ya conocemos este museo.",
+   "group": "conocer un lugar",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 14,
+   "start": 113.36,
+   "end": 122.352,
+   "es": "El taxista conoce todas las calles.",
+   "group": "conocer un lugar",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 15,
+   "start": 122.352,
+   "end": 131.493,
+   "es": "Nunca he conocido un lugar tan tranquilo.",
+   "group": "conocer un lugar",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 16,
+   "start": 132.993,
+   "end": 140.577,
+   "es": "¿Conoces un buen médico?",
+   "group": "preguntas y recomendaciones",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 17,
+   "start": 140.577,
+   "end": 148.567,
+   "es": "¿Conoces algún hotel barato?",
+   "group": "preguntas y recomendaciones",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 18,
+   "start": 148.567,
+   "end": 157.004,
+   "es": "¿Conocen una tienda abierta ahora?",
+   "group": "preguntas y recomendaciones",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 19,
+   "start": 157.004,
+   "end": 166.551,
+   "es": "¿Conoces una buena película para esta noche?",
+   "group": "preguntas y recomendaciones",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 20,
+   "start": 166.551,
+   "end": 175.969,
+   "es": "Si conoces un buen mecánico, avísame.",
+   "group": "preguntas y recomendaciones",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 175.969,
+   "end": 185.452,
+   "es": "¿Conoces alguna receta fácil con pollo?",
+   "group": "preguntas y recomendaciones",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 185.452,
+   "end": 194.913,
+   "es": "Te recomiendo un café que conozco en el centro.",
+   "group": "preguntas y recomendaciones",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 23,
+   "start": 194.913,
+   "end": 203.991,
+   "es": "¿Usted conoce a alguien que hable inglés?",
+   "group": "preguntas y recomendaciones",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 24,
+   "start": 205.491,
+   "end": 213.16,
+   "es": "Mucho gusto en conocerte.",
+   "group": "conocer por primera vez",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 25,
+   "start": 213.16,
+   "end": 222.152,
+   "es": "Conocí a mi novia en la universidad.",
+   "group": "conocer por primera vez",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 222.152,
+   "end": 230.12,
+   "es": "¿Dónde conociste a tu esposo?",
+   "group": "conocer por primera vez",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 230.12,
+   "end": 239.283,
+   "es": "Nos conocimos en una fiesta de cumpleaños.",
+   "group": "conocer por primera vez",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 239.283,
+   "end": 247.635,
+   "es": "Ayer conocí a los padres de Carlos.",
+   "group": "conocer por primera vez",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 247.635,
+   "end": 256.392,
+   "es": "Mañana vas a conocer a mi familia.",
+   "group": "conocer por primera vez",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 256.392,
+   "end": 265.512,
+   "es": "Conocí a mi mejor amigo en el autobús.",
+   "group": "conocer por primera vez",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 265.512,
+   "end": 275.357,
+   "es": "Me encantaría conocer a tu hermana algún día.",
+   "group": "conocer por primera vez",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 32,
+   "start": 276.857,
+   "end": 283.609,
+   "es": "¿Ustedes se conocen?",
+   "group": "conocerse",
+   "group_index": 4,
+   "level": "A1"
+  },
+  {
+   "i": 33,
+   "start": 283.609,
+   "end": 292.516,
+   "es": "Nosotros nos conocemos desde niños.",
+   "group": "conocerse",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 292.516,
+   "end": 300.847,
+   "es": "Ellos se conocieron en el trabajo.",
+   "group": "conocerse",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 300.847,
+   "end": 309.199,
+   "es": "Nos conocimos hace diez años.",
+   "group": "conocerse",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 36,
+   "start": 309.199,
+   "end": 317.871,
+   "es": "Mis padres se conocieron en un tren.",
+   "group": "conocerse",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 37,
+   "start": 317.871,
+   "end": 328.527,
+   "es": "Me conozco muy bien y sé cuándo necesito descansar.",
+   "group": "conocerse",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 38,
+   "start": 328.527,
+   "end": 337.54,
+   "es": "Es importante conocerse a uno mismo.",
+   "group": "conocerse",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 39,
+   "start": 339.04,
+   "end": 347.84,
+   "es": "Conozco a Ana, pero no sé dónde vive.",
+   "group": "conocer y saber",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 40,
+   "start": 347.84,
+   "end": 357.707,
+   "es": "Conozco Madrid, pero no sé dónde está tu hotel.",
+   "group": "conocer y saber",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 41,
+   "start": 357.707,
+   "end": 367.595,
+   "es": "Sé su nombre, pero no lo conozco personalmente.",
+   "group": "conocer y saber",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 367.595,
+   "end": 376.544,
+   "es": "Conozco la canción, pero no sé la letra.",
+   "group": "conocer y saber",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 43,
+   "start": 376.544,
+   "end": 386.965,
+   "es": "No conozco al nuevo director, solo sé que es muy serio.",
+   "group": "conocer y saber",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 44,
+   "start": 386.965,
+   "end": 398.069,
+   "es": "Conozco el camino, así que sé cuánto tiempo vamos a tardar.",
+   "group": "conocer y saber",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 45,
+   "start": 398.069,
+   "end": 408.661,
+   "es": "Aunque conozco bien el tema, no sé si podré explicarlo.",
+   "group": "conocer y saber",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 46,
+   "start": 410.161,
+   "end": 419.367,
+   "es": "Es un cantante muy conocido en su país.",
+   "group": "conocido y dar a conocer",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 47,
+   "start": 419.367,
+   "end": 428.337,
+   "es": "Esta ciudad es conocida por su comida.",
+   "group": "conocido y dar a conocer",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 428.337,
+   "end": 437.329,
+   "es": "El pintor es conocido en todo el mundo.",
+   "group": "conocido y dar a conocer",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 437.329,
+   "end": 445.788,
+   "es": "Lo conocen como el rey de la salsa.",
+   "group": "conocido y dar a conocer",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 50,
+   "start": 445.788,
+   "end": 455.996,
+   "es": "La empresa dio a conocer su nuevo producto ayer.",
+   "group": "conocido y dar a conocer",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 455.996,
+   "end": 467.143,
+   "es": "Mañana van a dar a conocer los resultados del examen.",
+   "group": "conocido y dar a conocer",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 467.143,
+   "end": 477.095,
+   "es": "El pueblo es conocido como la capital del café.",
+   "group": "conocido y dar a conocer",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 477.095,
+   "end": 487.879,
+   "es": "El libro ayudó a dar a conocer la historia de la región.",
+   "group": "conocido y dar a conocer",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 489.379,
+   "end": 497.261,
+   "es": "Conozco muy bien a mi hermana.",
+   "group": "conocer bien, de vista, a fondo",
+   "group_index": 7,
+   "level": "A1"
+  },
+  {
+   "i": 55,
+   "start": 497.261,
+   "end": 509.645,
+   "es": "Mi vecina me conoce de vista porque paso por su calle todos los días.",
+   "group": "conocer bien, de vista, a fondo",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 56,
+   "start": 509.645,
+   "end": 519.213,
+   "es": "Lo conozco de vista, pero nunca hemos hablado.",
+   "group": "conocer bien, de vista, a fondo",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 57,
+   "start": 519.213,
+   "end": 527.096,
+   "es": "Ella conoce el tema a fondo.",
+   "group": "conocer bien, de vista, a fondo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 58,
+   "start": 527.096,
+   "end": 537.325,
+   "es": "Antes de decidir, quiero conocer el proyecto a fondo.",
+   "group": "conocer bien, de vista, a fondo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 59,
+   "start": 537.325,
+   "end": 547.768,
+   "es": "No lo conocía bien, pero parecía una buena persona.",
+   "group": "conocer bien, de vista, a fondo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 60,
+   "start": 547.768,
+   "end": 559.384,
+   "es": "Para trabajar aquí, es necesario que conozcas bien el sistema.",
+   "group": "conocer bien, de vista, a fondo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 61,
+   "start": 559.384,
+   "end": 569.4,
+   "es": "Después de tantos viajes, conoce el país a fondo.",
+   "group": "conocer bien, de vista, a fondo",
+   "group_index": 7,
+   "level": "B1"
+  }
+ ]
+}

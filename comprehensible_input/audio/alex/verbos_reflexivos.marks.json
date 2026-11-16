@@ -1,0 +1,586 @@
+{
+ "word": "verbos reflexivos",
+ "slug": "verbos_reflexivos",
+ "kind": "concept",
+ "hash": "dff289c33591f2ad",
+ "duration": 552.48,
+ "voice": "alex",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 7.743,
+   "es": "Me despierto a las siete.",
+   "group": "la rutina diaria",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 7.743,
+   "end": 16.607,
+   "es": "Me levanto temprano todos los días.",
+   "group": "la rutina diaria",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 16.607,
+   "end": 25.044,
+   "es": "Mi hermano se ducha por la noche.",
+   "group": "la rutina diaria",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 25.044,
+   "end": 33.759,
+   "es": "Nos vestimos rápido por la mañana.",
+   "group": "la rutina diaria",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 33.759,
+   "end": 42.175,
+   "es": "Los niños se acuestan a las nueve.",
+   "group": "la rutina diaria",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 42.175,
+   "end": 49.353,
+   "es": "¿A qué hora te levantas?",
+   "group": "la rutina diaria",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 49.353,
+   "end": 57.897,
+   "es": "Mi padre se afeita cada mañana.",
+   "group": "la rutina diaria",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 7,
+   "start": 57.897,
+   "end": 65.631,
+   "es": "Me peino antes de salir.",
+   "group": "la rutina diaria",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 8,
+   "start": 65.631,
+   "end": 74.729,
+   "es": "¿Te duchas por la mañana o por la noche?",
+   "group": "la rutina diaria",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 76.229,
+   "end": 84.752,
+   "es": "Me lavo las manos antes de comer.",
+   "group": "con partes del cuerpo y la ropa",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 84.752,
+   "end": 92.976,
+   "es": "Ella se lava el pelo cada día.",
+   "group": "con partes del cuerpo y la ropa",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 92.976,
+   "end": 102.8,
+   "es": "Me cepillo los dientes después del desayuno.",
+   "group": "con partes del cuerpo y la ropa",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 102.8,
+   "end": 110.299,
+   "es": "El niño se lava la cara.",
+   "group": "con partes del cuerpo y la ropa",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 110.299,
+   "end": 118.032,
+   "es": "Mi madre se pinta las uñas.",
+   "group": "con partes del cuerpo y la ropa",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 14,
+   "start": 118.032,
+   "end": 126.405,
+   "es": "Se pone los zapatos en la puerta.",
+   "group": "con partes del cuerpo y la ropa",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 15,
+   "start": 126.405,
+   "end": 134.117,
+   "es": "Me quito el abrigo al entrar.",
+   "group": "con partes del cuerpo y la ropa",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 16,
+   "start": 134.117,
+   "end": 142.448,
+   "es": "Me corto el pelo una vez al mes.",
+   "group": "con partes del cuerpo y la ropa",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 17,
+   "start": 143.948,
+   "end": 152.62,
+   "es": "Me enojo cuando hay mucho tráfico.",
+   "group": "sentimientos y cambios",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 18,
+   "start": 152.62,
+   "end": 160.801,
+   "es": "Mi madre se preocupa por todo.",
+   "group": "sentimientos y cambios",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 19,
+   "start": 160.801,
+   "end": 168.983,
+   "es": "Nos alegramos mucho de verte.",
+   "group": "sentimientos y cambios",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 20,
+   "start": 168.983,
+   "end": 177.121,
+   "es": "Los niños se aburren en el auto.",
+   "group": "sentimientos y cambios",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 177.121,
+   "end": 186.199,
+   "es": "Me pongo nervioso antes de un examen.",
+   "group": "sentimientos y cambios",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 186.199,
+   "end": 194.721,
+   "es": "Ella se cansa mucho en el trabajo.",
+   "group": "sentimientos y cambios",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 23,
+   "start": 194.721,
+   "end": 202.22,
+   "es": "¿Por qué te enojas tanto?",
+   "group": "sentimientos y cambios",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 24,
+   "start": 202.22,
+   "end": 210.06,
+   "es": "Hoy me siento mucho mejor.",
+   "group": "sentimientos y cambios",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 25,
+   "start": 210.06,
+   "end": 218.22,
+   "es": "Él se pone triste cuando llueve.",
+   "group": "sentimientos y cambios",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 219.72,
+   "end": 227.005,
+   "es": "Levántate, ya es tarde.",
+   "group": "en mandatos e infinitivos",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 227.005,
+   "end": 234.141,
+   "es": "Voy a ducharme ahora.",
+   "group": "en mandatos e infinitivos",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 234.141,
+   "end": 241.683,
+   "es": "Siéntate aquí, por favor.",
+   "group": "en mandatos e infinitivos",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 241.683,
+   "end": 249.928,
+   "es": "No te preocupes, todo está bien.",
+   "group": "en mandatos e infinitivos",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 249.928,
+   "end": 258.344,
+   "es": "Tengo que acostarme temprano hoy.",
+   "group": "en mandatos e infinitivos",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 258.344,
+   "end": 267.187,
+   "es": "Lávate las manos, la cena está lista.",
+   "group": "en mandatos e infinitivos",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 267.187,
+   "end": 274.856,
+   "es": "Ponte el abrigo, hace frío.",
+   "group": "en mandatos e infinitivos",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 274.856,
+   "end": 283.123,
+   "es": "Necesito relajarme un poco.",
+   "group": "en mandatos e infinitivos",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 283.123,
+   "end": 290.621,
+   "es": "Cálmate, no pasa nada.",
+   "group": "en mandatos e infinitivos",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 290.621,
+   "end": 299.229,
+   "es": "Acuérdate de llamarme cuando llegues.",
+   "group": "en mandatos e infinitivos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 36,
+   "start": 300.729,
+   "end": 308.591,
+   "es": "Ayer me levanté muy tarde.",
+   "group": "en pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 37,
+   "start": 308.591,
+   "end": 317.476,
+   "es": "Esta mañana me duché con agua fría.",
+   "group": "en pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 38,
+   "start": 317.476,
+   "end": 326.596,
+   "es": "Cuando era niño, me acostaba a las ocho.",
+   "group": "en pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 326.596,
+   "end": 335.332,
+   "es": "Mi hermana se casó el año pasado.",
+   "group": "en pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 40,
+   "start": 335.332,
+   "end": 343.428,
+   "es": "¿A qué hora te despertaste hoy?",
+   "group": "en pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 41,
+   "start": 343.428,
+   "end": 352.825,
+   "es": "Los niños se divirtieron mucho en el parque.",
+   "group": "en pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 352.825,
+   "end": 359.94,
+   "es": "Me caí en la escalera.",
+   "group": "en pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 43,
+   "start": 359.94,
+   "end": 370.489,
+   "es": "Antes nos levantábamos a las seis para ir al trabajo.",
+   "group": "en pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 44,
+   "start": 370.489,
+   "end": 379.78,
+   "es": "Ya me había vestido cuando llegó el taxi.",
+   "group": "en pasado",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 45,
+   "start": 381.28,
+   "end": 390.464,
+   "es": "Nos conocimos en un viaje a México.",
+   "group": "acciones recíprocas",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 46,
+   "start": 390.464,
+   "end": 398.219,
+   "es": "Mis padres se quieren mucho.",
+   "group": "acciones recíprocas",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 47,
+   "start": 398.219,
+   "end": 407.424,
+   "es": "Mi hermano y yo nos llamamos cada semana.",
+   "group": "acciones recíprocas",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 48,
+   "start": 407.424,
+   "end": 417.333,
+   "es": "Los dos amigos se abrazaron en el aeropuerto.",
+   "group": "acciones recíprocas",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 49,
+   "start": 417.333,
+   "end": 426.709,
+   "es": "Ellos se escriben mensajes todos los días.",
+   "group": "acciones recíprocas",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 50,
+   "start": 426.709,
+   "end": 436.683,
+   "es": "Ana y Luis se ayudan con las tareas de la casa.",
+   "group": "acciones recíprocas",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 51,
+   "start": 436.683,
+   "end": 445.547,
+   "es": "Los vecinos se saludan en la escalera.",
+   "group": "acciones recíprocas",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 52,
+   "start": 445.547,
+   "end": 454.581,
+   "es": "Es importante que nos escuchemos más.",
+   "group": "acciones recíprocas",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 454.581,
+   "end": 463.637,
+   "es": "Ojalá se entiendan mejor con el tiempo.",
+   "group": "acciones recíprocas",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 465.137,
+   "end": 472.444,
+   "es": "¿Cómo se llama tu perro?",
+   "group": "cambios de significado",
+   "group_index": 6,
+   "level": "A1"
+  },
+  {
+   "i": 55,
+   "start": 472.444,
+   "end": 479.793,
+   "es": "Ya me voy, es muy tarde.",
+   "group": "cambios de significado",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 56,
+   "start": 479.793,
+   "end": 489.233,
+   "es": "¿Por qué te fuiste tan temprano de la fiesta?",
+   "group": "cambios de significado",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 57,
+   "start": 489.233,
+   "end": 497.308,
+   "es": "El bebé se durmió en el auto.",
+   "group": "cambios de significado",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 58,
+   "start": 497.308,
+   "end": 505.553,
+   "es": "Hoy me quedo en casa porque llueve.",
+   "group": "cambios de significado",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 59,
+   "start": 505.553,
+   "end": 516.572,
+   "es": "Normalmente duermo bien, pero anoche me dormí muy tarde.",
+   "group": "cambios de significado",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 60,
+   "start": 516.572,
+   "end": 526.097,
+   "es": "Me quedé dormido y llegué tarde al trabajo.",
+   "group": "cambios de significado",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 61,
+   "start": 526.097,
+   "end": 535.516,
+   "es": "Se quedaron sin dinero al final del viaje.",
+   "group": "cambios de significado",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 62,
+   "start": 535.516,
+   "end": 544.871,
+   "es": "Me di cuenta del error demasiado tarde.",
+   "group": "cambios de significado",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 63,
+   "start": 544.871,
+   "end": 552.412,
+   "es": "No me acuerdo de su nombre.",
+   "group": "cambios de significado",
+   "group_index": 6,
+   "level": "B1"
+  }
+ ]
+}

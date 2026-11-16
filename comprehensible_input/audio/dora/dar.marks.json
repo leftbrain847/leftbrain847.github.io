@@ -1,0 +1,568 @@
+{
+ "word": "dar",
+ "slug": "dar",
+ "kind": "word",
+ "hash": "74093b64869ae221",
+ "duration": 528.888,
+ "voice": "dora",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 8.447,
+   "es": "Te doy mi número de teléfono.",
+   "group": "dar, entregar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 8.447,
+   "end": 16.009,
+   "es": "¿Me das un vaso de agua?",
+   "group": "dar, entregar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 16.009,
+   "end": 25.151,
+   "es": "Mi abuela me da dinero en mi cumpleaños.",
+   "group": "dar, entregar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 25.151,
+   "end": 33.545,
+   "es": "El profesor nos da mucha tarea.",
+   "group": "dar, entregar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 33.545,
+   "end": 41.023,
+   "es": "¿Le das de comer al gato?",
+   "group": "dar, entregar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 41.023,
+   "end": 47.113,
+   "es": "Dame la mano.",
+   "group": "dar, entregar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 47.113,
+   "end": 56.489,
+   "es": "Los vecinos nos dan fruta de su jardín.",
+   "group": "dar, entregar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 7,
+   "start": 56.489,
+   "end": 63.199,
+   "es": "¿Qué le damos a mamá?",
+   "group": "dar, entregar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 8,
+   "start": 63.199,
+   "end": 70.612,
+   "es": "¿Me das la sal, por favor?",
+   "group": "dar, entregar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 72.112,
+   "end": 79.845,
+   "es": "Te doy las gracias por todo.",
+   "group": "dar las gracias",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 79.845,
+   "end": 88.816,
+   "es": "Siempre damos las gracias al conductor.",
+   "group": "dar las gracias",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 88.816,
+   "end": 97.552,
+   "es": "Quiero darle las gracias a tu madre.",
+   "group": "dar las gracias",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 97.552,
+   "end": 104.667,
+   "es": "Hay que dar las gracias.",
+   "group": "dar las gracias",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 104.667,
+   "end": 112.72,
+   "es": "Le di las gracias por el regalo.",
+   "group": "dar las gracias",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 14,
+   "start": 112.72,
+   "end": 121.136,
+   "es": "Los niños no dieron las gracias.",
+   "group": "dar las gracias",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 15,
+   "start": 122.636,
+   "end": 130.263,
+   "es": "Le di un beso a mi abuela.",
+   "group": "di, dio, daba",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 16,
+   "start": 130.263,
+   "end": 138.231,
+   "es": "Mi jefe me dio el día libre.",
+   "group": "di, dio, daba",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 17,
+   "start": 138.231,
+   "end": 145.751,
+   "es": "¿Quién te dio esa noticia?",
+   "group": "di, dio, daba",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 18,
+   "start": 145.751,
+   "end": 155.041,
+   "es": "Nos dieron una habitación con vista al mar.",
+   "group": "di, dio, daba",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 19,
+   "start": 155.041,
+   "end": 164.332,
+   "es": "Mi padre siempre me daba buenos consejos.",
+   "group": "di, dio, daba",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 20,
+   "start": 164.332,
+   "end": 172.193,
+   "es": "El médico me dio una receta.",
+   "group": "di, dio, daba",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 172.193,
+   "end": 181.484,
+   "es": "Le dimos un regalo a nuestra profesora.",
+   "group": "di, dio, daba",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 182.984,
+   "end": 191.293,
+   "es": "Después de comer, damos un paseo.",
+   "group": "dar una vuelta, dar un paseo",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 23,
+   "start": 191.293,
+   "end": 200.499,
+   "es": "Mis abuelos dan un paseo cada tarde.",
+   "group": "dar una vuelta, dar un paseo",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 24,
+   "start": 200.499,
+   "end": 209.469,
+   "es": "Vamos a dar una vuelta por el centro.",
+   "group": "dar una vuelta, dar un paseo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 25,
+   "start": 209.469,
+   "end": 218.141,
+   "es": "¿Quieres dar una vuelta en bicicleta?",
+   "group": "dar una vuelta, dar un paseo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 218.141,
+   "end": 226.472,
+   "es": "Ayer dimos un paseo por la playa.",
+   "group": "dar una vuelta, dar un paseo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 226.472,
+   "end": 234.717,
+   "es": "Voy a dar una vuelta con el perro.",
+   "group": "dar una vuelta, dar un paseo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 234.717,
+   "end": 244.691,
+   "es": "Dimos una vuelta por el mercado antes de cenar.",
+   "group": "dar una vuelta, dar un paseo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 246.191,
+   "end": 253.476,
+   "es": "Me dan miedo las arañas.",
+   "group": "dar miedo, vergüenza, pena",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 253.476,
+   "end": 261.721,
+   "es": "A mi hijo le da miedo la oscuridad.",
+   "group": "dar miedo, vergüenza, pena",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 261.721,
+   "end": 270.18,
+   "es": "Me da vergüenza hablar en público.",
+   "group": "dar miedo, vergüenza, pena",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 270.18,
+   "end": 279.023,
+   "es": "¿No te da vergüenza llegar tan tarde?",
+   "group": "dar miedo, vergüenza, pena",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 279.023,
+   "end": 287.375,
+   "es": "Me da pena ver a ese perro solo.",
+   "group": "dar miedo, vergüenza, pena",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 287.375,
+   "end": 296.047,
+   "es": "Nos dio mucha pena dejar la ciudad.",
+   "group": "dar miedo, vergüenza, pena",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 296.047,
+   "end": 304.42,
+   "es": "Esa película me dio mucho miedo.",
+   "group": "dar miedo, vergüenza, pena",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 36,
+   "start": 304.42,
+   "end": 313.711,
+   "es": "Le da vergüenza bailar delante de todos.",
+   "group": "dar miedo, vergüenza, pena",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 37,
+   "start": 315.211,
+   "end": 321.259,
+   "es": "Me da igual.",
+   "group": "dar igual",
+   "group_index": 5,
+   "level": "A1"
+  },
+  {
+   "i": 38,
+   "start": 321.259,
+   "end": 329.099,
+   "es": "¿Pizza o pasta? Me da igual.",
+   "group": "dar igual",
+   "group_index": 5,
+   "level": "A1"
+  },
+  {
+   "i": 39,
+   "start": 329.099,
+   "end": 338.539,
+   "es": "Nos da igual el precio, queremos un buen hotel.",
+   "group": "dar igual",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 40,
+   "start": 338.539,
+   "end": 346.485,
+   "es": "¿Te da igual si vamos mañana?",
+   "group": "dar igual",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 41,
+   "start": 346.485,
+   "end": 355.691,
+   "es": "Antes me importaba, pero ahora me da igual.",
+   "group": "dar igual",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 355.691,
+   "end": 363.147,
+   "es": "Da igual, no pasa nada.",
+   "group": "dar igual",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 43,
+   "start": 363.147,
+   "end": 372.629,
+   "es": "A ella le da igual lo que piensen los demás.",
+   "group": "dar igual",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 44,
+   "start": 374.129,
+   "end": 380.241,
+   "es": "¡Date prisa!",
+   "group": "darse prisa",
+   "group_index": 6,
+   "level": "A1"
+  },
+  {
+   "i": 45,
+   "start": 380.241,
+   "end": 388.7,
+   "es": "Dense prisa, el tren sale ahora.",
+   "group": "darse prisa",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 46,
+   "start": 388.7,
+   "end": 398.055,
+   "es": "Si no nos damos prisa, vamos a llegar tarde.",
+   "group": "darse prisa",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 47,
+   "start": 398.055,
+   "end": 406.129,
+   "es": "Me di prisa y llegué a tiempo.",
+   "group": "darse prisa",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 48,
+   "start": 406.129,
+   "end": 414.161,
+   "es": "No hace falta que te des prisa.",
+   "group": "darse prisa",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 415.661,
+   "end": 422.904,
+   "es": "No me di cuenta de la hora.",
+   "group": "darse cuenta",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 50,
+   "start": 422.904,
+   "end": 431.021,
+   "es": "¿Te diste cuenta de que no estaba?",
+   "group": "darse cuenta",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 51,
+   "start": 431.021,
+   "end": 439.139,
+   "es": "Me di cuenta demasiado tarde.",
+   "group": "darse cuenta",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 52,
+   "start": 439.139,
+   "end": 449.752,
+   "es": "De repente me di cuenta de que había perdido las llaves.",
+   "group": "darse cuenta",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 449.752,
+   "end": 457.677,
+   "es": "Nadie se dio cuenta del error.",
+   "group": "darse cuenta",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 457.677,
+   "end": 466.392,
+   "es": "Cuando te des cuenta, ya será tarde.",
+   "group": "darse cuenta",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 466.392,
+   "end": 475.725,
+   "es": "Es importante que se den cuenta del problema.",
+   "group": "darse cuenta",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 475.725,
+   "end": 484.589,
+   "es": "Por fin me he dado cuenta de lo que quiero.",
+   "group": "darse cuenta",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 57,
+   "start": 486.089,
+   "end": 493.289,
+   "es": "La ventana da al mar.",
+   "group": "dar a, mirar hacia",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 58,
+   "start": 493.289,
+   "end": 502.047,
+   "es": "Mi habitación da a un patio tranquilo.",
+   "group": "dar a, mirar hacia",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 59,
+   "start": 502.047,
+   "end": 511.06,
+   "es": "Queremos una habitación que dé a la calle.",
+   "group": "dar a, mirar hacia",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 60,
+   "start": 511.06,
+   "end": 519.817,
+   "es": "La puerta de la cocina da al jardín.",
+   "group": "dar a, mirar hacia",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 61,
+   "start": 519.817,
+   "end": 528.831,
+   "es": "El balcón daba a una plaza muy bonita.",
+   "group": "dar a, mirar hacia",
+   "group_index": 8,
+   "level": "B1"
+  }
+ ]
+}

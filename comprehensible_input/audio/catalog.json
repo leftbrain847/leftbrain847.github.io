@@ -1,0 +1,564 @@
+{
+ "words": [
+  {
+   "slug": "acabar",
+   "word": "acabar",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 63,
+   "duration": 527.688,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 8,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "conocer",
+   "word": "conocer",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 62,
+   "duration": 569.448,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 8,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "dar",
+   "word": "dar",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 62,
+   "duration": 528.888,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 9,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "dejar",
+   "word": "dejar",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 59,
+   "duration": 484.368,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 8,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "echar",
+   "word": "echar",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 59,
+   "duration": 520.584,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 8,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "faltar_hacer_falta",
+   "word": "faltar / hacer falta",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 59,
+   "duration": 489.072,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 8,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "haber",
+   "word": "haber",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 62,
+   "duration": 495.84,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 8,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "hacer",
+   "word": "hacer",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 61,
+   "duration": 501.0,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 8,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "igual",
+   "word": "igual",
+   "kind": "word",
+   "pos": "adverbio",
+   "category": null,
+   "count": 63,
+   "duration": 539.184,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 8,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "llevar",
+   "word": "llevar",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 59,
+   "duration": 498.432,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 8,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "lo",
+   "word": "lo",
+   "kind": "word",
+   "pos": "pronombre",
+   "category": null,
+   "count": 62,
+   "duration": 489.864,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 7,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "mismo",
+   "word": "mismo",
+   "kind": "word",
+   "pos": "adjetivo",
+   "category": null,
+   "count": 56,
+   "duration": 462.792,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 8,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "pasar",
+   "word": "pasar",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 58,
+   "duration": 479.112,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 8,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "poner_se",
+   "word": "poner(se)",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 61,
+   "duration": 533.784,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 8,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "por_para",
+   "word": "por / para",
+   "kind": "word",
+   "pos": "preposicion",
+   "category": null,
+   "count": 62,
+   "duration": 504.936,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 9,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "que",
+   "word": "que",
+   "kind": "word",
+   "pos": "conjuncion",
+   "category": null,
+   "count": 62,
+   "duration": 488.424,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 8,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "quedar_se",
+   "word": "quedar(se)",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 58,
+   "duration": 487.224,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 8,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "sacar",
+   "word": "sacar",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 59,
+   "duration": 527.352,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 8,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "saludos_y_despedidas",
+   "word": "saludos y despedidas",
+   "kind": "concept",
+   "pos": null,
+   "category": "conversacion",
+   "count": 64,
+   "duration": 456.624,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 9,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "se",
+   "word": "se",
+   "kind": "word",
+   "pos": "pronombre",
+   "category": null,
+   "count": 61,
+   "duration": 486.768,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 7,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "seguir",
+   "word": "seguir",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 58,
+   "duration": 467.928,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 7,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "soler",
+   "word": "soler",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 58,
+   "duration": 518.16,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 7,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "tener",
+   "word": "tener",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 64,
+   "duration": 517.128,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 9,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "tocar",
+   "word": "tocar",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 57,
+   "duration": 487.152,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 7,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "verbos_reflexivos",
+   "word": "verbos reflexivos",
+   "kind": "concept",
+   "pos": null,
+   "category": "gramatica",
+   "count": 64,
+   "duration": 542.76,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 7,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "vez",
+   "word": "vez",
+   "kind": "word",
+   "pos": "sustantivo",
+   "category": null,
+   "count": 61,
+   "duration": 518.832,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 9,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "volver_a",
+   "word": "volver a",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 62,
+   "duration": 512.568,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 8,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  },
+  {
+   "slug": "ya_todavia",
+   "word": "ya / todavía",
+   "kind": "word",
+   "pos": "adverbio",
+   "category": null,
+   "count": 63,
+   "duration": 510.72,
+   "levels": [
+    "A1",
+    "A2",
+    "B1"
+   ],
+   "groups": 9,
+   "voices": [
+    "dora",
+    "alex",
+    "santa"
+   ]
+  }
+ ]
+}
