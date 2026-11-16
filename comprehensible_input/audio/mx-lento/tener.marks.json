@@ -1,0 +1,586 @@
+{
+ "word": "tener",
+ "slug": "tener",
+ "kind": "word",
+ "hash": "729e7510fa6917ce",
+ "duration": 681.576,
+ "voice": "mx-lento",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 8.881,
+   "es": "Tengo dos hermanos.",
+   "group": "tener, poseer",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 8.881,
+   "end": 17.405,
+   "es": "¿Tienes un bolígrafo?",
+   "group": "tener, poseer",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 17.405,
+   "end": 29.323,
+   "es": "Mi abuela tiene un gato negro.",
+   "group": "tener, poseer",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 29.323,
+   "end": 37.363,
+   "es": "No tenemos auto.",
+   "group": "tener, poseer",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 37.363,
+   "end": 48.778,
+   "es": "Esta casa tiene tres habitaciones.",
+   "group": "tener, poseer",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 48.778,
+   "end": 58.662,
+   "es": "¿Tiene usted una mesa para dos?",
+   "group": "tener, poseer",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 58.662,
+   "end": 69.339,
+   "es": "Ellos tienen una tienda en el centro.",
+   "group": "tener, poseer",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 7,
+   "start": 69.339,
+   "end": 77.962,
+   "es": "Hoy no tengo tiempo.",
+   "group": "tener, poseer",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 8,
+   "start": 77.962,
+   "end": 88.858,
+   "es": "Mi hermana tiene el pelo largo.",
+   "group": "tener, poseer",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 90.358,
+   "end": 101.242,
+   "es": "Aquí tienes las llaves.",
+   "group": "aquí tienes",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 101.242,
+   "end": 112.939,
+   "es": "Aquí tiene su café, señora.",
+   "group": "aquí tienes",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 112.939,
+   "end": 121.348,
+   "es": "Aquí tienen el menú.",
+   "group": "aquí tienes",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 121.348,
+   "end": 130.337,
+   "es": "Aquí tienes tu cambio.",
+   "group": "aquí tienes",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 131.837,
+   "end": 140.574,
+   "es": "Tengo treinta años.",
+   "group": "tener años",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 14,
+   "start": 140.574,
+   "end": 149.123,
+   "es": "¿Cuántos años tienes?",
+   "group": "tener años",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 15,
+   "start": 149.123,
+   "end": 159.914,
+   "es": "Mi hijo tiene cinco años.",
+   "group": "tener años",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 16,
+   "start": 159.914,
+   "end": 170.763,
+   "es": "Mi abuelo tiene noventa años.",
+   "group": "tener años",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 17,
+   "start": 170.763,
+   "end": 181.083,
+   "es": "El perro ya tiene diez años.",
+   "group": "tener años",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 18,
+   "start": 181.083,
+   "end": 195.486,
+   "es": "Cuando tenía veinte años, vivía en Lima.",
+   "group": "tener años",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 19,
+   "start": 196.986,
+   "end": 206.004,
+   "es": "Tengo mucha hambre.",
+   "group": "tener hambre, sed, frío, calor, sueño, miedo, prisa",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 20,
+   "start": 206.004,
+   "end": 212.874,
+   "es": "¿Tienes sed?",
+   "group": "tener hambre, sed, frío, calor, sueño, miedo, prisa",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 21,
+   "start": 212.874,
+   "end": 221.882,
+   "es": "Los niños tienen frío.",
+   "group": "tener hambre, sed, frío, calor, sueño, miedo, prisa",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 22,
+   "start": 221.882,
+   "end": 232.37,
+   "es": "En verano siempre tengo calor.",
+   "group": "tener hambre, sed, frío, calor, sueño, miedo, prisa",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 23,
+   "start": 232.37,
+   "end": 243.752,
+   "es": "Tengo sueño, me voy a dormir.",
+   "group": "tener hambre, sed, frío, calor, sueño, miedo, prisa",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 24,
+   "start": 243.752,
+   "end": 254.369,
+   "es": "Mi hija tiene miedo de los perros.",
+   "group": "tener hambre, sed, frío, calor, sueño, miedo, prisa",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 25,
+   "start": 254.369,
+   "end": 263.581,
+   "es": "Lo siento, tengo prisa.",
+   "group": "tener hambre, sed, frío, calor, sueño, miedo, prisa",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 26,
+   "start": 263.581,
+   "end": 272.885,
+   "es": "¿No tienen hambre todavía?",
+   "group": "tener hambre, sed, frío, calor, sueño, miedo, prisa",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 27,
+   "start": 272.885,
+   "end": 282.639,
+   "es": "Anoche tuve mucho miedo.",
+   "group": "tener hambre, sed, frío, calor, sueño, miedo, prisa",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 284.139,
+   "end": 294.254,
+   "es": "Tengo que trabajar mañana.",
+   "group": "tener que",
+   "group_index": 4,
+   "level": "A1"
+  },
+  {
+   "i": 29,
+   "start": 294.254,
+   "end": 302.654,
+   "es": "Tienes que descansar.",
+   "group": "tener que",
+   "group_index": 4,
+   "level": "A1"
+  },
+  {
+   "i": 30,
+   "start": 302.654,
+   "end": 311.857,
+   "es": "Tenemos que comprar pan.",
+   "group": "tener que",
+   "group_index": 4,
+   "level": "A1"
+  },
+  {
+   "i": 31,
+   "start": 311.857,
+   "end": 321.312,
+   "es": "¿A qué hora tienes que salir?",
+   "group": "tener que",
+   "group_index": 4,
+   "level": "A1"
+  },
+  {
+   "i": 32,
+   "start": 321.312,
+   "end": 331.404,
+   "es": "Los niños tienen que estudiar.",
+   "group": "tener que",
+   "group_index": 4,
+   "level": "A1"
+  },
+  {
+   "i": 33,
+   "start": 331.404,
+   "end": 341.764,
+   "es": "No tienes que venir si no quieres.",
+   "group": "tener que",
+   "group_index": 4,
+   "level": "A1"
+  },
+  {
+   "i": 34,
+   "start": 341.764,
+   "end": 352.033,
+   "es": "Ayer tuve que ir al médico.",
+   "group": "tener que",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 352.033,
+   "end": 364.612,
+   "es": "Tuvimos que esperar dos horas en el aeropuerto.",
+   "group": "tener que",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 36,
+   "start": 366.112,
+   "end": 376.318,
+   "es": "Tengo ganas de ir a la playa.",
+   "group": "tener ganas de",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 37,
+   "start": 376.318,
+   "end": 386.503,
+   "es": "No tengo ganas de cocinar hoy.",
+   "group": "tener ganas de",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 38,
+   "start": 386.503,
+   "end": 397.18,
+   "es": "¿Tienes ganas de salir esta noche?",
+   "group": "tener ganas de",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 397.18,
+   "end": 407.352,
+   "es": "Tengo muchas ganas de verte.",
+   "group": "tener ganas de",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 40,
+   "start": 407.352,
+   "end": 418.166,
+   "es": "Los niños tienen ganas de jugar.",
+   "group": "tener ganas de",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 41,
+   "start": 418.166,
+   "end": 429.185,
+   "es": "Hoy no tenía ganas de levantarme.",
+   "group": "tener ganas de",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 429.185,
+   "end": 441.469,
+   "es": "Tenemos ganas de conocer tu nueva casa.",
+   "group": "tener ganas de",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 43,
+   "start": 442.969,
+   "end": 450.509,
+   "es": "Tienes razón.",
+   "group": "tener razón, tener cuidado",
+   "group_index": 6,
+   "level": "A1"
+  },
+  {
+   "i": 44,
+   "start": 450.509,
+   "end": 461.703,
+   "es": "Creo que mi madre tenía razón.",
+   "group": "tener razón, tener cuidado",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 45,
+   "start": 461.703,
+   "end": 471.194,
+   "es": "No siempre tienes razón.",
+   "group": "tener razón, tener cuidado",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 46,
+   "start": 471.194,
+   "end": 480.079,
+   "es": "Ten cuidado con el perro.",
+   "group": "tener razón, tener cuidado",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 47,
+   "start": 480.079,
+   "end": 493.279,
+   "es": "Tengan cuidado, el suelo está mojado.",
+   "group": "tener razón, tener cuidado",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 48,
+   "start": 493.279,
+   "end": 505.863,
+   "es": "Tienes que tener cuidado al cruzar la calle.",
+   "group": "tener razón, tener cuidado",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 49,
+   "start": 505.863,
+   "end": 516.2,
+   "es": "Al final, tuviste razón.",
+   "group": "tener razón, tener cuidado",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 50,
+   "start": 517.7,
+   "end": 531.349,
+   "es": "De niño tenía una bicicleta roja.",
+   "group": "tenía, tuve",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 51,
+   "start": 531.349,
+   "end": 544.182,
+   "es": "Antes no teníamos computadora en casa.",
+   "group": "tenía, tuve",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 52,
+   "start": 544.182,
+   "end": 555.907,
+   "es": "Ayer tuve una reunión muy larga.",
+   "group": "tenía, tuve",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 53,
+   "start": 555.907,
+   "end": 566.518,
+   "es": "El año pasado tuvieron un bebé.",
+   "group": "tenía, tuve",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 54,
+   "start": 566.518,
+   "end": 578.048,
+   "es": "Tuvimos un problema con el hotel.",
+   "group": "tenía, tuve",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 55,
+   "start": 578.048,
+   "end": 587.124,
+   "es": "¿Tuviste un buen viaje?",
+   "group": "tenía, tuve",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 56,
+   "start": 587.124,
+   "end": 599.259,
+   "es": "La semana pasada tuve mucho trabajo.",
+   "group": "tenía, tuve",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 57,
+   "start": 600.759,
+   "end": 610.444,
+   "es": "Eso no tiene nada que ver.",
+   "group": "tener que ver con, tenga, tuviera",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 58,
+   "start": 610.444,
+   "end": 622.303,
+   "es": "Su trabajo tiene que ver con la música.",
+   "group": "tener que ver con, tenga, tuviera",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 59,
+   "start": 622.303,
+   "end": 633.877,
+   "es": "¿Qué tiene que ver eso con nuestro problema?",
+   "group": "tener que ver con, tenga, tuviera",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 60,
+   "start": 633.877,
+   "end": 644.329,
+   "es": "Espero que tengas un buen día.",
+   "group": "tener que ver con, tenga, tuviera",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 61,
+   "start": 644.329,
+   "end": 660.23,
+   "es": "Si tuviera más tiempo, aprendería a tocar la guitarra.",
+   "group": "tener que ver con, tenga, tuviera",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 62,
+   "start": 660.23,
+   "end": 669.87,
+   "es": "No creo que tengan razón.",
+   "group": "tener que ver con, tenga, tuviera",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 63,
+   "start": 669.87,
+   "end": 681.507,
+   "es": "Me alegra que tengas tantos amigos.",
+   "group": "tener que ver con, tenga, tuviera",
+   "group_index": 8,
+   "level": "B1"
+  }
+ ]
+}

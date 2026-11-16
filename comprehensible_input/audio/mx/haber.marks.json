@@ -1,0 +1,568 @@
+{
+ "word": "haber",
+ "slug": "haber",
+ "kind": "word",
+ "hash": "ded41df634d501b0",
+ "duration": 528.912,
+ "voice": "mx",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 8.854,
+   "es": "Hay un perro en el jardín.",
+   "group": "hay",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 8.854,
+   "end": 16.824,
+   "es": "¿Hay leche en el refrigerador?",
+   "group": "hay",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 16.824,
+   "end": 22.927,
+   "es": "No hay pan.",
+   "group": "hay",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 22.927,
+   "end": 31.188,
+   "es": "Hay muchas personas en la calle.",
+   "group": "hay",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 31.188,
+   "end": 39.623,
+   "es": "En mi clase hay veinte estudiantes.",
+   "group": "hay",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 39.623,
+   "end": 47.501,
+   "es": "¿Hay un banco cerca de aquí?",
+   "group": "hay",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 47.501,
+   "end": 54.183,
+   "es": "Hoy no hay clase.",
+   "group": "hay",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 7,
+   "start": 54.183,
+   "end": 62.188,
+   "es": "Hay dos camas en la habitación.",
+   "group": "hay",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 8,
+   "start": 62.188,
+   "end": 68.777,
+   "es": "¿Qué hay para comer?",
+   "group": "hay",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 70.277,
+   "end": 76.925,
+   "es": "Hay que comer bien.",
+   "group": "hay que",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 76.925,
+   "end": 84.059,
+   "es": "Hay que llegar temprano.",
+   "group": "hay que",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 84.059,
+   "end": 91.299,
+   "es": "Hay que tener paciencia.",
+   "group": "hay que",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 91.299,
+   "end": 98.677,
+   "es": "Hay que lavar los platos.",
+   "group": "hay que",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 98.677,
+   "end": 106.392,
+   "es": "Hay que hablar con ella hoy.",
+   "group": "hay que",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 14,
+   "start": 106.392,
+   "end": 116.428,
+   "es": "Para entrar, hay que comprar una entrada.",
+   "group": "hay que",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 15,
+   "start": 116.428,
+   "end": 123.724,
+   "es": "No hay que pagar nada.",
+   "group": "hay que",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 16,
+   "start": 123.724,
+   "end": 131.102,
+   "es": "No hay que preocuparse.",
+   "group": "hay que",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 17,
+   "start": 132.602,
+   "end": 139.667,
+   "es": "He comido demasiado.",
+   "group": "he, has, ha: pretérito perfecto",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 18,
+   "start": 139.667,
+   "end": 146.86,
+   "es": "¿Has visto mi teléfono?",
+   "group": "he, has, ha: pretérito perfecto",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 19,
+   "start": 146.86,
+   "end": 156.712,
+   "es": "Hemos vivido aquí durante cinco años.",
+   "group": "he, has, ha: pretérito perfecto",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 20,
+   "start": 156.712,
+   "end": 164.286,
+   "es": "Todavía no he terminado.",
+   "group": "he, has, ha: pretérito perfecto",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 164.286,
+   "end": 172.419,
+   "es": "Ya ha llegado el tren.",
+   "group": "he, has, ha: pretérito perfecto",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 172.419,
+   "end": 180.889,
+   "es": "¿Alguna vez has estado en México?",
+   "group": "he, has, ha: pretérito perfecto",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 23,
+   "start": 180.889,
+   "end": 189.371,
+   "es": "Nunca he probado el mole.",
+   "group": "he, has, ha: pretérito perfecto",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 24,
+   "start": 189.371,
+   "end": 197.957,
+   "es": "Esta semana ha llovido mucho.",
+   "group": "he, has, ha: pretérito perfecto",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 25,
+   "start": 197.957,
+   "end": 206.496,
+   "es": "Mis padres han vuelto de su viaje.",
+   "group": "he, has, ha: pretérito perfecto",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 207.996,
+   "end": 217.393,
+   "es": "Había mucha gente en la fiesta.",
+   "group": "había, hubo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 217.393,
+   "end": 227.535,
+   "es": "Antes había un cine en esta calle.",
+   "group": "había, hubo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 227.535,
+   "end": 236.144,
+   "es": "No había nadie en casa.",
+   "group": "había, hubo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 236.144,
+   "end": 245.211,
+   "es": "¿Había agua caliente en el hotel?",
+   "group": "había, hubo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 245.211,
+   "end": 254.529,
+   "es": "Ayer hubo un accidente en la autopista.",
+   "group": "había, hubo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 254.529,
+   "end": 263.858,
+   "es": "Hubo un problema con mi tarjeta.",
+   "group": "había, hubo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 263.858,
+   "end": 273.013,
+   "es": "Anoche hubo una tormenta muy fuerte.",
+   "group": "había, hubo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 273.013,
+   "end": 281.901,
+   "es": "Cuando era niño, no había internet.",
+   "group": "había, hubo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 283.401,
+   "end": 294.076,
+   "es": "Cuando llegué, la película ya había empezado.",
+   "group": "había + participio: pluscuamperfecto",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 35,
+   "start": 294.076,
+   "end": 302.662,
+   "es": "Nunca había visto tanta nieve.",
+   "group": "había + participio: pluscuamperfecto",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 36,
+   "start": 302.662,
+   "end": 313.198,
+   "es": "Me dijo que había perdido las llaves.",
+   "group": "había + participio: pluscuamperfecto",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 37,
+   "start": 313.198,
+   "end": 322.132,
+   "es": "Ya habíamos cenado cuando llamaste.",
+   "group": "había + participio: pluscuamperfecto",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 38,
+   "start": 322.132,
+   "end": 330.788,
+   "es": "No sabía que habías vuelto.",
+   "group": "había + participio: pluscuamperfecto",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 39,
+   "start": 330.788,
+   "end": 339.374,
+   "es": "Pensé que te habías olvidado de mí.",
+   "group": "había + participio: pluscuamperfecto",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 40,
+   "start": 339.374,
+   "end": 350.129,
+   "es": "Mis amigos ya habían salido cuando empezó a llover.",
+   "group": "había + participio: pluscuamperfecto",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 41,
+   "start": 351.629,
+   "end": 359.739,
+   "es": "Mañana habrá mucho tráfico.",
+   "group": "habrá, habría",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 42,
+   "start": 359.739,
+   "end": 367.139,
+   "es": "¿Habrá tiempo para comer?",
+   "group": "habrá, habría",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 43,
+   "start": 367.139,
+   "end": 375.307,
+   "es": "No contesta. Habrá salido.",
+   "group": "habrá, habría",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 44,
+   "start": 375.307,
+   "end": 385.496,
+   "es": "Para el viernes ya habré terminado el informe.",
+   "group": "habrá, habría",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 45,
+   "start": 385.496,
+   "end": 393.722,
+   "es": "Yo habría hecho lo mismo.",
+   "group": "habrá, habría",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 46,
+   "start": 393.722,
+   "end": 404.708,
+   "es": "Habría más trabajo si la tienda abriera los domingos.",
+   "group": "habrá, habría",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 47,
+   "start": 404.708,
+   "end": 414.168,
+   "es": "Me dijeron que habría una reunión.",
+   "group": "habrá, habría",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 415.668,
+   "end": 424.741,
+   "es": "Espero que haya mesas libres.",
+   "group": "haya, hubiera",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 424.741,
+   "end": 433.699,
+   "es": "No creo que haya llegado todavía.",
+   "group": "haya, hubiera",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 50,
+   "start": 433.699,
+   "end": 441.89,
+   "es": "Me alegro de que hayas venido.",
+   "group": "haya, hubiera",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 441.89,
+   "end": 450.639,
+   "es": "Cuando hayas terminado, llámame.",
+   "group": "haya, hubiera",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 450.639,
+   "end": 459.364,
+   "es": "Ojalá haya buen tiempo mañana.",
+   "group": "haya, hubiera",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 459.364,
+   "end": 467.404,
+   "es": "No creo que hayas entendido.",
+   "group": "haya, hubiera",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 467.404,
+   "end": 475.862,
+   "es": "Me sorprendió que no hubiera nadie.",
+   "group": "haya, hubiera",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 477.362,
+   "end": 483.546,
+   "es": "No hay de qué.",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "A1"
+  },
+  {
+   "i": 56,
+   "start": 483.546,
+   "end": 489.868,
+   "es": "¿Qué hay de nuevo?",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 57,
+   "start": 489.868,
+   "end": 496.262,
+   "es": "No hay prisa.",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 58,
+   "start": 496.262,
+   "end": 504.674,
+   "es": "Ha habido un cambio de planes.",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 59,
+   "start": 504.674,
+   "end": 511.611,
+   "es": "No hay nada que hacer.",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 60,
+   "start": 511.611,
+   "end": 520.23,
+   "es": "No hay mal que por bien no venga.",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 61,
+   "start": 520.23,
+   "end": 528.843,
+   "es": "No hay manera de abrir esta puerta.",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "B1"
+  }
+ ]
+}

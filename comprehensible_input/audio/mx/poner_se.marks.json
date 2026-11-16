@@ -1,0 +1,559 @@
+{
+ "word": "poner(se)",
+ "slug": "poner_se",
+ "kind": "word",
+ "hash": "0b6b8067d4c2aecb",
+ "duration": 564.336,
+ "voice": "mx",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 8.05,
+   "es": "Pon las llaves en la mesa.",
+   "group": "poner algo en un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 8.05,
+   "end": 15.394,
+   "es": "¿Dónde pongo mi abrigo?",
+   "group": "poner algo en un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 15.394,
+   "end": 24.363,
+   "es": "Pongo la leche en el refrigerador.",
+   "group": "poner algo en un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 24.363,
+   "end": 32.822,
+   "es": "Ella pone las flores en el agua.",
+   "group": "poner algo en un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 32.822,
+   "end": 40.99,
+   "es": "No pongas los pies en el sofá.",
+   "group": "poner algo en un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 40.99,
+   "end": 49.559,
+   "es": "Pon los zapatos debajo de la cama.",
+   "group": "poner algo en un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 49.559,
+   "end": 57.339,
+   "es": "¿Pusiste azúcar en mi café?",
+   "group": "poner algo en un lugar",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 7,
+   "start": 57.339,
+   "end": 65.026,
+   "es": "Puse tu libro en la mochila.",
+   "group": "poner algo en un lugar",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 8,
+   "start": 66.526,
+   "end": 72.771,
+   "es": "¿Pongo la tele?",
+   "group": "poner la tele, la música",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 72.771,
+   "end": 80.864,
+   "es": "Pon música, por favor.",
+   "group": "poner la tele, la música",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 80.864,
+   "end": 89.856,
+   "es": "Mi padre pone la radio por la mañana.",
+   "group": "poner la tele, la música",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 89.856,
+   "end": 97.847,
+   "es": "¿Puedes poner la calefacción?",
+   "group": "poner la tele, la música",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 97.847,
+   "end": 106.327,
+   "es": "Pon el ventilador, por favor.",
+   "group": "poner la tele, la música",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 106.327,
+   "end": 114.316,
+   "es": "Puse el despertador a las seis.",
+   "group": "poner la tele, la música",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 14,
+   "start": 114.316,
+   "end": 123.911,
+   "es": "Pon una película, estoy aburrido.",
+   "group": "poner la tele, la música",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 15,
+   "start": 123.911,
+   "end": 135.655,
+   "es": "Voy a poner el aire acondicionado, hace mucho calor.",
+   "group": "poner la tele, la música",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 16,
+   "start": 137.155,
+   "end": 145.668,
+   "es": "Pon la mesa, vamos a comer.",
+   "group": "poner la mesa",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 17,
+   "start": 145.668,
+   "end": 154.219,
+   "es": "Yo pongo la mesa y tú cocinas.",
+   "group": "poner la mesa",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 18,
+   "start": 154.219,
+   "end": 161.412,
+   "es": "¿Quién pone la mesa hoy?",
+   "group": "poner la mesa",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 19,
+   "start": 161.412,
+   "end": 171.119,
+   "es": "Los niños ponen la mesa todas las noches.",
+   "group": "poner la mesa",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 20,
+   "start": 171.119,
+   "end": 180.668,
+   "es": "Ayúdame a poner la mesa, por favor.",
+   "group": "poner la mesa",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 21,
+   "start": 180.668,
+   "end": 188.987,
+   "es": "Ya puse la mesa para la cena.",
+   "group": "poner la mesa",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 190.487,
+   "end": 199.97,
+   "es": "Ponte el abrigo, hace frío.",
+   "group": "ponerse ropa",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 23,
+   "start": 199.97,
+   "end": 207.163,
+   "es": "Me pongo los zapatos.",
+   "group": "ponerse ropa",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 24,
+   "start": 207.163,
+   "end": 218.036,
+   "es": "Ella siempre se pone un vestido rojo.",
+   "group": "ponerse ropa",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 25,
+   "start": 218.036,
+   "end": 226.106,
+   "es": "Ponte el cinturón de seguridad.",
+   "group": "ponerse ropa",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 26,
+   "start": 226.106,
+   "end": 235.017,
+   "es": "No me pongo esos pantalones nunca.",
+   "group": "ponerse ropa",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 27,
+   "start": 235.017,
+   "end": 243.359,
+   "es": "¿Qué te vas a poner para la fiesta?",
+   "group": "ponerse ropa",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 243.359,
+   "end": 252.247,
+   "es": "Hoy me puse la camisa de mi hermano.",
+   "group": "ponerse ropa",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 252.247,
+   "end": 261.188,
+   "es": "Los niños ya se pusieron el pijama.",
+   "group": "ponerse ropa",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 262.688,
+   "end": 270.508,
+   "es": "Le pusieron Ana a la niña.",
+   "group": "poner nombre",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 270.508,
+   "end": 279.013,
+   "es": "¿Qué nombre le vas a poner al perro?",
+   "group": "poner nombre",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 279.013,
+   "end": 287.427,
+   "es": "Le pusimos Luna a nuestra gata.",
+   "group": "poner nombre",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 287.427,
+   "end": 296.942,
+   "es": "Mis padres me pusieron el nombre de mi abuelo.",
+   "group": "poner nombre",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 296.942,
+   "end": 306.82,
+   "es": "Todavía no le han puesto nombre al bebé.",
+   "group": "poner nombre",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 306.82,
+   "end": 316.406,
+   "es": "¿Por qué le pusieron ese nombre al restaurante?",
+   "group": "poner nombre",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 36,
+   "start": 316.406,
+   "end": 326.698,
+   "es": "En el colegio le pusieron un apodo muy gracioso.",
+   "group": "poner nombre",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 37,
+   "start": 328.198,
+   "end": 337.516,
+   "es": "Me pongo nervioso antes de un examen.",
+   "group": "ponerse + adjetivo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 38,
+   "start": 337.516,
+   "end": 347.61,
+   "es": "Mi madre se puso muy contenta con la noticia.",
+   "group": "ponerse + adjetivo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 347.61,
+   "end": 356.137,
+   "es": "El cielo se puso gris de repente.",
+   "group": "ponerse + adjetivo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 40,
+   "start": 356.137,
+   "end": 364.703,
+   "es": "Cuando la vio, se puso rojo.",
+   "group": "ponerse + adjetivo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 41,
+   "start": 364.703,
+   "end": 371.664,
+   "es": "No te pongas triste.",
+   "group": "ponerse + adjetivo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 371.664,
+   "end": 382.688,
+   "es": "Mi abuela se puso enferma el invierno pasado.",
+   "group": "ponerse + adjetivo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 43,
+   "start": 382.688,
+   "end": 392.412,
+   "es": "Se pone de mal humor cuando tiene hambre.",
+   "group": "ponerse + adjetivo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 44,
+   "start": 392.412,
+   "end": 401.276,
+   "es": "Me puse muy feliz cuando llamaste.",
+   "group": "ponerse + adjetivo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 45,
+   "start": 402.776,
+   "end": 412.213,
+   "es": "De repente, el bebé se puso a llorar.",
+   "group": "ponerse a + infinitivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 46,
+   "start": 412.213,
+   "end": 422.471,
+   "es": "Cuando llegué a casa, me puse a cocinar.",
+   "group": "ponerse a + infinitivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 47,
+   "start": 422.471,
+   "end": 431.568,
+   "es": "Se puso a llover justo cuando salimos.",
+   "group": "ponerse a + infinitivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 431.568,
+   "end": 442.188,
+   "es": "Ponte a estudiar, mañana tienes examen.",
+   "group": "ponerse a + infinitivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 442.188,
+   "end": 453.607,
+   "es": "Después de cenar, nos pusimos a jugar a las cartas.",
+   "group": "ponerse a + infinitivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 50,
+   "start": 453.607,
+   "end": 464.527,
+   "es": "Si me pongo a ver la tele, no termino nunca.",
+   "group": "ponerse a + infinitivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 464.527,
+   "end": 476.559,
+   "es": "Mi hermano se pone a cantar en la ducha todas las mañanas.",
+   "group": "ponerse a + infinitivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 476.559,
+   "end": 486.27,
+   "es": "Quiero que te pongas a trabajar ahora mismo.",
+   "group": "ponerse a + infinitivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 487.77,
+   "end": 495.752,
+   "es": "Nunca nos ponemos de acuerdo.",
+   "group": "ponerse de acuerdo",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 54,
+   "start": 495.752,
+   "end": 505.406,
+   "es": "Al final nos pusimos de acuerdo sobre el viaje.",
+   "group": "ponerse de acuerdo",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 55,
+   "start": 505.406,
+   "end": 515.478,
+   "es": "Tenemos que ponernos de acuerdo antes del viernes.",
+   "group": "ponerse de acuerdo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 515.478,
+   "end": 525.039,
+   "es": "Es difícil que todos se pongan de acuerdo.",
+   "group": "ponerse de acuerdo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 57,
+   "start": 525.039,
+   "end": 534.24,
+   "es": "¿Ya se pusieron de acuerdo sobre el precio?",
+   "group": "ponerse de acuerdo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 58,
+   "start": 534.24,
+   "end": 545.357,
+   "es": "Mis padres no se ponen de acuerdo sobre el nombre del perro.",
+   "group": "ponerse de acuerdo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 59,
+   "start": 545.357,
+   "end": 554.594,
+   "es": "Ojalá nos pongamos de acuerdo pronto.",
+   "group": "ponerse de acuerdo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 60,
+   "start": 554.594,
+   "end": 564.283,
+   "es": "Si no se ponen de acuerdo, no habrá fiesta.",
+   "group": "ponerse de acuerdo",
+   "group_index": 7,
+   "level": "B1"
+  }
+ ]
+}

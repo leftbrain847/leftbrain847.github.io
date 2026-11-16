@@ -1,0 +1,568 @@
+{
+ "word": "volver a",
+ "slug": "volver_a",
+ "kind": "word",
+ "hash": "0911b2599505dafe",
+ "duration": 536.136,
+ "voice": "mx",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 7.995,
+   "es": "Vuelvo a casa a las seis.",
+   "group": "volver, regresar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 7.995,
+   "end": 14.119,
+   "es": "¿Cuándo vuelves?",
+   "group": "volver, regresar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 14.119,
+   "end": 21.649,
+   "es": "Mi hermano vuelve mañana.",
+   "group": "volver, regresar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 21.649,
+   "end": 29.062,
+   "es": "Volvemos en una hora.",
+   "group": "volver, regresar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 29.062,
+   "end": 38.159,
+   "es": "Ella vuelve del trabajo muy cansada.",
+   "group": "volver, regresar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 38.159,
+   "end": 46.171,
+   "es": "¿A qué hora vuelven los niños?",
+   "group": "volver, regresar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 46.171,
+   "end": 52.946,
+   "es": "Ayer volví tarde.",
+   "group": "volver, regresar",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 7,
+   "start": 52.946,
+   "end": 61.45,
+   "es": "Mis padres volvieron de Italia.",
+   "group": "volver, regresar",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 8,
+   "start": 62.95,
+   "end": 70.085,
+   "es": "Vuelvo a leer el libro.",
+   "group": "vuelvo a + infinitivo, otra vez",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 70.085,
+   "end": 77.498,
+   "es": "Mañana vuelvo a llamar.",
+   "group": "vuelvo a + infinitivo, otra vez",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 77.498,
+   "end": 86.258,
+   "es": "Siempre vuelve a perder las llaves.",
+   "group": "vuelvo a + infinitivo, otra vez",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 86.258,
+   "end": 93.637,
+   "es": "El bebé vuelve a llorar.",
+   "group": "vuelvo a + infinitivo, otra vez",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 93.637,
+   "end": 100.133,
+   "es": "Vuelve a llover.",
+   "group": "vuelvo a + infinitivo, otra vez",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 100.133,
+   "end": 108.487,
+   "es": "Hoy volvemos a comer pescado.",
+   "group": "vuelvo a + infinitivo, otra vez",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 14,
+   "start": 108.487,
+   "end": 116.736,
+   "es": "Mi computadora vuelve a fallar.",
+   "group": "vuelvo a + infinitivo, otra vez",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 15,
+   "start": 116.736,
+   "end": 125.299,
+   "es": "Ella vuelve a preguntar lo mismo.",
+   "group": "vuelvo a + infinitivo, otra vez",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 16,
+   "start": 126.799,
+   "end": 135.35,
+   "es": "Volví a ver esa película.",
+   "group": "volví a, volvió a",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 17,
+   "start": 135.35,
+   "end": 142.322,
+   "es": "Ayer volvió a nevar.",
+   "group": "volví a, volvió a",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 18,
+   "start": 142.322,
+   "end": 150.235,
+   "es": "Volvimos a visitar el museo.",
+   "group": "volví a, volvió a",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 19,
+   "start": 150.235,
+   "end": 160.493,
+   "es": "Después de dos años, volvió a trabajar.",
+   "group": "volví a, volvió a",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 20,
+   "start": 160.493,
+   "end": 170.066,
+   "es": "Volví a llamar, pero nadie contestó.",
+   "group": "volví a, volvió a",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 170.066,
+   "end": 179.093,
+   "es": "El dolor volvió a empezar por la noche.",
+   "group": "volví a, volvió a",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 179.093,
+   "end": 189.757,
+   "es": "Mi hermana volvió a estudiar a los cuarenta años.",
+   "group": "volví a, volvió a",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 23,
+   "start": 189.757,
+   "end": 200.212,
+   "es": "De niño, volví a leer ese cuento muchas veces.",
+   "group": "volví a, volvió a",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 24,
+   "start": 201.712,
+   "end": 209.567,
+   "es": "Voy a volver a intentarlo.",
+   "group": "voy a volver a, volveré a",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 25,
+   "start": 209.567,
+   "end": 218.501,
+   "es": "Mañana va a volver a hacer frío.",
+   "group": "voy a volver a, volveré a",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 218.501,
+   "end": 226.855,
+   "es": "¿Vas a volver a ese restaurante?",
+   "group": "voy a volver a, volveré a",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 226.855,
+   "end": 235.51,
+   "es": "Vamos a volver a vernos en verano.",
+   "group": "voy a volver a, volveré a",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 235.51,
+   "end": 245.443,
+   "es": "Volveré a escribirte la semana que viene.",
+   "group": "voy a volver a, volveré a",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 245.443,
+   "end": 255.998,
+   "es": "El año que viene volveremos a viajar juntos.",
+   "group": "voy a volver a, volveré a",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 255.998,
+   "end": 265.116,
+   "es": "Te volveré a llamar más tarde.",
+   "group": "voy a volver a, volveré a",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 265.116,
+   "end": 273.238,
+   "es": "Pronto volverá a salir el sol.",
+   "group": "voy a volver a, volveré a",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 274.738,
+   "end": 281.768,
+   "es": "No vuelvo a comer ahí.",
+   "group": "no volver a, nunca más",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 281.768,
+   "end": 289.193,
+   "es": "Nunca volví a verlo.",
+   "group": "no volver a, nunca más",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 289.193,
+   "end": 297.106,
+   "es": "No volvimos a hablar del tema.",
+   "group": "no volver a, nunca más",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 297.106,
+   "end": 305.053,
+   "es": "No pienso volver a ese hotel.",
+   "group": "no volver a, nunca más",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 36,
+   "start": 305.053,
+   "end": 315.52,
+   "es": "Después del accidente, no volvió a manejar.",
+   "group": "no volver a, nunca más",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 37,
+   "start": 315.52,
+   "end": 324.268,
+   "es": "Prometo no volver a llegar tarde.",
+   "group": "no volver a, nunca más",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 38,
+   "start": 324.268,
+   "end": 332.773,
+   "es": "No ha vuelto a llover desde marzo.",
+   "group": "no volver a, nunca más",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 332.773,
+   "end": 339.931,
+   "es": "No vuelvas a hacer eso.",
+   "group": "no volver a, nunca más",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 40,
+   "start": 341.431,
+   "end": 348.659,
+   "es": "Vuelve a intentarlo.",
+   "group": "vuelve a intentarlo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 41,
+   "start": 348.659,
+   "end": 357.755,
+   "es": "Vuelva a revisar sus datos, por favor.",
+   "group": "vuelve a intentarlo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 357.755,
+   "end": 365.668,
+   "es": "Vuelve a leer la pregunta.",
+   "group": "vuelve a intentarlo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 43,
+   "start": 365.668,
+   "end": 374.196,
+   "es": "Vuelvan a sentarse, por favor.",
+   "group": "vuelve a intentarlo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 44,
+   "start": 374.196,
+   "end": 381.958,
+   "es": "Vuelve a contar el dinero.",
+   "group": "vuelve a intentarlo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 45,
+   "start": 381.958,
+   "end": 392.25,
+   "es": "Por favor, vuelva a escribir su contraseña.",
+   "group": "vuelve a intentarlo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 46,
+   "start": 392.25,
+   "end": 405.771,
+   "es": "Si no funciona, apaga la computadora y vuelve a encenderla.",
+   "group": "vuelve a intentarlo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 47,
+   "start": 407.271,
+   "end": 415.404,
+   "es": "Lo volví a ver en la fiesta.",
+   "group": "con pronombres",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 415.404,
+   "end": 423.049,
+   "es": "Te lo vuelvo a explicar.",
+   "group": "con pronombres",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 423.049,
+   "end": 430.405,
+   "es": "Se me volvió a olvidar.",
+   "group": "con pronombres",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 50,
+   "start": 430.405,
+   "end": 438.863,
+   "es": "Me volvió a llamar a medianoche.",
+   "group": "con pronombres",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 438.863,
+   "end": 446.45,
+   "es": "¿Me lo puedes volver a decir?",
+   "group": "con pronombres",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 446.45,
+   "end": 455.64,
+   "es": "Nos volvimos a encontrar en el aeropuerto.",
+   "group": "con pronombres",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 455.64,
+   "end": 464.029,
+   "es": "Se volvió a romper la lavadora.",
+   "group": "con pronombres",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 464.029,
+   "end": 472.789,
+   "es": "Me lo volví a poner para la boda.",
+   "group": "con pronombres",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 474.289,
+   "end": 482.109,
+   "es": "Espero que no vuelva a pasar.",
+   "group": "ojalá volvamos a vernos",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 482.109,
+   "end": 490.741,
+   "es": "Ojalá volvamos a vernos pronto.",
+   "group": "ojalá volvamos a vernos",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 57,
+   "start": 490.741,
+   "end": 501.219,
+   "es": "Si pudiera, volvería a estudiar medicina.",
+   "group": "ojalá volvamos a vernos",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 58,
+   "start": 501.219,
+   "end": 509.086,
+   "es": "Yo no volvería a ese lugar.",
+   "group": "ojalá volvamos a vernos",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 59,
+   "start": 509.086,
+   "end": 518.275,
+   "es": "Cuando vuelvas a venir, avísame.",
+   "group": "ojalá volvamos a vernos",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 60,
+   "start": 518.275,
+   "end": 527.483,
+   "es": "Me alegra que hayas vuelto a cantar.",
+   "group": "ojalá volvamos a vernos",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 61,
+   "start": 527.483,
+   "end": 536.08,
+   "es": "No creo que vuelva a llover hoy.",
+   "group": "ojalá volvamos a vernos",
+   "group_index": 7,
+   "level": "B1"
+  }
+ ]
+}

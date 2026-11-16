@@ -1,0 +1,532 @@
+{
+ "word": "seguir",
+ "slug": "seguir",
+ "kind": "word",
+ "hash": "7ed42ba978353d79",
+ "duration": 627.192,
+ "voice": "mx-lento",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 9.844,
+   "es": "Sígueme, por favor.",
+   "group": "seguir, ir detrás",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 9.844,
+   "end": 20.649,
+   "es": "El perro me sigue a todas partes.",
+   "group": "seguir, ir detrás",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 20.649,
+   "end": 32.015,
+   "es": "Sigue esta calle hasta el final.",
+   "group": "seguir, ir detrás",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 32.015,
+   "end": 39.621,
+   "es": "¿Por qué me sigues?",
+   "group": "seguir, ir detrás",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 39.621,
+   "end": 49.429,
+   "es": "Seguimos al guía por el museo.",
+   "group": "seguir, ir detrás",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 49.429,
+   "end": 59.661,
+   "es": "Los patitos siguen a su madre.",
+   "group": "seguir, ir detrás",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 59.661,
+   "end": 70.973,
+   "es": "Siga a ese taxi, por favor.",
+   "group": "seguir, ir detrás",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 7,
+   "start": 70.973,
+   "end": 81.831,
+   "es": "Alguien nos sigue desde hace un rato.",
+   "group": "seguir, ir detrás",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 8,
+   "start": 83.331,
+   "end": 89.831,
+   "es": "¿Seguimos?",
+   "group": "seguir, continuar",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 89.831,
+   "end": 101.169,
+   "es": "Sigue, por favor, te escucho.",
+   "group": "seguir, continuar",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 101.169,
+   "end": 113.058,
+   "es": "La película sigue después de los anuncios.",
+   "group": "seguir, continuar",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 113.058,
+   "end": 124.145,
+   "es": "Si quieres, seguimos mañana.",
+   "group": "seguir, continuar",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 124.145,
+   "end": 133.838,
+   "es": "El camino sigue por el bosque.",
+   "group": "seguir, continuar",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 133.838,
+   "end": 145.615,
+   "es": "La reunión sigue hasta las cinco.",
+   "group": "seguir, continuar",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 14,
+   "start": 145.615,
+   "end": 155.602,
+   "es": "Seguimos con la lección de ayer.",
+   "group": "seguir, continuar",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 15,
+   "start": 157.102,
+   "end": 164.576,
+   "es": "Sigue lloviendo.",
+   "group": "sigue lloviendo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 16,
+   "start": 164.576,
+   "end": 175.355,
+   "es": "Sigo trabajando en el mismo lugar.",
+   "group": "sigue lloviendo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 17,
+   "start": 175.355,
+   "end": 184.991,
+   "es": "¿Sigues viviendo en el centro?",
+   "group": "sigue lloviendo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 18,
+   "start": 184.991,
+   "end": 198.638,
+   "es": "Mi abuelo sigue manejando a los noventa años.",
+   "group": "sigue lloviendo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 19,
+   "start": 198.638,
+   "end": 208.692,
+   "es": "Seguimos esperando el autobús.",
+   "group": "sigue lloviendo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 20,
+   "start": 208.692,
+   "end": 218.19,
+   "es": "Los niños siguen durmiendo.",
+   "group": "sigue lloviendo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 218.19,
+   "end": 231.782,
+   "es": "Ella siguió hablando toda la noche.",
+   "group": "sigue lloviendo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 231.782,
+   "end": 245.027,
+   "es": "Sigue intentándolo, ya casi lo tienes.",
+   "group": "sigue lloviendo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 23,
+   "start": 245.027,
+   "end": 258.292,
+   "es": "A pesar del frío, seguimos caminando.",
+   "group": "sigue lloviendo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 24,
+   "start": 259.792,
+   "end": 269.382,
+   "es": "Mi hermana sigue enferma.",
+   "group": "sigue enfermo, sigue aquí",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 25,
+   "start": 269.382,
+   "end": 276.387,
+   "es": "¿Sigues aquí?",
+   "group": "sigue enfermo, sigue aquí",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 276.387,
+   "end": 285.465,
+   "es": "La tienda sigue cerrada.",
+   "group": "sigue enfermo, sigue aquí",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 285.465,
+   "end": 294.684,
+   "es": "El café sigue caliente.",
+   "group": "sigue enfermo, sigue aquí",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 294.684,
+   "end": 303.806,
+   "es": "Seguimos en el aeropuerto.",
+   "group": "sigue enfermo, sigue aquí",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 303.806,
+   "end": 318.183,
+   "es": "Mis padres siguen casados después de cuarenta años.",
+   "group": "sigue enfermo, sigue aquí",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 318.183,
+   "end": 326.897,
+   "es": "Sigo muy cansado.",
+   "group": "sigue enfermo, sigue aquí",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 326.897,
+   "end": 335.664,
+   "es": "¿Sigue abierto el banco?",
+   "group": "sigue enfermo, sigue aquí",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 335.664,
+   "end": 345.852,
+   "es": "El problema sigue igual.",
+   "group": "sigue enfermo, sigue aquí",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 347.352,
+   "end": 356.676,
+   "es": "Sigue las instrucciones.",
+   "group": "seguir instrucciones y consejos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 356.676,
+   "end": 367.377,
+   "es": "Seguí tu consejo y funcionó.",
+   "group": "seguir instrucciones y consejos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 367.377,
+   "end": 376.799,
+   "es": "Hay que seguir las reglas.",
+   "group": "seguir instrucciones y consejos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 36,
+   "start": 376.799,
+   "end": 386.677,
+   "es": "No seguiste la receta, ¿verdad?",
+   "group": "seguir instrucciones y consejos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 37,
+   "start": 386.677,
+   "end": 398.924,
+   "es": "Siempre sigo los consejos de mi madre.",
+   "group": "seguir instrucciones y consejos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 38,
+   "start": 398.924,
+   "end": 411.685,
+   "es": "Sigue el mapa y no te vas a perder.",
+   "group": "seguir instrucciones y consejos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 411.685,
+   "end": 424.374,
+   "es": "Seguimos las señales hasta la salida.",
+   "group": "seguir instrucciones y consejos",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 40,
+   "start": 424.374,
+   "end": 438.652,
+   "es": "El médico me dijo que siguiera una dieta.",
+   "group": "seguir instrucciones y consejos",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 41,
+   "start": 440.152,
+   "end": 448.383,
+   "es": "Sigo sin entender.",
+   "group": "seguir sin",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 42,
+   "start": 448.383,
+   "end": 458.053,
+   "es": "Seguimos sin noticias de él.",
+   "group": "seguir sin",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 43,
+   "start": 458.053,
+   "end": 469.381,
+   "es": "El vecino sigue sin pagar el alquiler.",
+   "group": "seguir sin",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 44,
+   "start": 469.381,
+   "end": 480.196,
+   "es": "Sigo sin encontrar mis llaves.",
+   "group": "seguir sin",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 45,
+   "start": 480.196,
+   "end": 496.98,
+   "es": "Llevo una hora en la cama y sigo sin poder dormir.",
+   "group": "seguir sin",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 46,
+   "start": 496.98,
+   "end": 508.027,
+   "es": "La computadora sigue sin funcionar.",
+   "group": "seguir sin",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 47,
+   "start": 508.027,
+   "end": 518.615,
+   "es": "Siguen sin contestar el teléfono.",
+   "group": "seguir sin",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 518.615,
+   "end": 529.009,
+   "es": "Mi hijo sigue sin saber nadar.",
+   "group": "seguir sin",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 530.509,
+   "end": 539.397,
+   "es": "Espero que sigas bien.",
+   "group": "sigue así, que sigas bien",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 50,
+   "start": 539.397,
+   "end": 550.262,
+   "es": "Ojalá siga haciendo buen tiempo.",
+   "group": "sigue así, que sigas bien",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 550.262,
+   "end": 562.069,
+   "es": "Si sigues así, vas a llegar lejos.",
+   "group": "sigue así, que sigas bien",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 562.069,
+   "end": 571.861,
+   "es": "¡Que siga la fiesta!",
+   "group": "sigue así, que sigas bien",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 571.861,
+   "end": 582.92,
+   "es": "No creo que siga lloviendo mañana.",
+   "group": "sigue así, que sigas bien",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 582.92,
+   "end": 595.767,
+   "es": "Seguiría estudiando si tuviera más tiempo.",
+   "group": "sigue así, que sigas bien",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 595.767,
+   "end": 608.512,
+   "es": "Sigue así, lo estás haciendo muy bien.",
+   "group": "sigue así, que sigas bien",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 608.512,
+   "end": 617.202,
+   "es": "¿Cómo sigue tu madre?",
+   "group": "sigue así, que sigas bien",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 57,
+   "start": 617.202,
+   "end": 627.121,
+   "es": "Me pidió que siguiera adelante.",
+   "group": "sigue así, que sigas bien",
+   "group_index": 6,
+   "level": "B1"
+  }
+ ]
+}

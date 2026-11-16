@@ -1,0 +1,559 @@
+{
+ "word": "hacer",
+ "slug": "hacer",
+ "kind": "word",
+ "hash": "b5f7d36283aad28a",
+ "duration": 526.344,
+ "voice": "mx",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 6.149,
+   "es": "¿Qué haces?",
+   "group": "hacer, actividades",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 6.149,
+   "end": 14.108,
+   "es": "Hago la tarea después de cenar.",
+   "group": "hacer, actividades",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 14.108,
+   "end": 22.856,
+   "es": "Mi padre hace la comida los domingos.",
+   "group": "hacer, actividades",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 22.856,
+   "end": 32.894,
+   "es": "¿Qué hacen ustedes los fines de semana?",
+   "group": "hacer, actividades",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 32.894,
+   "end": 42.652,
+   "es": "Hago ejercicio todas las mañanas.",
+   "group": "hacer, actividades",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 42.652,
+   "end": 51.273,
+   "es": "Siempre hago la cama.",
+   "group": "hacer, actividades",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 51.273,
+   "end": 60.928,
+   "es": "Mi madre hace un pastel muy rico.",
+   "group": "hacer, actividades",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 7,
+   "start": 60.928,
+   "end": 68.538,
+   "es": "No hago nada los sábados.",
+   "group": "hacer, actividades",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 8,
+   "start": 68.538,
+   "end": 76.416,
+   "es": "¿Qué vas a hacer esta noche?",
+   "group": "hacer, actividades",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 77.916,
+   "end": 85.016,
+   "es": "Hoy hace mucho frío.",
+   "group": "el tiempo",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 85.016,
+   "end": 92.406,
+   "es": "En verano hace calor.",
+   "group": "el tiempo",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 92.406,
+   "end": 100.609,
+   "es": "Hace sol, vamos al parque.",
+   "group": "el tiempo",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 100.609,
+   "end": 107.674,
+   "es": "Hace viento en la playa.",
+   "group": "el tiempo",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 107.674,
+   "end": 115.239,
+   "es": "¿Qué tiempo hace en tu ciudad?",
+   "group": "el tiempo",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 14,
+   "start": 115.239,
+   "end": 123.325,
+   "es": "Hace buen tiempo para caminar.",
+   "group": "el tiempo",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 15,
+   "start": 123.325,
+   "end": 131.168,
+   "es": "Hoy hace un día precioso.",
+   "group": "el tiempo",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 16,
+   "start": 131.168,
+   "end": 138.546,
+   "es": "Ayer hizo mucho calor.",
+   "group": "el tiempo",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 17,
+   "start": 140.046,
+   "end": 147.31,
+   "es": "¿Puedo hacer una pregunta?",
+   "group": "hacer una pregunta, fila, maleta",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 18,
+   "start": 147.31,
+   "end": 156.717,
+   "es": "Los estudiantes hacen muchas preguntas.",
+   "group": "hacer una pregunta, fila, maleta",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 19,
+   "start": 156.717,
+   "end": 165.255,
+   "es": "Tenemos que hacer fila para entrar.",
+   "group": "hacer una pregunta, fila, maleta",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 20,
+   "start": 165.255,
+   "end": 173.818,
+   "es": "Hicimos fila durante una hora.",
+   "group": "hacer una pregunta, fila, maleta",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 173.818,
+   "end": 182.689,
+   "es": "Todavía no he hecho la maleta.",
+   "group": "hacer una pregunta, fila, maleta",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 182.689,
+   "end": 194.502,
+   "es": "Siempre hago la maleta la noche antes del viaje.",
+   "group": "hacer una pregunta, fila, maleta",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 23,
+   "start": 194.502,
+   "end": 204.354,
+   "es": "El periodista le hizo una pregunta difícil.",
+   "group": "hacer una pregunta, fila, maleta",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 24,
+   "start": 205.854,
+   "end": 212.478,
+   "es": "¿Qué hiciste ayer?",
+   "group": "hice, hacía, he hecho",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 25,
+   "start": 212.478,
+   "end": 220.934,
+   "es": "No hice nada el fin de semana.",
+   "group": "hice, hacía, he hecho",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 220.934,
+   "end": 230.17,
+   "es": "Mi hermano hizo la cena anoche.",
+   "group": "hice, hacía, he hecho",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 230.17,
+   "end": 239.255,
+   "es": "De niños hacíamos castillos de arena.",
+   "group": "hice, hacía, he hecho",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 239.255,
+   "end": 246.413,
+   "es": "¿Ya has hecho la tarea?",
+   "group": "hice, hacía, he hecho",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 246.413,
+   "end": 255.3,
+   "es": "Hemos hecho un viaje increíble.",
+   "group": "hice, hacía, he hecho",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 255.3,
+   "end": 262.081,
+   "es": "Lo hice sin pensar.",
+   "group": "hice, hacía, he hecho",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 262.081,
+   "end": 269.564,
+   "es": "¿Qué hacías a esa hora?",
+   "group": "hice, hacía, he hecho",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 271.064,
+   "end": 278.559,
+   "es": "Llegué hace dos horas.",
+   "group": "hace, pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 278.559,
+   "end": 288.399,
+   "es": "Hace un año que nos conocimos en Madrid.",
+   "group": "hace, pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 288.399,
+   "end": 295.374,
+   "es": "La vi hace poco.",
+   "group": "hace, pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 295.374,
+   "end": 305.062,
+   "es": "Hace tres días que hablamos por teléfono.",
+   "group": "hace, pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 36,
+   "start": 305.062,
+   "end": 314.612,
+   "es": "Mis abuelos se casaron hace cincuenta años.",
+   "group": "hace, pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 37,
+   "start": 314.612,
+   "end": 324.789,
+   "es": "Hace mucho tiempo vivía en el campo.",
+   "group": "hace, pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 38,
+   "start": 324.789,
+   "end": 332.678,
+   "es": "¿Cuánto tiempo hace que llegaste?",
+   "group": "hace, pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 332.678,
+   "end": 341.937,
+   "es": "Terminé la universidad hace diez años.",
+   "group": "hace, pasado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 40,
+   "start": 343.437,
+   "end": 352.639,
+   "es": "Hace dos años que estudio español.",
+   "group": "hace + tiempo + que, duración",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 41,
+   "start": 352.639,
+   "end": 360.9,
+   "es": "Hace mucho tiempo que no te veo.",
+   "group": "hace + tiempo + que, duración",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 360.9,
+   "end": 369.346,
+   "es": "¿Cuánto tiempo hace que vives aquí?",
+   "group": "hace + tiempo + que, duración",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 43,
+   "start": 369.346,
+   "end": 378.223,
+   "es": "Hace una hora que espero el autobús.",
+   "group": "hace + tiempo + que, duración",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 44,
+   "start": 378.223,
+   "end": 385.659,
+   "es": "Hace meses que no llueve.",
+   "group": "hace + tiempo + que, duración",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 45,
+   "start": 385.659,
+   "end": 394.21,
+   "es": "Hace tiempo que quiero visitar Perú.",
+   "group": "hace + tiempo + que, duración",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 46,
+   "start": 394.21,
+   "end": 403.156,
+   "es": "Hace una semana que no duermo bien.",
+   "group": "hace + tiempo + que, duración",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 47,
+   "start": 404.656,
+   "end": 410.792,
+   "es": "Hazme caso.",
+   "group": "hacer caso",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 48,
+   "start": 410.792,
+   "end": 418.968,
+   "es": "Los niños no me hacen caso.",
+   "group": "hacer caso",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 49,
+   "start": 418.968,
+   "end": 427.775,
+   "es": "Nunca haces caso a tus padres.",
+   "group": "hacer caso",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 50,
+   "start": 427.775,
+   "end": 436.106,
+   "es": "Debí hacerle caso al médico.",
+   "group": "hacer caso",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 436.106,
+   "end": 445.841,
+   "es": "Te lo dije, pero no me hiciste caso.",
+   "group": "hacer caso",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 445.841,
+   "end": 455.634,
+   "es": "No le hagas caso, está de mal humor.",
+   "group": "hacer caso",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 455.634,
+   "end": 464.545,
+   "es": "Quiero que me hagas caso esta vez.",
+   "group": "hacer caso",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 466.045,
+   "end": 473.238,
+   "es": "Se está haciendo tarde.",
+   "group": "hacerse",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 473.238,
+   "end": 481.174,
+   "es": "Mi hermana se hizo médica.",
+   "group": "hacerse",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 481.174,
+   "end": 489.735,
+   "es": "Nos hicimos amigos en el colegio.",
+   "group": "hacerse",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 57,
+   "start": 489.735,
+   "end": 499.25,
+   "es": "Con los años, se hizo más paciente.",
+   "group": "hacerse",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 58,
+   "start": 499.25,
+   "end": 507.72,
+   "es": "Quiere hacerse rico muy rápido.",
+   "group": "hacerse",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 59,
+   "start": 507.72,
+   "end": 517.548,
+   "es": "Se hace de noche muy temprano en invierno.",
+   "group": "hacerse",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 60,
+   "start": 517.548,
+   "end": 526.285,
+   "es": "Ojalá nos hagamos buenos amigos.",
+   "group": "hacerse",
+   "group_index": 7,
+   "level": "B1"
+  }
+ ]
+}

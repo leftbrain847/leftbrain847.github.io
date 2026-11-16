@@ -1,0 +1,577 @@
+{
+ "word": "ya / todavía",
+ "slug": "ya_todavia",
+ "kind": "word",
+ "hash": "89afe08bfd95111b",
+ "duration": 553.392,
+ "voice": "mx",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 6.927,
+   "es": "Ya es tarde.",
+   "group": "ya en presente",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 6.927,
+   "end": 13.678,
+   "es": "Ya sé tu nombre.",
+   "group": "ya en presente",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 13.678,
+   "end": 21.057,
+   "es": "Mi hermano ya trabaja.",
+   "group": "ya en presente",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 21.057,
+   "end": 28.447,
+   "es": "¿Ya tienes las llaves?",
+   "group": "ya en presente",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 28.447,
+   "end": 35.744,
+   "es": "El niño ya lee solo.",
+   "group": "ya en presente",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 35.744,
+   "end": 43.157,
+   "es": "Ya estamos en casa.",
+   "group": "ya en presente",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 43.157,
+   "end": 50.855,
+   "es": "La cena ya está lista.",
+   "group": "ya en presente",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 7,
+   "start": 52.355,
+   "end": 57.864,
+   "es": "¡Ya voy!",
+   "group": "ya voy, ahora mismo",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 8,
+   "start": 57.864,
+   "end": 63.652,
+   "es": "¡Ven ya!",
+   "group": "ya voy, ahora mismo",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 63.652,
+   "end": 72.238,
+   "es": "Ya vengo, espérame aquí.",
+   "group": "ya voy, ahora mismo",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 72.238,
+   "end": 79.918,
+   "es": "Hazlo ya, por favor.",
+   "group": "ya voy, ahora mismo",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 79.918,
+   "end": 87.775,
+   "es": "Necesito una respuesta ya.",
+   "group": "ya voy, ahora mismo",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 87.775,
+   "end": 95.966,
+   "es": "Ya bajo, un momento.",
+   "group": "ya voy, ahora mismo",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 95.966,
+   "end": 105.736,
+   "es": "Si quieres llegar a tiempo, sal ya.",
+   "group": "ya voy, ahora mismo",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 14,
+   "start": 107.236,
+   "end": 115.478,
+   "es": "Todavía es temprano.",
+   "group": "todavía",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 15,
+   "start": 115.478,
+   "end": 123.82,
+   "es": "Mi abuela todavía vive sola.",
+   "group": "todavía",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 16,
+   "start": 123.82,
+   "end": 131.11,
+   "es": "¿Todavía tienes hambre?",
+   "group": "todavía",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 17,
+   "start": 131.11,
+   "end": 138.233,
+   "es": "Todavía llueve mucho.",
+   "group": "todavía",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 18,
+   "start": 138.233,
+   "end": 146.226,
+   "es": "Los niños todavía duermen.",
+   "group": "todavía",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 19,
+   "start": 146.226,
+   "end": 154.297,
+   "es": "Todavía estoy en la oficina.",
+   "group": "todavía",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 20,
+   "start": 154.297,
+   "end": 162.609,
+   "es": "¿Todavía trabajas en el hospital?",
+   "group": "todavía",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 21,
+   "start": 164.109,
+   "end": 170.975,
+   "es": "Todavía no lo sé.",
+   "group": "todavía no",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 22,
+   "start": 170.975,
+   "end": 179.542,
+   "es": "El autobús todavía no está aquí.",
+   "group": "todavía no",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 23,
+   "start": 179.542,
+   "end": 187.388,
+   "es": "Todavía no tengo trabajo.",
+   "group": "todavía no",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 24,
+   "start": 187.388,
+   "end": 195.648,
+   "es": "Mi hija todavía no habla.",
+   "group": "todavía no",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 25,
+   "start": 195.648,
+   "end": 203.61,
+   "es": "Todavía no es hora de comer.",
+   "group": "todavía no",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 26,
+   "start": 203.61,
+   "end": 212.281,
+   "es": "Todavía no conozco a tus padres.",
+   "group": "todavía no",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 27,
+   "start": 212.281,
+   "end": 219.63,
+   "es": "¿Todavía no estás listo?",
+   "group": "todavía no",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 28,
+   "start": 221.13,
+   "end": 228.822,
+   "es": "Ya no vivo en esa casa.",
+   "group": "ya no",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 228.822,
+   "end": 235.783,
+   "es": "Ya no tengo frío.",
+   "group": "ya no",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 235.783,
+   "end": 243.115,
+   "es": "Mi padre ya no fuma.",
+   "group": "ya no",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 243.115,
+   "end": 250.795,
+   "es": "Ya no hay pan en la tienda.",
+   "group": "ya no",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 250.795,
+   "end": 260.449,
+   "es": "Ya no quiero más café, gracias.",
+   "group": "ya no",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 260.449,
+   "end": 268.037,
+   "es": "Ellos ya no son amigos.",
+   "group": "ya no",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 268.037,
+   "end": 279.653,
+   "es": "Desde que tengo bicicleta, ya no tomo el autobús.",
+   "group": "ya no",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 281.153,
+   "end": 289.402,
+   "es": "Ya he comido, gracias.",
+   "group": "ya con pretérito perfecto",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 36,
+   "start": 289.402,
+   "end": 297.013,
+   "es": "¿Ya has terminado la tarea?",
+   "group": "ya con pretérito perfecto",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 37,
+   "start": 297.013,
+   "end": 305.262,
+   "es": "Ya hemos visto esa película.",
+   "group": "ya con pretérito perfecto",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 38,
+   "start": 305.262,
+   "end": 315.321,
+   "es": "Mis amigos ya han llegado al restaurante.",
+   "group": "ya con pretérito perfecto",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 315.321,
+   "end": 323.605,
+   "es": "¿Ya has hablado con el médico?",
+   "group": "ya con pretérito perfecto",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 40,
+   "start": 323.605,
+   "end": 332.76,
+   "es": "Ya ha empezado el partido.",
+   "group": "ya con pretérito perfecto",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 41,
+   "start": 332.76,
+   "end": 340.44,
+   "es": "Ya he leído tu mensaje.",
+   "group": "ya con pretérito perfecto",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 340.44,
+   "end": 348.446,
+   "es": "¿Ya han llamado del banco?",
+   "group": "ya con pretérito perfecto",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 43,
+   "start": 349.946,
+   "end": 358.544,
+   "es": "¡Ya está! Funciona otra vez.",
+   "group": "¡ya está!",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 44,
+   "start": 358.544,
+   "end": 367.907,
+   "es": "Ya está, la puerta está cerrada.",
+   "group": "¡ya está!",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 45,
+   "start": 367.907,
+   "end": 374.717,
+   "es": "¿Ya está el arroz?",
+   "group": "¡ya está!",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 46,
+   "start": 374.717,
+   "end": 382.467,
+   "es": "Un minuto más y ya está.",
+   "group": "¡ya está!",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 47,
+   "start": 382.467,
+   "end": 390.763,
+   "es": "¡Ya está! Terminé la tarea.",
+   "group": "¡ya está!",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 48,
+   "start": 390.763,
+   "end": 399.151,
+   "es": "¡Ya está! Ya podemos salir.",
+   "group": "¡ya está!",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 49,
+   "start": 400.651,
+   "end": 411.374,
+   "es": "Ya es de noche, pero todavía hace calor.",
+   "group": "ya y todavía en la misma frase",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 50,
+   "start": 411.374,
+   "end": 423.547,
+   "es": "Ya terminé el informe, pero todavía tengo que enviarlo.",
+   "group": "ya y todavía en la misma frase",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 423.547,
+   "end": 434.49,
+   "es": "Mi hijo ya camina, pero todavía no habla.",
+   "group": "ya y todavía en la misma frase",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 434.49,
+   "end": 446.211,
+   "es": "Ya no llueve, pero las calles todavía están mojadas.",
+   "group": "ya y todavía en la misma frase",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 446.211,
+   "end": 458.14,
+   "es": "Ya compré los regalos, pero todavía no los he envuelto.",
+   "group": "ya y todavía en la misma frase",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 458.14,
+   "end": 469.025,
+   "es": "Ya sabía la noticia, pero todavía no lo creo.",
+   "group": "ya y todavía en la misma frase",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 469.025,
+   "end": 479.573,
+   "es": "Ya son las diez y todavía no ha llegado nadie.",
+   "group": "ya y todavía en la misma frase",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 481.073,
+   "end": 490.983,
+   "es": "Ya que estás aquí, ayúdame con la mesa.",
+   "group": "ya que",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 57,
+   "start": 490.983,
+   "end": 502.506,
+   "es": "Ya que hace buen tiempo, podríamos comer afuera.",
+   "group": "ya que",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 58,
+   "start": 502.506,
+   "end": 512.264,
+   "es": "No voy a salir, ya que estoy muy cansado.",
+   "group": "ya que",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 59,
+   "start": 512.264,
+   "end": 522.603,
+   "es": "Ya que vas al mercado, compra tomates.",
+   "group": "ya que",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 60,
+   "start": 522.603,
+   "end": 532.467,
+   "es": "Ya que no tienes prisa, quédate a cenar.",
+   "group": "ya que",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 61,
+   "start": 532.467,
+   "end": 542.272,
+   "es": "Ya que lo mencionas, yo también quiero ir.",
+   "group": "ya que",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 62,
+   "start": 542.272,
+   "end": 553.342,
+   "es": "Te llamo mañana, ya que hoy no tengo tiempo.",
+   "group": "ya que",
+   "group_index": 8,
+   "level": "B1"
+  }
+ ]
+}

@@ -1,0 +1,523 @@
+{
+ "word": "tocar",
+ "slug": "tocar",
+ "kind": "word",
+ "hash": "8bba906fc6553c54",
+ "duration": 517.296,
+ "voice": "mx",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 9.237,
+   "es": "No toques el horno, está caliente.",
+   "group": "tocar con la mano",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 9.237,
+   "end": 16.372,
+   "es": "¿Puedo tocar al perro?",
+   "group": "tocar con la mano",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 16.372,
+   "end": 24.249,
+   "es": "El bebé me toca la cara.",
+   "group": "tocar con la mano",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 24.249,
+   "end": 32.429,
+   "es": "Por favor, no toquen los cuadros.",
+   "group": "tocar con la mano",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 32.429,
+   "end": 40.054,
+   "es": "Me gusta tocar la arena.",
+   "group": "tocar con la mano",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 40.054,
+   "end": 49.99,
+   "es": "Toca el agua, está muy fría.",
+   "group": "tocar con la mano",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 49.99,
+   "end": 60.352,
+   "es": "No te toques los ojos con las manos sucias.",
+   "group": "tocar con la mano",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 7,
+   "start": 60.352,
+   "end": 69.356,
+   "es": "Alguien me tocó el hombro en el autobús.",
+   "group": "tocar con la mano",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 8,
+   "start": 69.356,
+   "end": 78.43,
+   "es": "Nunca había tocado la nieve.",
+   "group": "tocar con la mano",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 9,
+   "start": 79.93,
+   "end": 88.574,
+   "es": "Mi hermana toca el piano.",
+   "group": "tocar un instrumento",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 88.574,
+   "end": 95.307,
+   "es": "¿Tocas la guitarra?",
+   "group": "tocar un instrumento",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 95.307,
+   "end": 103.266,
+   "es": "Él toca muy bien el violín.",
+   "group": "tocar un instrumento",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 103.266,
+   "end": 112.27,
+   "es": "Quiero aprender a tocar la batería.",
+   "group": "tocar un instrumento",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 112.27,
+   "end": 120.139,
+   "es": "La banda toca los sábados.",
+   "group": "tocar un instrumento",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 14,
+   "start": 120.139,
+   "end": 128.137,
+   "es": "Toca algo para nosotros.",
+   "group": "tocar un instrumento",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 15,
+   "start": 128.137,
+   "end": 138.43,
+   "es": "De niño, tocaba la flauta en la escuela.",
+   "group": "tocar un instrumento",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 16,
+   "start": 138.43,
+   "end": 147.307,
+   "es": "Anoche tocaron mi canción favorita.",
+   "group": "tocar un instrumento",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 17,
+   "start": 147.307,
+   "end": 156.485,
+   "es": "Hace diez años que toco el saxofón.",
+   "group": "tocar un instrumento",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 18,
+   "start": 157.985,
+   "end": 165.143,
+   "es": "Alguien toca la puerta.",
+   "group": "tocar la puerta, el timbre",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 19,
+   "start": 165.143,
+   "end": 173.503,
+   "es": "Toca el timbre, por favor.",
+   "group": "tocar la puerta, el timbre",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 20,
+   "start": 173.503,
+   "end": 182.518,
+   "es": "Toqué la puerta, pero nadie abrió.",
+   "group": "tocar la puerta, el timbre",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 182.518,
+   "end": 191.325,
+   "es": "El cartero tocó el timbre dos veces.",
+   "group": "tocar la puerta, el timbre",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 191.325,
+   "end": 202.541,
+   "es": "Toca el timbre otra vez, creo que no te oyeron.",
+   "group": "tocar la puerta, el timbre",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 23,
+   "start": 202.541,
+   "end": 212.171,
+   "es": "Antes de entrar, hay que tocar la puerta.",
+   "group": "tocar la puerta, el timbre",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 24,
+   "start": 212.171,
+   "end": 222.848,
+   "es": "Los niños tocaron el timbre y salieron corriendo.",
+   "group": "tocar la puerta, el timbre",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 25,
+   "start": 224.348,
+   "end": 231.135,
+   "es": "Ahora te toca a ti.",
+   "group": "te toca, el turno",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 26,
+   "start": 231.135,
+   "end": 237.527,
+   "es": "¿A quién le toca?",
+   "group": "te toca, el turno",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 27,
+   "start": 237.527,
+   "end": 246.403,
+   "es": "Me toca lavar los platos hoy.",
+   "group": "te toca, el turno",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 246.403,
+   "end": 256.405,
+   "es": "Mañana le toca cocinar a mi hermano.",
+   "group": "te toca, el turno",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 256.405,
+   "end": 264.492,
+   "es": "Te toca elegir la película.",
+   "group": "te toca, el turno",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 264.492,
+   "end": 271.371,
+   "es": "¿Cuándo me toca hablar?",
+   "group": "te toca, el turno",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 271.371,
+   "end": 279.586,
+   "es": "Ayer le tocó sacar al perro.",
+   "group": "te toca, el turno",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 279.586,
+   "end": 288.09,
+   "es": "Nos toca esperar una hora más.",
+   "group": "te toca, el turno",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 288.09,
+   "end": 299.895,
+   "es": "La última vez pagué yo, así que hoy te toca a ti.",
+   "group": "te toca, el turno",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 299.895,
+   "end": 309.27,
+   "es": "Al abuelo le toca ir al médico el lunes.",
+   "group": "te toca, el turno",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 310.77,
+   "end": 317.626,
+   "es": "Me tocó la lotería.",
+   "group": "me tocó, el premio y la suerte",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 36,
+   "start": 317.626,
+   "end": 325.76,
+   "es": "Le tocó un viaje a la playa.",
+   "group": "me tocó, el premio y la suerte",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 37,
+   "start": 325.76,
+   "end": 334.462,
+   "es": "Nunca me toca nada en las rifas.",
+   "group": "me tocó, el premio y la suerte",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 38,
+   "start": 334.462,
+   "end": 344.394,
+   "es": "En el examen me tocó la pregunta más difícil.",
+   "group": "me tocó, el premio y la suerte",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 344.394,
+   "end": 352.539,
+   "es": "Nos tocó un hotel muy bonito.",
+   "group": "me tocó, el premio y la suerte",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 40,
+   "start": 352.539,
+   "end": 359.662,
+   "es": "¿Qué te tocó en el sorteo?",
+   "group": "me tocó, el premio y la suerte",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 41,
+   "start": 359.662,
+   "end": 368.759,
+   "es": "Me tocó un asiento al lado de la ventana.",
+   "group": "me tocó, el premio y la suerte",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 368.759,
+   "end": 380.029,
+   "es": "A mi amiga le tocó trabajar el domingo.",
+   "group": "me tocó, el premio y la suerte",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 43,
+   "start": 380.029,
+   "end": 389.916,
+   "es": "Ojalá te toque un buen profesor este año.",
+   "group": "me tocó, el premio y la suerte",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 44,
+   "start": 391.416,
+   "end": 399.804,
+   "es": "No quiero tocar ese tema ahora.",
+   "group": "tocar un tema",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 45,
+   "start": 399.804,
+   "end": 410.178,
+   "es": "En la reunión tocamos varios temas importantes.",
+   "group": "tocar un tema",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 46,
+   "start": 410.178,
+   "end": 421.098,
+   "es": "Es mejor no tocar el tema de la política en la cena.",
+   "group": "tocar un tema",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 47,
+   "start": 421.098,
+   "end": 430.125,
+   "es": "El libro toca temas muy difíciles.",
+   "group": "tocar un tema",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 430.125,
+   "end": 439.447,
+   "es": "¿Por qué siempre tocas temas tan tristes?",
+   "group": "tocar un tema",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 439.447,
+   "end": 450.193,
+   "es": "Prefiero que no toques ese asunto delante de mis padres.",
+   "group": "tocar un tema",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 50,
+   "start": 450.193,
+   "end": 459.859,
+   "es": "El profesor solo tocó el tema por encima.",
+   "group": "tocar un tema",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 459.859,
+   "end": 470.314,
+   "es": "Si tocas ese tema, se va a molestar.",
+   "group": "tocar un tema",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 471.814,
+   "end": 481.34,
+   "es": "Nunca he estado enfermo, toco madera.",
+   "group": "expresiones con tocar",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 481.34,
+   "end": 489.601,
+   "es": "La película me tocó el corazón.",
+   "group": "expresiones con tocar",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 489.601,
+   "end": 500.072,
+   "es": "Después de tocar fondo, empezó a mejorar.",
+   "group": "expresiones con tocar",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 500.072,
+   "end": 508.925,
+   "es": "Sus palabras me tocaron mucho.",
+   "group": "expresiones con tocar",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 508.925,
+   "end": 517.235,
+   "es": "Ese problema me toca de cerca.",
+   "group": "expresiones con tocar",
+   "group_index": 6,
+   "level": "B1"
+  }
+ ]
+}

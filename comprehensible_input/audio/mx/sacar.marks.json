@@ -1,0 +1,541 @@
+{
+ "word": "sacar",
+ "slug": "sacar",
+ "kind": "word",
+ "hash": "b48f6431af9bfac9",
+ "duration": 559.008,
+ "voice": "mx",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 8.784,
+   "es": "Saca la leche del refrigerador.",
+   "group": "sacar algo de un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 8.784,
+   "end": 18.206,
+   "es": "Ella saca un libro de la mochila.",
+   "group": "sacar algo de un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 18.206,
+   "end": 27.081,
+   "es": "¿Puedes sacar los platos del armario?",
+   "group": "sacar algo de un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 27.081,
+   "end": 35.691,
+   "es": "Saco las llaves del bolsillo.",
+   "group": "sacar algo de un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 35.691,
+   "end": 43.87,
+   "es": "Saquen sus cuadernos, por favor.",
+   "group": "sacar algo de un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 43.87,
+   "end": 52.212,
+   "es": "Sacamos las maletas del auto.",
+   "group": "sacar algo de un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 52.212,
+   "end": 60.306,
+   "es": "El dentista me sacó una muela.",
+   "group": "sacar algo de un lugar",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 7,
+   "start": 60.306,
+   "end": 68.694,
+   "es": "¿Ya sacaste la ropa de la lavadora?",
+   "group": "sacar algo de un lugar",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 8,
+   "start": 70.194,
+   "end": 78.281,
+   "es": "¿Quién saca la basura hoy?",
+   "group": "sacar la basura, sacar al perro",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 78.281,
+   "end": 87.947,
+   "es": "Saco al perro todas las mañanas.",
+   "group": "sacar la basura, sacar al perro",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 87.947,
+   "end": 99.354,
+   "es": "Por favor, saca la basura antes de dormir.",
+   "group": "sacar la basura, sacar al perro",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 99.354,
+   "end": 108.822,
+   "es": "Mi hijo nunca saca la basura.",
+   "group": "sacar la basura, sacar al perro",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 108.822,
+   "end": 117.81,
+   "es": "Voy a sacar al perro a pasear.",
+   "group": "sacar la basura, sacar al perro",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 13,
+   "start": 117.81,
+   "end": 126.594,
+   "es": "Ayer se me olvidó sacar la basura.",
+   "group": "sacar la basura, sacar al perro",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 14,
+   "start": 126.594,
+   "end": 136.282,
+   "es": "Saqué a los niños al parque un rato.",
+   "group": "sacar la basura, sacar al perro",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 15,
+   "start": 137.782,
+   "end": 144.889,
+   "es": "¿Me sacas una foto?",
+   "group": "sacar fotos",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 16,
+   "start": 144.889,
+   "end": 153.417,
+   "es": "Aquí no se pueden sacar fotos.",
+   "group": "sacar fotos",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 17,
+   "start": 153.417,
+   "end": 161.67,
+   "es": "Mi madre saca fotos de todo.",
+   "group": "sacar fotos",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 18,
+   "start": 161.67,
+   "end": 169.478,
+   "es": "Saca una foto del mar.",
+   "group": "sacar fotos",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 19,
+   "start": 169.478,
+   "end": 178.401,
+   "es": "Sacamos muchas fotos en el viaje.",
+   "group": "sacar fotos",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 20,
+   "start": 178.401,
+   "end": 187.254,
+   "es": "¿Puedes sacarnos una foto a los dos?",
+   "group": "sacar fotos",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 187.254,
+   "end": 197.482,
+   "es": "Le saqué una foto al atardecer con el teléfono.",
+   "group": "sacar fotos",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 198.982,
+   "end": 206.593,
+   "es": "Necesito sacar dinero.",
+   "group": "sacar dinero",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 23,
+   "start": 206.593,
+   "end": 215.098,
+   "es": "¿Hay un cajero para sacar dinero?",
+   "group": "sacar dinero",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 24,
+   "start": 215.098,
+   "end": 224.044,
+   "es": "Saqué dinero del cajero de la esquina.",
+   "group": "sacar dinero",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 25,
+   "start": 224.044,
+   "end": 235.114,
+   "es": "No pude sacar dinero porque el cajero no funcionaba.",
+   "group": "sacar dinero",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 235.114,
+   "end": 245.078,
+   "es": "Voy a sacar dinero antes de ir al mercado.",
+   "group": "sacar dinero",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 245.078,
+   "end": 255.011,
+   "es": "Mi abuelo saca dinero del banco cada mes.",
+   "group": "sacar dinero",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 255.011,
+   "end": 265.629,
+   "es": "Si sacas dinero en otro banco, te cobran más.",
+   "group": "sacar dinero",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 267.129,
+   "end": 277.236,
+   "es": "Mi hermana siempre saca buenas notas.",
+   "group": "sacar buena nota",
+   "group_index": 4,
+   "level": "A1"
+  },
+  {
+   "i": 30,
+   "start": 277.236,
+   "end": 286.205,
+   "es": "Saqué un diez en matemáticas.",
+   "group": "sacar buena nota",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 286.205,
+   "end": 294.675,
+   "es": "¿Qué nota sacaste en el examen?",
+   "group": "sacar buena nota",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 294.675,
+   "end": 303.864,
+   "es": "Este año he sacado mejores notas.",
+   "group": "sacar buena nota",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 303.864,
+   "end": 313.414,
+   "es": "Si estudias, vas a sacar buena nota.",
+   "group": "sacar buena nota",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 313.414,
+   "end": 322.128,
+   "es": "No saqué buena nota, pero aprobé.",
+   "group": "sacar buena nota",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 322.128,
+   "end": 332.339,
+   "es": "Ojalá saque buena nota en el examen de inglés.",
+   "group": "sacar buena nota",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 36,
+   "start": 333.839,
+   "end": 343.342,
+   "es": "Ya saqué los boletos para el concierto.",
+   "group": "sacar entradas, boletos, documentos",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 37,
+   "start": 343.342,
+   "end": 352.346,
+   "es": "Hay que sacar las entradas por internet.",
+   "group": "sacar entradas, boletos, documentos",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 38,
+   "start": 352.346,
+   "end": 360.955,
+   "es": "¿Dónde puedo sacar un boleto de tren?",
+   "group": "sacar entradas, boletos, documentos",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 360.955,
+   "end": 370.923,
+   "es": "Mi hijo acaba de sacar la licencia de conducir.",
+   "group": "sacar entradas, boletos, documentos",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 40,
+   "start": 370.923,
+   "end": 381.065,
+   "es": "Tengo que sacar el pasaporte antes del viaje.",
+   "group": "sacar entradas, boletos, documentos",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 41,
+   "start": 381.065,
+   "end": 391.622,
+   "es": "Vamos a sacar entradas para el partido del sábado.",
+   "group": "sacar entradas, boletos, documentos",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 391.622,
+   "end": 402.15,
+   "es": "Me gustaría sacar los boletos con tiempo.",
+   "group": "sacar entradas, boletos, documentos",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 43,
+   "start": 403.65,
+   "end": 412.608,
+   "es": "¿Qué conclusión sacaste de la película?",
+   "group": "sacar conclusiones, sacar de quicio",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 44,
+   "start": 412.608,
+   "end": 421.832,
+   "es": "No saques conclusiones tan rápido.",
+   "group": "sacar conclusiones, sacar de quicio",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 45,
+   "start": 421.832,
+   "end": 433.677,
+   "es": "Después de la reunión, sacamos varias conclusiones.",
+   "group": "sacar conclusiones, sacar de quicio",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 46,
+   "start": 433.677,
+   "end": 441.532,
+   "es": "Ese ruido me saca de quicio.",
+   "group": "sacar conclusiones, sacar de quicio",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 47,
+   "start": 441.532,
+   "end": 451.546,
+   "es": "Mi hermano me saca de quicio cuando no escucha.",
+   "group": "sacar conclusiones, sacar de quicio",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 451.546,
+   "end": 461.002,
+   "es": "No dejes que el tráfico te saque de quicio.",
+   "group": "sacar conclusiones, sacar de quicio",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 461.002,
+   "end": 471.362,
+   "es": "Es mejor esperar antes de sacar conclusiones.",
+   "group": "sacar conclusiones, sacar de quicio",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 50,
+   "start": 471.362,
+   "end": 480.75,
+   "es": "Me sacó de quicio que llegara tan tarde.",
+   "group": "sacar conclusiones, sacar de quicio",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 482.25,
+   "end": 493.111,
+   "es": "Mis padres trabajaron mucho para sacarnos adelante.",
+   "group": "expresiones con sacar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 493.111,
+   "end": 502.371,
+   "es": "Hay que sacar provecho de las vacaciones.",
+   "group": "expresiones con sacar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 502.371,
+   "end": 511.63,
+   "es": "No sé de dónde sacas tanta energía.",
+   "group": "expresiones con sacar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 511.63,
+   "end": 520.924,
+   "es": "Siempre saca tiempo para su familia.",
+   "group": "expresiones con sacar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 520.924,
+   "end": 528.976,
+   "es": "¿Quién sacó el tema del dinero?",
+   "group": "expresiones con sacar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 528.976,
+   "end": 536.947,
+   "es": "No me saques de mis casillas.",
+   "group": "expresiones con sacar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 57,
+   "start": 536.947,
+   "end": 548.354,
+   "es": "Ella sacó una idea genial de un libro viejo.",
+   "group": "expresiones con sacar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 58,
+   "start": 548.354,
+   "end": 558.948,
+   "es": "Siempre sabe sacar lo mejor de cada situación.",
+   "group": "expresiones con sacar",
+   "group_index": 7,
+   "level": "B1"
+  }
+ ]
+}

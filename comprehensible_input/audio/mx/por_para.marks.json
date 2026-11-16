@@ -1,0 +1,568 @@
+{
+ "word": "por / para",
+ "slug": "por_para",
+ "kind": "word",
+ "hash": "881189f786c03f08",
+ "duration": 531.288,
+ "voice": "mx",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 7.519,
+   "es": "Estudio para aprender.",
+   "group": "para: finalidad",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 7.519,
+   "end": 14.41,
+   "es": "Trabajo para vivir.",
+   "group": "para: finalidad",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 14.41,
+   "end": 23.446,
+   "es": "Voy al mercado para comprar fruta.",
+   "group": "para: finalidad",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 23.446,
+   "end": 31.65,
+   "es": "Necesito dinero para el viaje.",
+   "group": "para: finalidad",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 31.65,
+   "end": 40.933,
+   "es": "Esta caja es para los libros.",
+   "group": "para: finalidad",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 40.933,
+   "end": 47.487,
+   "es": "¿Para qué sirve esto?",
+   "group": "para: finalidad",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 47.487,
+   "end": 55.551,
+   "es": "Me levanto temprano para correr.",
+   "group": "para: finalidad",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 7,
+   "start": 55.551,
+   "end": 63.649,
+   "es": "Ahorro para comprar una casa.",
+   "group": "para: finalidad",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 8,
+   "start": 65.149,
+   "end": 72.702,
+   "es": "Este regalo es para ti.",
+   "group": "para: destinatario",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 72.702,
+   "end": 80.719,
+   "es": "Las flores son para mi madre.",
+   "group": "para: destinatario",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 80.719,
+   "end": 87.737,
+   "es": "¿Para quién es el café?",
+   "group": "para: destinatario",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 87.737,
+   "end": 95.395,
+   "es": "Hay una carta para usted.",
+   "group": "para: destinatario",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 95.395,
+   "end": 104.817,
+   "es": "Trabaja para una empresa grande.",
+   "group": "para: destinatario",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 104.817,
+   "end": 112.242,
+   "es": "Hice la cena para todos.",
+   "group": "para: destinatario",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 14,
+   "start": 113.742,
+   "end": 121.898,
+   "es": "Mañana salimos para la playa.",
+   "group": "para: destino y plazo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 15,
+   "start": 121.898,
+   "end": 130.763,
+   "es": "El tren para Quito sale a las ocho.",
+   "group": "para: destino y plazo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 16,
+   "start": 130.763,
+   "end": 138.78,
+   "es": "¿Este autobús va para el centro?",
+   "group": "para: destino y plazo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 17,
+   "start": 138.78,
+   "end": 147.369,
+   "es": "Necesito el informe para el lunes.",
+   "group": "para: destino y plazo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 18,
+   "start": 147.369,
+   "end": 155.41,
+   "es": "La tarea es para mañana.",
+   "group": "para: destino y plazo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 19,
+   "start": 155.41,
+   "end": 164.089,
+   "es": "Para las seis ya estoy en casa.",
+   "group": "para: destino y plazo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 20,
+   "start": 164.089,
+   "end": 172.895,
+   "es": "Para el verano quiero hablar mejor.",
+   "group": "para: destino y plazo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 174.395,
+   "end": 184.572,
+   "es": "Para mí, esta película es aburrida.",
+   "group": "para mí: opinión",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 184.572,
+   "end": 195.398,
+   "es": "Para ella, la familia es lo primero.",
+   "group": "para mí: opinión",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 23,
+   "start": 195.398,
+   "end": 204.391,
+   "es": "Para mi gusto, hay demasiada sal.",
+   "group": "para mí: opinión",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 24,
+   "start": 204.391,
+   "end": 214.927,
+   "es": "Para nosotros, el domingo es el mejor día.",
+   "group": "para mí: opinión",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 25,
+   "start": 214.927,
+   "end": 225.924,
+   "es": "Para un niño tan pequeño, lee muy bien.",
+   "group": "para mí: opinión",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 26,
+   "start": 225.924,
+   "end": 235.021,
+   "es": "Hace mucho calor para ser diciembre.",
+   "group": "para mí: opinión",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 27,
+   "start": 236.521,
+   "end": 243.69,
+   "es": "Gracias por la comida.",
+   "group": "por: causa",
+   "group_index": 4,
+   "level": "A1"
+  },
+  {
+   "i": 28,
+   "start": 243.69,
+   "end": 250.663,
+   "es": "Perdón por la espera.",
+   "group": "por: causa",
+   "group_index": 4,
+   "level": "A1"
+  },
+  {
+   "i": 29,
+   "start": 250.663,
+   "end": 256.85,
+   "es": "Lo hice por ti.",
+   "group": "por: causa",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 256.85,
+   "end": 264.333,
+   "es": "No salimos por la lluvia.",
+   "group": "por: causa",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 264.333,
+   "end": 272.165,
+   "es": "Llegué tarde por el tráfico.",
+   "group": "por: causa",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 272.165,
+   "end": 280.041,
+   "es": "Está cansado por el viaje.",
+   "group": "por: causa",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 280.041,
+   "end": 288.824,
+   "es": "Me preocupo mucho por mi hijo.",
+   "group": "por: causa",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 290.324,
+   "end": 297.935,
+   "es": "Caminamos por el parque.",
+   "group": "por: lugar, tiempo y medio",
+   "group_index": 5,
+   "level": "A1"
+  },
+  {
+   "i": 35,
+   "start": 297.935,
+   "end": 305.162,
+   "es": "Estudio por la mañana.",
+   "group": "por: lugar, tiempo y medio",
+   "group_index": 5,
+   "level": "A1"
+  },
+  {
+   "i": 36,
+   "start": 305.162,
+   "end": 312.284,
+   "es": "Hablamos por teléfono.",
+   "group": "por: lugar, tiempo y medio",
+   "group_index": 5,
+   "level": "A1"
+  },
+  {
+   "i": 37,
+   "start": 312.284,
+   "end": 319.86,
+   "es": "¿Hay una farmacia por aquí?",
+   "group": "por: lugar, tiempo y medio",
+   "group_index": 5,
+   "level": "A1"
+  },
+  {
+   "i": 38,
+   "start": 319.86,
+   "end": 327.596,
+   "es": "El gato entró por la ventana.",
+   "group": "por: lugar, tiempo y medio",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 327.596,
+   "end": 335.775,
+   "es": "Paso por tu casa a las cinco.",
+   "group": "por: lugar, tiempo y medio",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 40,
+   "start": 335.775,
+   "end": 343.769,
+   "es": "Te mando las fotos por correo.",
+   "group": "por: lugar, tiempo y medio",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 41,
+   "start": 343.769,
+   "end": 352.007,
+   "es": "Viví en Perú por dos años.",
+   "group": "por: lugar, tiempo y medio",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 353.507,
+   "end": 361.582,
+   "es": "Te cambio mi libro por el tuyo.",
+   "group": "por: cambio y precio",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 43,
+   "start": 361.582,
+   "end": 369.971,
+   "es": "Pagamos mucho por esta casa.",
+   "group": "por: cambio y precio",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 44,
+   "start": 369.971,
+   "end": 378.905,
+   "es": "Vendió su auto por muy poco dinero.",
+   "group": "por: cambio y precio",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 45,
+   "start": 378.905,
+   "end": 388.931,
+   "es": "Cambié la camisa por una más grande.",
+   "group": "por: cambio y precio",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 46,
+   "start": 388.931,
+   "end": 396.774,
+   "es": "Mañana trabajo yo por ti.",
+   "group": "por: cambio y precio",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 47,
+   "start": 396.774,
+   "end": 404.973,
+   "es": "¿Cuánto pagaste por esa chaqueta?",
+   "group": "por: cambio y precio",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 48,
+   "start": 406.473,
+   "end": 414.963,
+   "es": "Por favor, cierra la puerta.",
+   "group": "por fin, por eso, por favor",
+   "group_index": 7,
+   "level": "A1"
+  },
+  {
+   "i": 49,
+   "start": 414.963,
+   "end": 421.438,
+   "es": "¡Por fin llegaste!",
+   "group": "por fin, por eso, por favor",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 50,
+   "start": 421.438,
+   "end": 429.307,
+   "es": "Por supuesto que puedes venir.",
+   "group": "por fin, por eso, por favor",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 51,
+   "start": 429.307,
+   "end": 437.858,
+   "es": "Estaba enfermo, por eso no vine.",
+   "group": "por fin, por eso, por favor",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 52,
+   "start": 437.858,
+   "end": 445.806,
+   "es": "Por cierto, ¿viste a Juan ayer?",
+   "group": "por fin, por eso, por favor",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 53,
+   "start": 445.806,
+   "end": 453.074,
+   "es": "Por ahora todo está bien.",
+   "group": "por fin, por eso, por favor",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 54,
+   "start": 453.074,
+   "end": 460.708,
+   "es": "Por suerte, no pasó nada.",
+   "group": "por fin, por eso, por favor",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 55,
+   "start": 462.208,
+   "end": 471.398,
+   "es": "Salí por la mañana para llegar temprano.",
+   "group": "por y para juntos",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 471.398,
+   "end": 479.429,
+   "es": "Lo hice por ti, no para mí.",
+   "group": "por y para juntos",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 57,
+   "start": 479.429,
+   "end": 489.211,
+   "es": "Pasamos por Lima para visitar a mis tíos.",
+   "group": "por y para juntos",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 58,
+   "start": 489.211,
+   "end": 499.121,
+   "es": "Te llamo por teléfono para confirmar la hora.",
+   "group": "por y para juntos",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 59,
+   "start": 499.121,
+   "end": 509.146,
+   "es": "Estudia por las noches para aprobar el examen.",
+   "group": "por y para juntos",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 60,
+   "start": 509.146,
+   "end": 520.937,
+   "es": "Gracias por el regalo, es perfecto para mi casa nueva.",
+   "group": "por y para juntos",
+   "group_index": 8,
+   "level": "B1"
+  },
+  {
+   "i": 61,
+   "start": 520.937,
+   "end": 531.229,
+   "es": "Para llegar al hotel, hay que pasar por el puente.",
+   "group": "por y para juntos",
+   "group_index": 8,
+   "level": "B1"
+  }
+ ]
+}

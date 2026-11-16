@@ -7,7 +7,7 @@
    "pos": "verbo",
    "category": null,
    "count": 63,
-   "duration": 527.688,
+   "duration": 565.2,
    "levels": [
     "A1",
     "A2",
@@ -15,9 +15,8 @@
    ],
    "groups": 8,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -27,7 +26,7 @@
    "pos": "verbo",
    "category": null,
    "count": 62,
-   "duration": 569.448,
+   "duration": 597.576,
    "levels": [
     "A1",
     "A2",
@@ -35,9 +34,8 @@
    ],
    "groups": 8,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -47,7 +45,7 @@
    "pos": "verbo",
    "category": null,
    "count": 62,
-   "duration": 528.888,
+   "duration": 556.08,
    "levels": [
     "A1",
     "A2",
@@ -55,9 +53,8 @@
    ],
    "groups": 9,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -67,7 +64,7 @@
    "pos": "verbo",
    "category": null,
    "count": 59,
-   "duration": 484.368,
+   "duration": 503.016,
    "levels": [
     "A1",
     "A2",
@@ -75,9 +72,8 @@
    ],
    "groups": 8,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -87,7 +83,7 @@
    "pos": "verbo",
    "category": null,
    "count": 59,
-   "duration": 520.584,
+   "duration": 548.832,
    "levels": [
     "A1",
     "A2",
@@ -95,9 +91,8 @@
    ],
    "groups": 8,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -107,7 +102,7 @@
    "pos": "verbo",
    "category": null,
    "count": 59,
-   "duration": 489.072,
+   "duration": 513.864,
    "levels": [
     "A1",
     "A2",
@@ -115,9 +110,8 @@
    ],
    "groups": 8,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -127,7 +121,7 @@
    "pos": "verbo",
    "category": null,
    "count": 62,
-   "duration": 495.84,
+   "duration": 528.912,
    "levels": [
     "A1",
     "A2",
@@ -135,9 +129,8 @@
    ],
    "groups": 8,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -147,7 +140,7 @@
    "pos": "verbo",
    "category": null,
    "count": 61,
-   "duration": 501.0,
+   "duration": 526.344,
    "levels": [
     "A1",
     "A2",
@@ -155,9 +148,8 @@
    ],
    "groups": 8,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -167,7 +159,7 @@
    "pos": "adverbio",
    "category": null,
    "count": 63,
-   "duration": 539.184,
+   "duration": 575.184,
    "levels": [
     "A1",
     "A2",
@@ -175,9 +167,8 @@
    ],
    "groups": 8,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -187,7 +178,7 @@
    "pos": "verbo",
    "category": null,
    "count": 59,
-   "duration": 498.432,
+   "duration": 524.376,
    "levels": [
     "A1",
     "A2",
@@ -195,9 +186,8 @@
    ],
    "groups": 8,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -207,7 +197,7 @@
    "pos": "pronombre",
    "category": null,
    "count": 62,
-   "duration": 489.864,
+   "duration": 516.096,
    "levels": [
     "A1",
     "A2",
@@ -215,9 +205,8 @@
    ],
    "groups": 7,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -227,7 +216,7 @@
    "pos": "adjetivo",
    "category": null,
    "count": 56,
-   "duration": 462.792,
+   "duration": 489.672,
    "levels": [
     "A1",
     "A2",
@@ -235,9 +224,8 @@
    ],
    "groups": 8,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -247,7 +235,7 @@
    "pos": "verbo",
    "category": null,
    "count": 58,
-   "duration": 479.112,
+   "duration": 511.8,
    "levels": [
     "A1",
     "A2",
@@ -255,9 +243,8 @@
    ],
    "groups": 8,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -267,7 +254,7 @@
    "pos": "verbo",
    "category": null,
    "count": 61,
-   "duration": 533.784,
+   "duration": 564.336,
    "levels": [
     "A1",
     "A2",
@@ -275,9 +262,8 @@
    ],
    "groups": 8,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -287,7 +273,7 @@
    "pos": "preposicion",
    "category": null,
    "count": 62,
-   "duration": 504.936,
+   "duration": 531.288,
    "levels": [
     "A1",
     "A2",
@@ -295,9 +281,8 @@
    ],
    "groups": 9,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -307,7 +292,7 @@
    "pos": "conjuncion",
    "category": null,
    "count": 62,
-   "duration": 488.424,
+   "duration": 511.464,
    "levels": [
     "A1",
     "A2",
@@ -315,9 +300,8 @@
    ],
    "groups": 8,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -327,7 +311,7 @@
    "pos": "verbo",
    "category": null,
    "count": 58,
-   "duration": 487.224,
+   "duration": 504.384,
    "levels": [
     "A1",
     "A2",
@@ -335,9 +319,8 @@
    ],
    "groups": 8,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -347,7 +330,7 @@
    "pos": "verbo",
    "category": null,
    "count": 59,
-   "duration": 527.352,
+   "duration": 559.008,
    "levels": [
     "A1",
     "A2",
@@ -355,9 +338,8 @@
    ],
    "groups": 8,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -367,7 +349,7 @@
    "pos": null,
    "category": "conversacion",
    "count": 64,
-   "duration": 456.624,
+   "duration": 481.152,
    "levels": [
     "A1",
     "A2",
@@ -375,9 +357,8 @@
    ],
    "groups": 9,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -387,7 +368,7 @@
    "pos": "pronombre",
    "category": null,
    "count": 61,
-   "duration": 486.768,
+   "duration": 510.432,
    "levels": [
     "A1",
     "A2",
@@ -395,9 +376,8 @@
    ],
    "groups": 7,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -407,7 +387,7 @@
    "pos": "verbo",
    "category": null,
    "count": 58,
-   "duration": 467.928,
+   "duration": 495.888,
    "levels": [
     "A1",
     "A2",
@@ -415,9 +395,8 @@
    ],
    "groups": 7,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -427,7 +406,7 @@
    "pos": "verbo",
    "category": null,
    "count": 58,
-   "duration": 518.16,
+   "duration": 551.928,
    "levels": [
     "A1",
     "A2",
@@ -435,9 +414,8 @@
    ],
    "groups": 7,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -447,7 +425,7 @@
    "pos": "verbo",
    "category": null,
    "count": 64,
-   "duration": 517.128,
+   "duration": 539.712,
    "levels": [
     "A1",
     "A2",
@@ -455,9 +433,8 @@
    ],
    "groups": 9,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -467,7 +444,7 @@
    "pos": "verbo",
    "category": null,
    "count": 57,
-   "duration": 487.152,
+   "duration": 517.296,
    "levels": [
     "A1",
     "A2",
@@ -475,9 +452,8 @@
    ],
    "groups": 7,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -487,7 +463,7 @@
    "pos": null,
    "category": "gramatica",
    "count": 64,
-   "duration": 542.76,
+   "duration": 570.12,
    "levels": [
     "A1",
     "A2",
@@ -495,9 +471,8 @@
    ],
    "groups": 7,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -507,7 +482,7 @@
    "pos": "sustantivo",
    "category": null,
    "count": 61,
-   "duration": 518.832,
+   "duration": 547.2,
    "levels": [
     "A1",
     "A2",
@@ -515,9 +490,8 @@
    ],
    "groups": 9,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -527,7 +501,7 @@
    "pos": "verbo",
    "category": null,
    "count": 62,
-   "duration": 512.568,
+   "duration": 536.136,
    "levels": [
     "A1",
     "A2",
@@ -535,9 +509,8 @@
    ],
    "groups": 8,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   },
   {
@@ -547,7 +520,7 @@
    "pos": "adverbio",
    "category": null,
    "count": 63,
-   "duration": 510.72,
+   "duration": 553.392,
    "levels": [
     "A1",
     "A2",
@@ -555,9 +528,8 @@
    ],
    "groups": 9,
    "voices": [
-    "dora",
-    "alex",
-    "santa"
+    "mx",
+    "mx-lento"
    ]
   }
  ]

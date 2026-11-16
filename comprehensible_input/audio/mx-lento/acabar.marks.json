@@ -1,0 +1,577 @@
+{
+ "word": "acabar",
+ "slug": "acabar",
+ "kind": "word",
+ "hash": "557414bb19fe8080",
+ "duration": 724.632,
+ "voice": "mx-lento",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 10.483,
+   "es": "La clase acaba a las tres.",
+   "group": "acabar, terminar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 10.483,
+   "end": 19.739,
+   "es": "¿Cuándo acaba la película?",
+   "group": "acabar, terminar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 19.739,
+   "end": 30.538,
+   "es": "La fiesta acaba muy tarde.",
+   "group": "acabar, terminar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 30.538,
+   "end": 41.072,
+   "es": "Acabo el trabajo a las cinco.",
+   "group": "acabar, terminar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 41.072,
+   "end": 51.205,
+   "es": "El curso acaba en junio.",
+   "group": "acabar, terminar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 51.205,
+   "end": 62.72,
+   "es": "¿Ya acabas la tarea? Te espero.",
+   "group": "acabar, terminar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 62.72,
+   "end": 73.303,
+   "es": "Mi turno acaba a medianoche.",
+   "group": "acabar, terminar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 7,
+   "start": 74.803,
+   "end": 84.824,
+   "es": "Ayer acabé el libro.",
+   "group": "acabé, acabó",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 8,
+   "start": 84.824,
+   "end": 93.829,
+   "es": "¿Ya acabaste la tarea?",
+   "group": "acabé, acabó",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 9,
+   "start": 93.829,
+   "end": 104.516,
+   "es": "La reunión acabó muy tarde.",
+   "group": "acabé, acabó",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 10,
+   "start": 104.516,
+   "end": 117.604,
+   "es": "Anoche acabamos la cena a las once.",
+   "group": "acabé, acabó",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 11,
+   "start": 117.604,
+   "end": 129.632,
+   "es": "Todavía no he acabado el informe.",
+   "group": "acabé, acabó",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 12,
+   "start": 129.632,
+   "end": 140.927,
+   "es": "El partido acabó empatado.",
+   "group": "acabé, acabó",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 13,
+   "start": 140.927,
+   "end": 150.127,
+   "es": "¿Cómo acabó la historia?",
+   "group": "acabé, acabó",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 14,
+   "start": 150.127,
+   "end": 164.305,
+   "es": "Cuando acabó el partido, salimos a caminar.",
+   "group": "acabé, acabó",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 15,
+   "start": 165.805,
+   "end": 175.503,
+   "es": "Acabo de llegar a casa.",
+   "group": "acabar de + infinitivo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 16,
+   "start": 175.503,
+   "end": 183.924,
+   "es": "Acabamos de comer.",
+   "group": "acabar de + infinitivo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 17,
+   "start": 183.924,
+   "end": 193.316,
+   "es": "El tren acaba de salir.",
+   "group": "acabar de + infinitivo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 18,
+   "start": 193.316,
+   "end": 202.552,
+   "es": "¿Acabas de despertarte?",
+   "group": "acabar de + infinitivo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 19,
+   "start": 202.552,
+   "end": 212.453,
+   "es": "Acaba de llamar tu madre.",
+   "group": "acabar de + infinitivo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 20,
+   "start": 212.453,
+   "end": 224.73,
+   "es": "Acabo de ver a Pedro en la calle.",
+   "group": "acabar de + infinitivo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 224.73,
+   "end": 236.068,
+   "es": "Mis vecinos acaban de tener un bebé.",
+   "group": "acabar de + infinitivo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 236.068,
+   "end": 246.264,
+   "es": "Acabo de enviarte el correo.",
+   "group": "acabar de + infinitivo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 23,
+   "start": 246.264,
+   "end": 257.716,
+   "es": "Cuando llegué, él acababa de salir.",
+   "group": "acabar de + infinitivo",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 24,
+   "start": 257.716,
+   "end": 270.211,
+   "es": "Acababa de ducharme cuando sonó el teléfono.",
+   "group": "acabar de + infinitivo",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 25,
+   "start": 271.711,
+   "end": 280.042,
+   "es": "Se acabó la leche.",
+   "group": "acabarse: no quedar",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 280.042,
+   "end": 290.068,
+   "es": "Se acabaron las vacaciones.",
+   "group": "acabarse: no quedar",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 290.068,
+   "end": 298.789,
+   "es": "Se nos acabó el pan.",
+   "group": "acabarse: no quedar",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 298.789,
+   "end": 310.128,
+   "es": "Se me acabó la batería del teléfono.",
+   "group": "acabarse: no quedar",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 310.128,
+   "end": 318.331,
+   "es": "¿Se acabó el café?",
+   "group": "acabarse: no quedar",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 318.331,
+   "end": 328.891,
+   "es": "Se acabó el tiempo del examen.",
+   "group": "acabarse: no quedar",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 328.891,
+   "end": 339.683,
+   "es": "Se están acabando las entradas.",
+   "group": "acabarse: no quedar",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 339.683,
+   "end": 354.504,
+   "es": "Cuando se acabe el dinero, volvemos a casa.",
+   "group": "acabarse: no quedar",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 33,
+   "start": 356.004,
+   "end": 366.816,
+   "es": "Acabé comprando dos camisas.",
+   "group": "acabar + gerundio",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 34,
+   "start": 366.816,
+   "end": 378.736,
+   "es": "Siempre acabamos hablando de trabajo.",
+   "group": "acabar + gerundio",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 35,
+   "start": 378.736,
+   "end": 392.198,
+   "es": "Fuimos a pasear y acabamos cenando en la playa.",
+   "group": "acabar + gerundio",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 36,
+   "start": 392.198,
+   "end": 407.759,
+   "es": "No quería ir, pero acabé bailando toda la noche.",
+   "group": "acabar + gerundio",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 37,
+   "start": 407.759,
+   "end": 421.105,
+   "es": "Ella siempre acaba pagando la cuenta.",
+   "group": "acabar + gerundio",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 38,
+   "start": 421.105,
+   "end": 436.195,
+   "es": "Empezó como un juego y acabó siendo su trabajo.",
+   "group": "acabar + gerundio",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 39,
+   "start": 436.195,
+   "end": 450.96,
+   "es": "Si no descansas, acabarás durmiéndote en clase.",
+   "group": "acabar + gerundio",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 40,
+   "start": 450.96,
+   "end": 465.661,
+   "es": "Al final, acabó riéndose de sus propios errores.",
+   "group": "acabar + gerundio",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 41,
+   "start": 467.161,
+   "end": 476.606,
+   "es": "La historia acabó bien.",
+   "group": "acabar en, acabar por, acabar bien",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 476.606,
+   "end": 486.733,
+   "es": "La película acaba mal.",
+   "group": "acabar en, acabar por, acabar bien",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 43,
+   "start": 486.733,
+   "end": 496.87,
+   "es": "La discusión acabó en pelea.",
+   "group": "acabar en, acabar por, acabar bien",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 44,
+   "start": 496.87,
+   "end": 508.001,
+   "es": "Esta calle acaba en el río.",
+   "group": "acabar en, acabar por, acabar bien",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 45,
+   "start": 508.001,
+   "end": 521.869,
+   "es": "Si sigues así, vas a acabar enfermo.",
+   "group": "acabar en, acabar por, acabar bien",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 46,
+   "start": 521.869,
+   "end": 533.121,
+   "es": "Acabaron por aceptar nuestra oferta.",
+   "group": "acabar en, acabar por, acabar bien",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 47,
+   "start": 533.121,
+   "end": 543.362,
+   "es": "Todo acabó en una gran fiesta.",
+   "group": "acabar en, acabar por, acabar bien",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 543.362,
+   "end": 554.574,
+   "es": "El proyecto acabó por cancelarse.",
+   "group": "acabar en, acabar por, acabar bien",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 556.074,
+   "end": 567.564,
+   "es": "Tenemos que acabar con este problema.",
+   "group": "acabar con",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 50,
+   "start": 567.564,
+   "end": 579.353,
+   "es": "Este trabajo va a acabar conmigo.",
+   "group": "acabar con",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 579.353,
+   "end": 590.433,
+   "es": "La lluvia acabó con nuestros planes.",
+   "group": "acabar con",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 590.433,
+   "end": 602.008,
+   "es": "El gobierno quiere acabar con la pobreza.",
+   "group": "acabar con",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 602.008,
+   "end": 615.748,
+   "es": "Hay que acabar con el ruido en el edificio.",
+   "group": "acabar con",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 615.748,
+   "end": 629.247,
+   "es": "Esta medicina acabó con mi dolor de cabeza.",
+   "group": "acabar con",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 629.247,
+   "end": 642.927,
+   "es": "Quiero acabar con esta situación cuanto antes.",
+   "group": "acabar con",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 644.427,
+   "end": 655.985,
+   "es": "¡Se acabó! Nos vamos a casa.",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 57,
+   "start": 655.985,
+   "end": 669.865,
+   "es": "Y colorín colorado, este cuento se ha acabado.",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 58,
+   "start": 669.865,
+   "end": 679.336,
+   "es": "Esto no acaba nunca.",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 59,
+   "start": 679.336,
+   "end": 689.874,
+   "es": "No acabo de entender la pregunta.",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 60,
+   "start": 689.874,
+   "end": 702.321,
+   "es": "No acabo de acostumbrarme a esta ciudad.",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 61,
+   "start": 702.321,
+   "end": 711.598,
+   "es": "Lo bueno se acaba pronto.",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 62,
+   "start": 711.598,
+   "end": 724.578,
+   "es": "No vas a salir esta noche, y se acabó.",
+   "group": "expresiones",
+   "group_index": 7,
+   "level": "B1"
+  }
+ ]
+}

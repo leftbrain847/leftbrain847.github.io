@@ -1,0 +1,541 @@
+{
+ "word": "llevar",
+ "slug": "llevar",
+ "kind": "word",
+ "hash": "97e7009ed5118d66",
+ "duration": 524.376,
+ "voice": "mx",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 9.643,
+   "es": "Llevo una mochila muy pesada.",
+   "group": "llevar, cargar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 9.643,
+   "end": 16.0,
+   "es": "¿Llevas dinero?",
+   "group": "llevar, cargar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 16.0,
+   "end": 23.088,
+   "es": "Yo llevo las bolsas.",
+   "group": "llevar, cargar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 23.088,
+   "end": 31.489,
+   "es": "Siempre llevo agua en el auto.",
+   "group": "llevar, cargar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 31.489,
+   "end": 39.759,
+   "es": "¿Puedes llevar la sopa a la mesa?",
+   "group": "llevar, cargar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 39.759,
+   "end": 48.564,
+   "es": "Mi padre lleva la maleta grande.",
+   "group": "llevar, cargar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 48.564,
+   "end": 56.872,
+   "es": "Llevé el pastel a la fiesta.",
+   "group": "llevar, cargar",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 7,
+   "start": 56.872,
+   "end": 65.701,
+   "es": "No llevaba el pasaporte encima.",
+   "group": "llevar, cargar",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 8,
+   "start": 67.201,
+   "end": 74.777,
+   "es": "Hoy llevo un vestido rojo.",
+   "group": "llevar ropa",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 74.777,
+   "end": 85.093,
+   "es": "Mi abuelo lleva una corbata azul.",
+   "group": "llevar ropa",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 85.093,
+   "end": 93.099,
+   "es": "¿Qué vas a llevar a la boda?",
+   "group": "llevar ropa",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 93.099,
+   "end": 102.242,
+   "es": "Ella siempre lleva sombrero.",
+   "group": "llevar ropa",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 102.242,
+   "end": 111.455,
+   "es": "Llevas una camisa muy bonita.",
+   "group": "llevar ropa",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 111.455,
+   "end": 119.809,
+   "es": "El niño lleva zapatos nuevos.",
+   "group": "llevar ropa",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 14,
+   "start": 119.809,
+   "end": 127.988,
+   "es": "En verano llevo ropa ligera.",
+   "group": "llevar ropa",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 15,
+   "start": 127.988,
+   "end": 137.05,
+   "es": "Ayer llevaba una chaqueta negra.",
+   "group": "llevar ropa",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 16,
+   "start": 138.55,
+   "end": 145.221,
+   "es": "Te llevo a casa.",
+   "group": "llevar a alguien a un lugar",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 17,
+   "start": 145.221,
+   "end": 153.656,
+   "es": "Llevo a mis hijos a la escuela.",
+   "group": "llevar a alguien a un lugar",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 18,
+   "start": 153.656,
+   "end": 160.988,
+   "es": "¿Me llevas al aeropuerto?",
+   "group": "llevar a alguien a un lugar",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 19,
+   "start": 160.988,
+   "end": 169.365,
+   "es": "Este autobús te lleva al centro.",
+   "group": "llevar a alguien a un lugar",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 20,
+   "start": 169.365,
+   "end": 177.274,
+   "es": "Mi madre me llevó al médico.",
+   "group": "llevar a alguien a un lugar",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 177.274,
+   "end": 186.919,
+   "es": "Te voy a llevar a un restaurante muy bueno.",
+   "group": "llevar a alguien a un lugar",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 186.919,
+   "end": 198.419,
+   "es": "Llevamos al perro al parque todas las mañanas.",
+   "group": "llevar a alguien a un lugar",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 23,
+   "start": 199.919,
+   "end": 207.217,
+   "es": "Llevo dos años aquí.",
+   "group": "llevar tiempo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 24,
+   "start": 207.217,
+   "end": 215.652,
+   "es": "¿Cuánto tiempo llevas en esta ciudad?",
+   "group": "llevar tiempo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 25,
+   "start": 215.652,
+   "end": 223.936,
+   "es": "Llevamos una hora en la fila.",
+   "group": "llevar tiempo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 223.936,
+   "end": 233.648,
+   "es": "Mis padres llevan treinta años casados.",
+   "group": "llevar tiempo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 233.648,
+   "end": 242.559,
+   "es": "Ella lleva tres meses en la empresa.",
+   "group": "llevar tiempo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 242.559,
+   "end": 251.354,
+   "es": "Este trabajo lleva mucho tiempo.",
+   "group": "llevar tiempo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 251.354,
+   "end": 260.834,
+   "es": "Preparar la cena me llevó toda la tarde.",
+   "group": "llevar tiempo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 262.334,
+   "end": 270.072,
+   "es": "Llevo una hora esperando.",
+   "group": "llevar + gerundio",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 270.072,
+   "end": 279.784,
+   "es": "Llevamos todo el día caminando.",
+   "group": "llevar + gerundio",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 279.784,
+   "end": 289.159,
+   "es": "¿Cuánto tiempo llevas estudiando español?",
+   "group": "llevar + gerundio",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 289.159,
+   "end": 297.792,
+   "es": "Lleva tres días lloviendo sin parar.",
+   "group": "llevar + gerundio",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 297.792,
+   "end": 305.997,
+   "es": "Llevo meses buscando trabajo.",
+   "group": "llevar + gerundio",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 305.997,
+   "end": 316.986,
+   "es": "Mi vecino lleva toda la mañana haciendo ruido.",
+   "group": "llevar + gerundio",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 36,
+   "start": 316.986,
+   "end": 328.462,
+   "es": "Cuando lo conocí, llevaba dos años viviendo solo.",
+   "group": "llevar + gerundio",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 37,
+   "start": 329.962,
+   "end": 338.583,
+   "es": "Me llevo muy bien con mi hermana.",
+   "group": "llevarse bien o mal",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 38,
+   "start": 338.583,
+   "end": 346.008,
+   "es": "Mis padres se llevan bien.",
+   "group": "llevarse bien o mal",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 346.008,
+   "end": 353.921,
+   "es": "No me llevo bien con mi jefe.",
+   "group": "llevarse bien o mal",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 40,
+   "start": 353.921,
+   "end": 363.517,
+   "es": "Los dos gatos no se llevan nada bien.",
+   "group": "llevarse bien o mal",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 41,
+   "start": 363.517,
+   "end": 371.87,
+   "es": "¿Te llevas bien con tus compañeros?",
+   "group": "llevarse bien o mal",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 371.87,
+   "end": 380.608,
+   "es": "De niños nos llevábamos muy mal.",
+   "group": "llevarse bien o mal",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 43,
+   "start": 380.608,
+   "end": 389.206,
+   "es": "Espero que te lleves bien con ellos.",
+   "group": "llevarse bien o mal",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 44,
+   "start": 390.706,
+   "end": 397.539,
+   "es": "¿Me lo llevo o lo dejo?",
+   "group": "llevarse algo",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 45,
+   "start": 397.539,
+   "end": 406.81,
+   "es": "Me llevo esta camisa, por favor.",
+   "group": "llevarse algo",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 46,
+   "start": 406.81,
+   "end": 414.386,
+   "es": "Alguien se llevó mi paraguas.",
+   "group": "llevarse algo",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 47,
+   "start": 414.386,
+   "end": 422.89,
+   "es": "Me llevé una sorpresa enorme.",
+   "group": "llevarse algo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 422.89,
+   "end": 430.582,
+   "es": "El viento se llevó las hojas.",
+   "group": "llevarse algo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 430.582,
+   "end": 440.051,
+   "es": "Nos llevamos un buen susto con la tormenta.",
+   "group": "llevarse algo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 50,
+   "start": 440.051,
+   "end": 449.914,
+   "es": "No te lleves mi cargador, que lo necesito.",
+   "group": "llevarse algo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 449.914,
+   "end": 459.127,
+   "es": "El ladrón se llevó todas las joyas.",
+   "group": "llevarse algo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 460.627,
+   "end": 470.107,
+   "es": "Mi hermano siempre me lleva la contraria.",
+   "group": "expresiones con llevar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 470.107,
+   "end": 478.356,
+   "es": "Ella lleva la cuenta de los gastos.",
+   "group": "expresiones con llevar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 478.356,
+   "end": 488.858,
+   "es": "Mi abuela lleva una vida muy tranquila.",
+   "group": "expresiones con llevar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 488.858,
+   "end": 498.198,
+   "es": "Este camino no lleva a ninguna parte.",
+   "group": "expresiones con llevar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 498.198,
+   "end": 506.819,
+   "es": "No te dejes llevar por los nervios.",
+   "group": "expresiones con llevar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 57,
+   "start": 506.819,
+   "end": 514.163,
+   "es": "Yo te llevo tres años.",
+   "group": "expresiones con llevar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 58,
+   "start": 514.163,
+   "end": 524.316,
+   "es": "Ellos llevan la empresa juntos desde hace años.",
+   "group": "expresiones con llevar",
+   "group_index": 7,
+   "level": "B1"
+  }
+ ]
+}

@@ -1,0 +1,532 @@
+{
+ "word": "quedar(se)",
+ "slug": "quedar_se",
+ "kind": "word",
+ "hash": "5a346e4f68b10366",
+ "duration": 641.16,
+ "voice": "mx-lento",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 9.151,
+   "es": "Hoy me quedo en casa.",
+   "group": "quedarse en un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 9.151,
+   "end": 17.08,
+   "es": "¿Te quedas a cenar?",
+   "group": "quedarse en un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 17.08,
+   "end": 27.872,
+   "es": "Nos quedamos en un hotel pequeño.",
+   "group": "quedarse en un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 27.872,
+   "end": 38.756,
+   "es": "Mi hermana se queda con nosotros.",
+   "group": "quedarse en un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 38.756,
+   "end": 49.072,
+   "es": "Quédate aquí un momento.",
+   "group": "quedarse en un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 49.072,
+   "end": 59.86,
+   "es": "Prefiero quedarme en la cama.",
+   "group": "quedarse en un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 59.86,
+   "end": 72.344,
+   "es": "Ayer nos quedamos en la playa todo el día.",
+   "group": "quedarse en un lugar",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 7,
+   "start": 72.344,
+   "end": 85.04,
+   "es": "Me quedé dos semanas en casa de mis abuelos.",
+   "group": "quedarse en un lugar",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 8,
+   "start": 86.54,
+   "end": 95.019,
+   "es": "¿Dónde queda el museo?",
+   "group": "quedar, estar situado",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 95.019,
+   "end": 105.273,
+   "es": "El banco queda muy cerca.",
+   "group": "quedar, estar situado",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 105.273,
+   "end": 116.064,
+   "es": "Mi casa queda lejos del centro.",
+   "group": "quedar, estar situado",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 116.064,
+   "end": 129.177,
+   "es": "La farmacia queda al lado del mercado.",
+   "group": "quedar, estar situado",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 129.177,
+   "end": 138.297,
+   "es": "¿Queda lejos la estación?",
+   "group": "quedar, estar situado",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 138.297,
+   "end": 149.384,
+   "es": "La escuela queda a dos calles de aquí.",
+   "group": "quedar, estar situado",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 14,
+   "start": 149.384,
+   "end": 161.191,
+   "es": "El restaurante queda enfrente del parque.",
+   "group": "quedar, estar situado",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 15,
+   "start": 162.691,
+   "end": 172.477,
+   "es": "Queda un poco de café.",
+   "group": "quedar, sobrar",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 16,
+   "start": 172.477,
+   "end": 180.029,
+   "es": "No queda leche.",
+   "group": "quedar, sobrar",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 17,
+   "start": 180.029,
+   "end": 188.603,
+   "es": "¿Cuánto dinero te queda?",
+   "group": "quedar, sobrar",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 18,
+   "start": 188.603,
+   "end": 198.237,
+   "es": "Solo quedan dos asientos.",
+   "group": "quedar, sobrar",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 19,
+   "start": 198.237,
+   "end": 209.516,
+   "es": "Quedan cinco minutos para el final.",
+   "group": "quedar, sobrar",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 20,
+   "start": 209.516,
+   "end": 220.547,
+   "es": "Me quedan tres días de vacaciones.",
+   "group": "quedar, sobrar",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 220.547,
+   "end": 231.593,
+   "es": "No quedaba nada en el refrigerador.",
+   "group": "quedar, sobrar",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 231.593,
+   "end": 242.573,
+   "es": "Todavía nos queda mucho trabajo.",
+   "group": "quedar, sobrar",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 23,
+   "start": 244.073,
+   "end": 255.123,
+   "es": "Esa camisa te queda muy bien.",
+   "group": "quedar bien o mal",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 24,
+   "start": 255.123,
+   "end": 266.222,
+   "es": "Estos zapatos me quedan pequeños.",
+   "group": "quedar bien o mal",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 25,
+   "start": 266.222,
+   "end": 276.217,
+   "es": "El vestido le queda grande.",
+   "group": "quedar bien o mal",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 276.217,
+   "end": 285.648,
+   "es": "¿Cómo me queda este sombrero?",
+   "group": "quedar bien o mal",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 285.648,
+   "end": 296.563,
+   "es": "El azul te queda mejor que el rojo.",
+   "group": "quedar bien o mal",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 296.563,
+   "end": 307.385,
+   "es": "Los pantalones ya no me quedan.",
+   "group": "quedar bien o mal",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 307.385,
+   "end": 317.291,
+   "es": "Quedé muy mal con mi jefe.",
+   "group": "quedar bien o mal",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 30,
+   "start": 317.291,
+   "end": 327.99,
+   "es": "Quiero quedar bien con tus padres.",
+   "group": "quedar bien o mal",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 31,
+   "start": 329.49,
+   "end": 339.283,
+   "es": "La sopa quedó muy rica.",
+   "group": "quedar, resultado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 339.283,
+   "end": 349.239,
+   "es": "¡Qué bonita quedó tu habitación!",
+   "group": "quedar, resultado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 349.239,
+   "end": 359.532,
+   "es": "La casa quedó muy limpia.",
+   "group": "quedar, resultado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 359.532,
+   "end": 372.246,
+   "es": "La puerta quedó abierta toda la noche.",
+   "group": "quedar, resultado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 372.246,
+   "end": 386.752,
+   "es": "Con la pintura nueva, la cocina quedó como nueva.",
+   "group": "quedar, resultado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 36,
+   "start": 386.752,
+   "end": 398.029,
+   "es": "Mi dibujo no quedó como yo quería.",
+   "group": "quedar, resultado",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 37,
+   "start": 398.029,
+   "end": 412.466,
+   "es": "Después de la tormenta, la calle quedó sin luz.",
+   "group": "quedar, resultado",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 38,
+   "start": 413.966,
+   "end": 424.548,
+   "es": "Me quedé sorprendido con la noticia.",
+   "group": "quedarse + adjetivo, gerundio o sin algo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 424.548,
+   "end": 434.053,
+   "es": "Se quedó dormido en el sofá.",
+   "group": "quedarse + adjetivo, gerundio o sin algo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 40,
+   "start": 434.053,
+   "end": 443.3,
+   "es": "El niño se quedó callado.",
+   "group": "quedarse + adjetivo, gerundio o sin algo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 41,
+   "start": 443.3,
+   "end": 457.225,
+   "es": "Nos quedamos sin gasolina en la carretera.",
+   "group": "quedarse + adjetivo, gerundio o sin algo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 42,
+   "start": 457.225,
+   "end": 470.002,
+   "es": "Mi abuela se quedó sola después de la mudanza.",
+   "group": "quedarse + adjetivo, gerundio o sin algo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 43,
+   "start": 470.002,
+   "end": 481.534,
+   "es": "Me quedé mirando el mar un buen rato.",
+   "group": "quedarse + adjetivo, gerundio o sin algo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 44,
+   "start": 481.534,
+   "end": 494.729,
+   "es": "Se quedaron hablando hasta la medianoche.",
+   "group": "quedarse + adjetivo, gerundio o sin algo",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 45,
+   "start": 494.729,
+   "end": 508.157,
+   "es": "Si sigues así, te vas a quedar sin amigos.",
+   "group": "quedarse + adjetivo, gerundio o sin algo",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 46,
+   "start": 509.657,
+   "end": 519.599,
+   "es": "Me quedo con la camisa verde.",
+   "group": "quedarse con algo",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 47,
+   "start": 519.599,
+   "end": 528.208,
+   "es": "Quédate con el cambio.",
+   "group": "quedarse con algo",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 48,
+   "start": 528.208,
+   "end": 538.709,
+   "es": "Mi hermano se quedó con mi libro.",
+   "group": "quedarse con algo",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 49,
+   "start": 538.709,
+   "end": 549.04,
+   "es": "¿Te puedes quedar con mis llaves?",
+   "group": "quedarse con algo",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 50,
+   "start": 549.04,
+   "end": 562.987,
+   "es": "Al final nos quedamos con el apartamento más grande.",
+   "group": "quedarse con algo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 564.487,
+   "end": 574.372,
+   "es": "Quedamos en vernos el lunes.",
+   "group": "quedar en algo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 574.372,
+   "end": 587.026,
+   "es": "Habíamos quedado en llamarnos esta tarde.",
+   "group": "quedar en algo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 587.026,
+   "end": 598.933,
+   "es": "Quedaron en traer la comida a la fiesta.",
+   "group": "quedar en algo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 598.933,
+   "end": 609.318,
+   "es": "¿En qué quedamos, vienes o no?",
+   "group": "quedar en algo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 609.318,
+   "end": 621.476,
+   "es": "Quedé en ayudar a mi vecino con la mudanza.",
+   "group": "quedar en algo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 621.476,
+   "end": 629.876,
+   "es": "Todo quedó en nada.",
+   "group": "quedar en algo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 57,
+   "start": 629.876,
+   "end": 641.095,
+   "es": "Quedamos en encontrarnos en la plaza.",
+   "group": "quedar en algo",
+   "group_index": 7,
+   "level": "B1"
+  }
+ ]
+}

@@ -1,0 +1,541 @@
+{
+ "word": "dejar",
+ "slug": "dejar",
+ "kind": "word",
+ "hash": "deceac92e5a29233",
+ "duration": 633.0,
+ "voice": "mx-lento",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 10.242,
+   "es": "Deja tu abrigo aquí.",
+   "group": "dejar algo en un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 10.242,
+   "end": 19.254,
+   "es": "¿Dónde dejo las llaves?",
+   "group": "dejar algo en un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 19.254,
+   "end": 29.075,
+   "es": "Dejo el auto en la calle.",
+   "group": "dejar algo en un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 29.075,
+   "end": 40.124,
+   "es": "Siempre dejo la ventana abierta.",
+   "group": "dejar algo en un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 40.124,
+   "end": 50.472,
+   "es": "Deja los zapatos en la puerta.",
+   "group": "dejar algo en un lugar",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 50.472,
+   "end": 61.167,
+   "es": "Dejé el teléfono en casa.",
+   "group": "dejar algo en un lugar",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 6,
+   "start": 61.167,
+   "end": 70.318,
+   "es": "¿Dónde dejaste mi libro?",
+   "group": "dejar algo en un lugar",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 7,
+   "start": 70.318,
+   "end": 82.989,
+   "es": "Te dejé un poco de pastel en la cocina.",
+   "group": "dejar algo en un lugar",
+   "group_index": 0,
+   "level": "A2"
+  },
+  {
+   "i": 8,
+   "start": 84.489,
+   "end": 93.206,
+   "es": "¿Me dejas ir al baño?",
+   "group": "dejar, permitir",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 93.206,
+   "end": 100.383,
+   "es": "Déjame ver.",
+   "group": "dejar, permitir",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 100.383,
+   "end": 110.125,
+   "es": "Mi madre no me deja salir.",
+   "group": "dejar, permitir",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 110.125,
+   "end": 118.24,
+   "es": "Déjame ayudarte.",
+   "group": "dejar, permitir",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 118.24,
+   "end": 127.866,
+   "es": "El ruido no me deja dormir.",
+   "group": "dejar, permitir",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 127.866,
+   "end": 138.401,
+   "es": "¿Me dejas usar tu computadora?",
+   "group": "dejar, permitir",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 14,
+   "start": 138.401,
+   "end": 152.575,
+   "es": "Mis padres nunca me dejaban ver televisión de noche.",
+   "group": "dejar, permitir",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 15,
+   "start": 152.575,
+   "end": 162.992,
+   "es": "No me dejaron entrar sin entrada.",
+   "group": "dejar, permitir",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 16,
+   "start": 164.492,
+   "end": 172.413,
+   "es": "No me dejes solo.",
+   "group": "dejar a alguien",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 17,
+   "start": 172.413,
+   "end": 181.004,
+   "es": "Te dejo en la esquina.",
+   "group": "dejar a alguien",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 18,
+   "start": 181.004,
+   "end": 188.663,
+   "es": "Mi novia me dejó.",
+   "group": "dejar a alguien",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 19,
+   "start": 188.663,
+   "end": 199.334,
+   "es": "Dejé a los niños con mi madre.",
+   "group": "dejar a alguien",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 20,
+   "start": 199.334,
+   "end": 209.468,
+   "es": "Mi padre me dejó en la estación.",
+   "group": "dejar a alguien",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 209.468,
+   "end": 222.923,
+   "es": "Él la dejó después de cinco años juntos.",
+   "group": "dejar a alguien",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 222.923,
+   "end": 234.142,
+   "es": "Nunca voy a dejar a mis amigos.",
+   "group": "dejar a alguien",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 23,
+   "start": 235.642,
+   "end": 243.138,
+   "es": "¡Deja de gritar!",
+   "group": "dejar de + infinitivo",
+   "group_index": 3,
+   "level": "A1"
+  },
+  {
+   "i": 24,
+   "start": 243.138,
+   "end": 253.907,
+   "es": "Dejé de fumar el año pasado.",
+   "group": "dejar de + infinitivo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 25,
+   "start": 253.907,
+   "end": 263.134,
+   "es": "Por fin ha dejado de llover.",
+   "group": "dejar de + infinitivo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 263.134,
+   "end": 275.317,
+   "es": "Mi hermano dejó de trabajar en el banco.",
+   "group": "dejar de + infinitivo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 275.317,
+   "end": 287.115,
+   "es": "Tienes que dejar de comer tanto azúcar.",
+   "group": "dejar de + infinitivo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 287.115,
+   "end": 302.469,
+   "es": "Cuando nació mi hijo, dejé de salir por la noche.",
+   "group": "dejar de + infinitivo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 302.469,
+   "end": 314.142,
+   "es": "Quiero dejar de preocuparme por todo.",
+   "group": "dejar de + infinitivo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 314.142,
+   "end": 324.071,
+   "es": "El reloj dejó de funcionar.",
+   "group": "dejar de + infinitivo",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 325.571,
+   "end": 336.975,
+   "es": "Dejé mi trabajo en marzo.",
+   "group": "dejar un trabajo o un hábito",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 336.975,
+   "end": 346.363,
+   "es": "Ella dejó la universidad.",
+   "group": "dejar un trabajo o un hábito",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 346.363,
+   "end": 355.21,
+   "es": "Quiero dejar el café.",
+   "group": "dejar un trabajo o un hábito",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 355.21,
+   "end": 368.02,
+   "es": "Dejamos el gimnasio porque era muy caro.",
+   "group": "dejar un trabajo o un hábito",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 368.02,
+   "end": 381.438,
+   "es": "Mi abuelo dejó el tabaco hace diez años.",
+   "group": "dejar un trabajo o un hábito",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 36,
+   "start": 381.438,
+   "end": 391.613,
+   "es": "No pienso dejar mis estudios.",
+   "group": "dejar un trabajo o un hábito",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 37,
+   "start": 393.113,
+   "end": 402.193,
+   "es": "El bebé no deja de llorar.",
+   "group": "no dejar de",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 38,
+   "start": 402.193,
+   "end": 415.015,
+   "es": "Mi vecino no dejó de hablar en toda la cena.",
+   "group": "no dejar de",
+   "group_index": 5,
+   "level": "A2"
+  },
+  {
+   "i": 39,
+   "start": 415.015,
+   "end": 425.653,
+   "es": "No dejes de visitar el mercado.",
+   "group": "no dejar de",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 40,
+   "start": 425.653,
+   "end": 434.483,
+   "es": "No dejo de pensar en ti.",
+   "group": "no dejar de",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 41,
+   "start": 434.483,
+   "end": 446.188,
+   "es": "No dejen de probar la sopa de la casa.",
+   "group": "no dejar de",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 42,
+   "start": 446.188,
+   "end": 457.349,
+   "es": "No dejes de llamarme cuando llegues.",
+   "group": "no dejar de",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 43,
+   "start": 457.349,
+   "end": 471.659,
+   "es": "Aunque esté cansado, no deja de ir al gimnasio.",
+   "group": "no dejar de",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 44,
+   "start": 473.159,
+   "end": 485.21,
+   "es": "Deja la puerta cerrada, por favor.",
+   "group": "dejar + participio o adjetivo",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 45,
+   "start": 485.21,
+   "end": 494.385,
+   "es": "Dejé la cena preparada.",
+   "group": "dejar + participio o adjetivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 46,
+   "start": 494.385,
+   "end": 504.668,
+   "es": "La noticia me dejó preocupado.",
+   "group": "dejar + participio o adjetivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 47,
+   "start": 504.668,
+   "end": 515.78,
+   "es": "Dejamos todo listo para el viaje.",
+   "group": "dejar + participio o adjetivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 515.78,
+   "end": 525.717,
+   "es": "El examen me dejó agotado.",
+   "group": "dejar + participio o adjetivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 525.717,
+   "end": 536.631,
+   "es": "El viaje nos dejó muy contentos.",
+   "group": "dejar + participio o adjetivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 50,
+   "start": 536.631,
+   "end": 547.516,
+   "es": "Ya dejé pagada la cuenta del hotel.",
+   "group": "dejar + participio o adjetivo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 549.016,
+   "end": 560.321,
+   "es": "Sin querer, dejé caer el plato.",
+   "group": "expresiones con dejar",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 52,
+   "start": 560.321,
+   "end": 570.316,
+   "es": "Déjalo, no importa.",
+   "group": "expresiones con dejar",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 53,
+   "start": 570.316,
+   "end": 580.3,
+   "es": "Deja eso para mañana.",
+   "group": "expresiones con dejar",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 54,
+   "start": 580.3,
+   "end": 587.73,
+   "es": "Déjame en paz.",
+   "group": "expresiones con dejar",
+   "group_index": 7,
+   "level": "A2"
+  },
+  {
+   "i": 55,
+   "start": 587.73,
+   "end": 598.736,
+   "es": "Deja que lo piense un poco.",
+   "group": "expresiones con dejar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 56,
+   "start": 598.736,
+   "end": 611.047,
+   "es": "Dejemos el tema para otro día.",
+   "group": "expresiones con dejar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 57,
+   "start": 611.047,
+   "end": 623.254,
+   "es": "No dejes para mañana lo que puedas hacer hoy.",
+   "group": "expresiones con dejar",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 58,
+   "start": 623.254,
+   "end": 632.948,
+   "es": "Eso deja mucho que desear.",
+   "group": "expresiones con dejar",
+   "group_index": 7,
+   "level": "B1"
+  }
+ ]
+}

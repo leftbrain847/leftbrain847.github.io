@@ -1,0 +1,514 @@
+{
+ "word": "mismo",
+ "slug": "mismo",
+ "kind": "word",
+ "hash": "6440449681fa6f66",
+ "duration": 489.672,
+ "voice": "mx",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 7.894,
+   "es": "Tenemos el mismo libro.",
+   "group": "el mismo, la misma",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 1,
+   "start": 7.894,
+   "end": 15.772,
+   "es": "Vivimos en la misma calle.",
+   "group": "el mismo, la misma",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 2,
+   "start": 15.772,
+   "end": 24.869,
+   "es": "Siempre como en el mismo restaurante.",
+   "group": "el mismo, la misma",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 3,
+   "start": 24.869,
+   "end": 35.451,
+   "es": "Mi hermano y yo tenemos los mismos ojos.",
+   "group": "el mismo, la misma",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 4,
+   "start": 35.451,
+   "end": 44.374,
+   "es": "Ellas trabajan en la misma oficina.",
+   "group": "el mismo, la misma",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 5,
+   "start": 44.374,
+   "end": 53.011,
+   "es": "Es la misma canción de ayer.",
+   "group": "el mismo, la misma",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 6,
+   "start": 53.011,
+   "end": 62.235,
+   "es": "Llevas la misma camisa que yo.",
+   "group": "el mismo, la misma",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 7,
+   "start": 62.235,
+   "end": 69.985,
+   "es": "Nacimos el mismo año.",
+   "group": "el mismo, la misma",
+   "group_index": 0,
+   "level": "A1"
+  },
+  {
+   "i": 8,
+   "start": 71.485,
+   "end": 78.736,
+   "es": "Para mí, lo mismo.",
+   "group": "lo mismo",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 9,
+   "start": 78.736,
+   "end": 86.335,
+   "es": "Siempre dices lo mismo.",
+   "group": "lo mismo",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 10,
+   "start": 86.335,
+   "end": 94.77,
+   "es": "Yo quiero lo mismo, por favor.",
+   "group": "lo mismo",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 11,
+   "start": 94.77,
+   "end": 103.015,
+   "es": "Todos los días hago lo mismo.",
+   "group": "lo mismo",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 12,
+   "start": 103.015,
+   "end": 109.453,
+   "es": "No es lo mismo.",
+   "group": "lo mismo",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 13,
+   "start": 109.453,
+   "end": 116.541,
+   "es": "Pienso lo mismo que tú.",
+   "group": "lo mismo",
+   "group_index": 1,
+   "level": "A1"
+  },
+  {
+   "i": 14,
+   "start": 116.541,
+   "end": 126.393,
+   "es": "Me pasó lo mismo la semana pasada.",
+   "group": "lo mismo",
+   "group_index": 1,
+   "level": "A2"
+  },
+  {
+   "i": 15,
+   "start": 127.893,
+   "end": 134.412,
+   "es": "Ven ahora mismo.",
+   "group": "ahora mismo, aquí mismo, hoy mismo",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 16,
+   "start": 134.412,
+   "end": 142.255,
+   "es": "Ahora mismo estoy ocupado.",
+   "group": "ahora mismo, aquí mismo, hoy mismo",
+   "group_index": 2,
+   "level": "A1"
+  },
+  {
+   "i": 17,
+   "start": 142.255,
+   "end": 150.075,
+   "es": "Te espero aquí mismo.",
+   "group": "ahora mismo, aquí mismo, hoy mismo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 18,
+   "start": 150.075,
+   "end": 157.286,
+   "es": "Lo envío hoy mismo.",
+   "group": "ahora mismo, aquí mismo, hoy mismo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 19,
+   "start": 157.286,
+   "end": 167.788,
+   "es": "El hotel está ahí mismo, al lado del parque.",
+   "group": "ahora mismo, aquí mismo, hoy mismo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 20,
+   "start": 167.788,
+   "end": 176.593,
+   "es": "Voy a llamarla ahora mismo.",
+   "group": "ahora mismo, aquí mismo, hoy mismo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 21,
+   "start": 176.593,
+   "end": 185.479,
+   "es": "Puedes dejar las bolsas aquí mismo.",
+   "group": "ahora mismo, aquí mismo, hoy mismo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 22,
+   "start": 185.479,
+   "end": 192.95,
+   "es": "Ayer mismo hablé con él.",
+   "group": "ahora mismo, aquí mismo, hoy mismo",
+   "group_index": 2,
+   "level": "A2"
+  },
+  {
+   "i": 23,
+   "start": 194.45,
+   "end": 201.304,
+   "es": "Yo mismo lo hice.",
+   "group": "yo mismo, ella misma",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 24,
+   "start": 201.304,
+   "end": 208.659,
+   "es": "Ella misma me lo dijo.",
+   "group": "yo mismo, ella misma",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 25,
+   "start": 208.659,
+   "end": 216.398,
+   "es": "Lo puedo hacer yo misma.",
+   "group": "yo mismo, ella misma",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 26,
+   "start": 216.398,
+   "end": 225.448,
+   "es": "Nosotros mismos pintamos la casa.",
+   "group": "yo mismo, ella misma",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 27,
+   "start": 225.448,
+   "end": 234.324,
+   "es": "El director mismo vino a saludarnos.",
+   "group": "yo mismo, ella misma",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 28,
+   "start": 234.324,
+   "end": 240.786,
+   "es": "Hazlo tú mismo.",
+   "group": "yo mismo, ella misma",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 29,
+   "start": 240.786,
+   "end": 250.974,
+   "es": "Ellos mismos prepararon toda la comida.",
+   "group": "yo mismo, ella misma",
+   "group_index": 3,
+   "level": "A2"
+  },
+  {
+   "i": 30,
+   "start": 252.474,
+   "end": 260.27,
+   "es": "Llegamos al mismo tiempo.",
+   "group": "al mismo tiempo",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 31,
+   "start": 260.27,
+   "end": 268.949,
+   "es": "No hablen todos al mismo tiempo.",
+   "group": "al mismo tiempo",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 32,
+   "start": 268.949,
+   "end": 279.682,
+   "es": "Puedo cocinar y escuchar música al mismo tiempo.",
+   "group": "al mismo tiempo",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 33,
+   "start": 279.682,
+   "end": 289.359,
+   "es": "Sonaron los dos teléfonos al mismo tiempo.",
+   "group": "al mismo tiempo",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 34,
+   "start": 289.359,
+   "end": 299.861,
+   "es": "Es difícil estudiar y trabajar al mismo tiempo.",
+   "group": "al mismo tiempo",
+   "group_index": 4,
+   "level": "A2"
+  },
+  {
+   "i": 35,
+   "start": 299.861,
+   "end": 310.305,
+   "es": "Quiero ir, pero al mismo tiempo tengo miedo.",
+   "group": "al mismo tiempo",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 36,
+   "start": 311.805,
+   "end": 321.052,
+   "es": "Gano lo mismo que el año pasado.",
+   "group": "lo mismo que, el mismo que",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 37,
+   "start": 321.052,
+   "end": 330.103,
+   "es": "Este vestido cuesta lo mismo que el otro.",
+   "group": "lo mismo que, el mismo que",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 38,
+   "start": 330.103,
+   "end": 340.012,
+   "es": "Ella tiene la misma edad que mi hermana.",
+   "group": "lo mismo que, el mismo que",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 39,
+   "start": 340.012,
+   "end": 349.469,
+   "es": "Mi casa es del mismo color que la tuya.",
+   "group": "lo mismo que, el mismo que",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 40,
+   "start": 349.469,
+   "end": 357.8,
+   "es": "Hoy hace el mismo calor que ayer.",
+   "group": "lo mismo que, el mismo que",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 41,
+   "start": 357.8,
+   "end": 368.134,
+   "es": "Estudiamos en la misma escuela que nuestros padres.",
+   "group": "lo mismo que, el mismo que",
+   "group_index": 5,
+   "level": "B1"
+  },
+  {
+   "i": 42,
+   "start": 369.634,
+   "end": 375.944,
+   "es": "Me da lo mismo.",
+   "group": "da lo mismo",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 43,
+   "start": 375.944,
+   "end": 384.292,
+   "es": "¿Té o café? Me da lo mismo.",
+   "group": "da lo mismo",
+   "group_index": 6,
+   "level": "A2"
+  },
+  {
+   "i": 44,
+   "start": 384.292,
+   "end": 392.379,
+   "es": "Da lo mismo si llegas tarde.",
+   "group": "da lo mismo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 45,
+   "start": 392.379,
+   "end": 401.339,
+   "es": "Le da lo mismo lo que piensen los demás.",
+   "group": "da lo mismo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 46,
+   "start": 401.339,
+   "end": 410.098,
+   "es": "A mí me da lo mismo dónde comamos.",
+   "group": "da lo mismo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 47,
+   "start": 410.098,
+   "end": 419.067,
+   "es": "Da lo mismo, ya no importa.",
+   "group": "da lo mismo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 419.067,
+   "end": 427.653,
+   "es": "Nos da lo mismo ir hoy o mañana.",
+   "group": "da lo mismo",
+   "group_index": 6,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 429.153,
+   "end": 436.903,
+   "es": "Solo piensa en sí mismo.",
+   "group": "sí mismo, en sí mismo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 50,
+   "start": 436.903,
+   "end": 445.837,
+   "es": "Ella habla mucho de sí misma.",
+   "group": "sí mismo, en sí mismo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 51,
+   "start": 445.837,
+   "end": 455.282,
+   "es": "Ella cree mucho en sí misma.",
+   "group": "sí mismo, en sí mismo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 52,
+   "start": 455.282,
+   "end": 464.147,
+   "es": "El problema en sí mismo no es grave.",
+   "group": "sí mismo, en sí mismo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 53,
+   "start": 464.147,
+   "end": 471.549,
+   "es": "Él se ríe de sí mismo.",
+   "group": "sí mismo, en sí mismo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 54,
+   "start": 471.549,
+   "end": 480.053,
+   "es": "Él no sabe cuidarse a sí mismo.",
+   "group": "sí mismo, en sí mismo",
+   "group_index": 7,
+   "level": "B1"
+  },
+  {
+   "i": 55,
+   "start": 480.053,
+   "end": 489.615,
+   "es": "Mi abuelo está muy seguro de sí mismo.",
+   "group": "sí mismo, en sí mismo",
+   "group_index": 7,
+   "level": "B1"
+  }
+ ]
+}

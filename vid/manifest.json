@@ -41,6 +41,20 @@
   "page": "02460f98d2d1e1a6e5dca683e48074537a8dd65df1a6ed57f7fe445bae499eb1",
   "recorded_on": "2026-11-09"
  },
+ "mastery_field_guide": {
+  "file": "vid/mastery_field_guide.webm",
+  "start": 2.734015941619873,
+  "dur": 8.0,
+  "crop": [
+   16.0,
+   34.41145833333334,
+   358,
+   477.3333333333333
+  ],
+  "script": "1eba8f5ad839452d911b544f99accedb9d006fea80a6d1496df7effc3ec49163",
+  "page": "f92ff25ab36500cdfabb6b26fc5b8578512fae92e6e1db76a28e5b1bec887028",
+  "recorded_on": "2026-11-16"
+ },
  "november_sprint": {
   "file": "vid/november_sprint.webm",
   "start": 1.140381097793579,
@@ -278,33 +292,5 @@
   "script": "3002f9e5b0163e3ad6f6c50d2bc58bda081a170d8b591ea8d4f0778c642289b9",
   "page": "af120339fb8c15f6ca50b4cd573ec02ab3097bd06917df3bc640a23ab118c2cd",
   "recorded_on": "2026-11-15"
- },
- "mastery_field_guide": {
-  "file": "vid/mastery_field_guide.webm",
-  "start": 2.734015941619873,
-  "dur": 8.0,
-  "crop": [
-   16.0,
-   34.41145833333334,
-   358,
-   477.3333333333333
-  ],
-  "script": "1eba8f5ad839452d911b544f99accedb9d006fea80a6d1496df7effc3ec49163",
-  "page": "f92ff25ab36500cdfabb6b26fc5b8578512fae92e6e1db76a28e5b1bec887028",
-  "recorded_on": "2026-11-16"
- },
- "spatial_puzzles": {
-  "file": "vid/spatial_puzzles.webm",
-  "start": 6.904255151748657,
-  "dur": 6.0,
-  "crop": [
-   0,
-   60.0,
-   390,
-   520.0
-  ],
-  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
-  "page": "c097e5a4cb8062197cb90600aa3443c58e2c02840ed1e6c4352d1a29652ea511",
-  "recorded_on": "2026-11-16"
  }
 }
