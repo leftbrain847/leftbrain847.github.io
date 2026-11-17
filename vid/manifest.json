@@ -292,5 +292,33 @@
   "script": "3002f9e5b0163e3ad6f6c50d2bc58bda081a170d8b591ea8d4f0778c642289b9",
   "page": "af120339fb8c15f6ca50b4cd573ec02ab3097bd06917df3bc640a23ab118c2cd",
   "recorded_on": "2026-11-15"
+ },
+ "spatial_puzzles": {
+  "file": "vid/spatial_puzzles.webm",
+  "start": 7.912511825561523,
+  "dur": 6.0,
+  "crop": [
+   0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
+  "page": "c097e5a4cb8062197cb90600aa3443c58e2c02840ed1e6c4352d1a29652ea511",
+  "recorded_on": "2026-11-17"
+ },
+ "simon_says_piano": {
+  "file": "vid/simon_says_piano.webm",
+  "start": 1.5505249500274658,
+  "dur": 7.0,
+  "crop": [
+   0.0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "077c521567437b2b2fad701e1bce6283e194c0a0e27fc1da8a1f5c8c57fd3c72",
+  "page": "07fe31b4f2b4e2d38c163c1aa3c015eb64ffbfc928f13aeafc95fd4144626101",
+  "recorded_on": "2026-11-17"
  }
 }
