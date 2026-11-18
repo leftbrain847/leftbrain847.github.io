@@ -41,20 +41,6 @@
   "page": "02460f98d2d1e1a6e5dca683e48074537a8dd65df1a6ed57f7fe445bae499eb1",
   "recorded_on": "2026-11-09"
  },
- "mastery_field_guide": {
-  "file": "vid/mastery_field_guide.webm",
-  "start": 2.8376667499542236,
-  "dur": 8.0,
-  "crop": [
-   16.0,
-   34.41145833333334,
-   358,
-   477.3333333333333
-  ],
-  "script": "1eba8f5ad839452d911b544f99accedb9d006fea80a6d1496df7effc3ec49163",
-  "page": "61710a8ab4080b156d0585ff486a87eb6944413d447ec13d9554e2bca224d1d7",
-  "recorded_on": "2026-11-17"
- },
  "november_sprint": {
   "file": "vid/november_sprint.webm",
   "start": 1.140381097793579,
@@ -96,20 +82,6 @@
   "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
   "page": "29c599506984b6229d9fd993121976dc26eff039e1f544e0cd385003e548c4b5",
   "recorded_on": "2026-11-13"
- },
- "nfl_roster_grader": {
-  "file": "vid/nfl_roster_grader.webm",
-  "start": 1.6848831176757812,
-  "dur": 7.0,
-  "crop": [
-   0.0,
-   60.0,
-   390,
-   520.0
-  ],
-  "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
-  "page": "a78ef8e59d10ddea37a87e3b0543f5b5bd28553197611918e22f3fbea90bcf8b",
-  "recorded_on": "2026-11-17"
  },
  "redzone": {
   "file": "vid/redzone.webm",
@@ -279,9 +251,37 @@
   "page": "07fe31b4f2b4e2d38c163c1aa3c015eb64ffbfc928f13aeafc95fd4144626101",
   "recorded_on": "2026-11-17"
  },
+ "mastery_field_guide": {
+  "file": "vid/mastery_field_guide.webm",
+  "start": 3.0254316329956055,
+  "dur": 8.0,
+  "crop": [
+   16.0,
+   34.22395833333334,
+   358,
+   477.3333333333333
+  ],
+  "script": "1eba8f5ad839452d911b544f99accedb9d006fea80a6d1496df7effc3ec49163",
+  "page": "65d9c5d18bdc98766d4be9f971bccb142fac28842ab09b46040acb4185cd3ce3",
+  "recorded_on": "2026-11-18"
+ },
+ "nfl_roster_grader": {
+  "file": "vid/nfl_roster_grader.webm",
+  "start": 2.540999174118042,
+  "dur": 7.0,
+  "crop": [
+   0.0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
+  "page": "7298f9d97495c5fc606b0dabb35bae672bb9e2d7b1fe6712a8cdd73666a9af4c",
+  "recorded_on": "2026-11-18"
+ },
  "lull": {
   "file": "vid/lull.webm",
-  "start": 1.6313130855560303,
+  "start": 1.849898099899292,
   "dur": 8.0,
   "crop": [
    16.0,
@@ -290,12 +290,12 @@
    477.3333333333333
   ],
   "script": "5aacbad9185036f8c12b23a34d089688e0dec32c62d8c51665fa24fd4c6d0788",
-  "page": "c102c7bb4b756e39f91eb06bc2b2ce10eaded0743de2987ad051b982a5c0848d",
+  "page": "969ad1cdb0d8895d217bba3660c00db0acca3086bc0bad7f71d5936df4a5ee78",
   "recorded_on": "2026-11-18"
  },
  "trending_five": {
   "file": "vid/trending_five.webm",
-  "start": 1.6313605308532715,
+  "start": 1.5304858684539795,
   "dur": 6.0,
   "crop": [
    0,
@@ -304,7 +304,35 @@
    520.0
   ],
   "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
-  "page": "4dcdf76892d68440f7b839defaad2810207691f72f0968687d5a5e7cc8ec16ab",
+  "page": "a00b0f75d38cc2820362c5cb9c2b6eb5f9f1622058447055a878f62f21948290",
+  "recorded_on": "2026-11-18"
+ },
+ "recipe_book": {
+  "file": "vid/recipe_book.webm",
+  "start": 1.6894035339355469,
+  "dur": 6.0,
+  "crop": [
+   0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
+  "page": "d174d2b7437546f523d23c3806417419f6e7a319e887c2479e5a436f4beb4d04",
+  "recorded_on": "2026-11-18"
+ },
+ "ludo": {
+  "file": "vid/ludo.webm",
+  "start": 1.9640862941741943,
+  "dur": 9,
+  "crop": [
+   16.0,
+   81.33333333333334,
+   358,
+   477.3333333333333
+  ],
+  "script": "a5ce26ee32258c593ee0f12b84d603bcbb8d7be4d6f66471d088003f2669bd45",
+  "page": "8f3d9aa0387da4e3fe80338f8c4039b9e4292adfeb14723a5962257ea40a1d48",
   "recorded_on": "2026-11-18"
  }
 }

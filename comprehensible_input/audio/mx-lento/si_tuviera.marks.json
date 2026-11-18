@@ -1,0 +1,460 @@
+{
+ "word": "si tuviera",
+ "slug": "si_tuviera",
+ "kind": "word",
+ "hash": "bb6bfb9c54ef258a",
+ "duration": 744.072,
+ "voice": "mx-lento",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 12.732,
+   "es": "Si tuviera tiempo, leería más.",
+   "group": "si tuviera tiempo, dinero…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 1,
+   "start": 12.732,
+   "end": 28.713,
+   "es": "Si tuviera dinero, me compraría un coche nuevo.",
+   "group": "si tuviera tiempo, dinero…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 2,
+   "start": 28.713,
+   "end": 43.638,
+   "es": "Si tuviera más tiempo, aprendería a bailar salsa.",
+   "group": "si tuviera tiempo, dinero…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 3,
+   "start": 43.638,
+   "end": 57.274,
+   "es": "Si tuviera vacaciones, iría a la playa.",
+   "group": "si tuviera tiempo, dinero…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 4,
+   "start": 57.274,
+   "end": 71.63,
+   "es": "Si tuviera un día libre, no haría nada.",
+   "group": "si tuviera tiempo, dinero…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 5,
+   "start": 71.63,
+   "end": 87.182,
+   "es": "Si tuviera más dinero, ayudaría a mi familia.",
+   "group": "si tuviera tiempo, dinero…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 6,
+   "start": 87.182,
+   "end": 100.238,
+   "es": "Si tuviera tiempo, te visitaría más.",
+   "group": "si tuviera tiempo, dinero…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 7,
+   "start": 100.238,
+   "end": 114.351,
+   "es": "Si tuviera un jardín, plantaría tomates.",
+   "group": "si tuviera tiempo, dinero…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 8,
+   "start": 114.351,
+   "end": 132.434,
+   "es": "Si tuviera una casa grande, invitaría a todos mis amigos.",
+   "group": "si tuviera tiempo, dinero…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 9,
+   "start": 132.434,
+   "end": 148.102,
+   "es": "Si tuviera coche, no tomaría el autobús.",
+   "group": "si tuviera tiempo, dinero…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 10,
+   "start": 148.102,
+   "end": 165.534,
+   "es": "Si tuviera más energía, saldría a correr por las mañanas.",
+   "group": "si tuviera tiempo, dinero…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 11,
+   "start": 165.534,
+   "end": 181.922,
+   "es": "Si tuviera un perro, saldría a caminar todos los días.",
+   "group": "si tuviera tiempo, dinero…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 12,
+   "start": 183.422,
+   "end": 195.898,
+   "es": "Si tuviera hambre, te lo diría.",
+   "group": "si tuviera hambre, frío, sueño…",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 13,
+   "start": 195.898,
+   "end": 209.186,
+   "es": "Si tuviera frío, me pondría un suéter.",
+   "group": "si tuviera hambre, frío, sueño…",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 14,
+   "start": 209.186,
+   "end": 221.998,
+   "es": "Si tuviera sueño, me iría a dormir.",
+   "group": "si tuviera hambre, frío, sueño…",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 15,
+   "start": 221.998,
+   "end": 237.248,
+   "es": "Si tuviera miedo, no subiría a la montaña rusa.",
+   "group": "si tuviera hambre, frío, sueño…",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 16,
+   "start": 237.248,
+   "end": 248.818,
+   "es": "Si tuviera sed, pediría agua.",
+   "group": "si tuviera hambre, frío, sueño…",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 17,
+   "start": 248.818,
+   "end": 262.233,
+   "es": "Si tuviera prisa, tomaría un taxi.",
+   "group": "si tuviera hambre, frío, sueño…",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 18,
+   "start": 262.233,
+   "end": 273.617,
+   "es": "Si tuvieras razón, te lo diría.",
+   "group": "si tuviera hambre, frío, sueño…",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 19,
+   "start": 273.617,
+   "end": 287.149,
+   "es": "Si tuviera ganas, saldría esta noche.",
+   "group": "si tuviera hambre, frío, sueño…",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 20,
+   "start": 287.149,
+   "end": 301.645,
+   "es": "Si tuviera calor, abriría la ventana.",
+   "group": "si tuviera hambre, frío, sueño…",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 21,
+   "start": 301.645,
+   "end": 315.397,
+   "es": "Si tuviera suerte, ganaría la lotería.",
+   "group": "si tuviera hambre, frío, sueño…",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 22,
+   "start": 316.897,
+   "end": 330.046,
+   "es": "Si tuviera que elegir, elegiría el azul.",
+   "group": "si tuviera que + infinitivo",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 23,
+   "start": 330.046,
+   "end": 346.933,
+   "es": "Si tuviera que vivir en otra ciudad, viviría en Buenos Aires.",
+   "group": "si tuviera que + infinitivo",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 24,
+   "start": 346.933,
+   "end": 362.162,
+   "es": "Si tuviera que trabajar el domingo, me quejaría.",
+   "group": "si tuviera que + infinitivo",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 25,
+   "start": 362.162,
+   "end": 378.666,
+   "es": "Si tuviera que cocinar para diez personas, haría arroz.",
+   "group": "si tuviera que + infinitivo",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 26,
+   "start": 378.666,
+   "end": 395.17,
+   "es": "Si tuviera que hablar en público, estaría muy nervioso.",
+   "group": "si tuviera que + infinitivo",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 27,
+   "start": 395.17,
+   "end": 409.526,
+   "es": "Si tuviera que esperar una hora, me iría.",
+   "group": "si tuviera que + infinitivo",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 28,
+   "start": 409.526,
+   "end": 423.523,
+   "es": "Si tuviera que repetirlo, lo haría igual.",
+   "group": "si tuviera que + infinitivo",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 29,
+   "start": 423.523,
+   "end": 441.159,
+   "es": "Si tuviera que describirte en una palabra, diría \"generosa\".",
+   "group": "si tuviera que + infinitivo",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 30,
+   "start": 441.159,
+   "end": 454.714,
+   "es": "Si tuviera que pagar tanto, no lo compraría.",
+   "group": "si tuviera que + infinitivo",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 31,
+   "start": 454.714,
+   "end": 470.788,
+   "es": "Si tuviera que levantarme a las cinco, me acostaría temprano.",
+   "group": "si tuviera que + infinitivo",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 32,
+   "start": 472.288,
+   "end": 485.332,
+   "es": "¿Qué harías si tuvieras un millón de dólares?",
+   "group": "si tuvieras, si tuviéramos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 33,
+   "start": 485.332,
+   "end": 499.561,
+   "es": "Si tuvieras tiempo, ¿me ayudarías con esto?",
+   "group": "si tuvieras, si tuviéramos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 34,
+   "start": 499.561,
+   "end": 517.923,
+   "es": "Si tuviéramos más espacio, compraríamos un sofá más grande.",
+   "group": "si tuvieras, si tuviéramos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 35,
+   "start": 517.923,
+   "end": 532.871,
+   "es": "Si tuviéramos un día más, iríamos al museo.",
+   "group": "si tuvieras, si tuviéramos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 36,
+   "start": 532.871,
+   "end": 547.308,
+   "es": "Si tuvieran hijos, entenderían el cansancio.",
+   "group": "si tuvieras, si tuviéramos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 37,
+   "start": 547.308,
+   "end": 561.235,
+   "es": "Si tuvieras que mudarte, ¿adónde irías?",
+   "group": "si tuvieras, si tuviéramos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 38,
+   "start": 561.235,
+   "end": 576.752,
+   "es": "Si tuviéramos dinero, abriríamos un restaurante.",
+   "group": "si tuvieras, si tuviéramos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 39,
+   "start": 576.752,
+   "end": 594.464,
+   "es": "Si los niños tuvieran más tiempo libre, jugarían más afuera.",
+   "group": "si tuvieras, si tuviéramos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 40,
+   "start": 594.464,
+   "end": 607.81,
+   "es": "Si tuvieras un problema, ¿me lo dirías?",
+   "group": "si tuvieras, si tuviéramos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 41,
+   "start": 607.81,
+   "end": 625.301,
+   "es": "Si tuviéramos coche, iríamos a la montaña el fin de semana.",
+   "group": "si tuvieras, si tuviéramos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 42,
+   "start": 626.801,
+   "end": 642.353,
+   "es": "Si tuviera veinte años, viajaría con una mochila.",
+   "group": "si tuviera tu edad, un hermano…",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 43,
+   "start": 642.353,
+   "end": 657.65,
+   "es": "Si tuviera tu edad, estudiaría otra carrera.",
+   "group": "si tuviera tu edad, un hermano…",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 44,
+   "start": 657.65,
+   "end": 673.178,
+   "es": "Si tuviera un hermano, jugaríamos juntos.",
+   "group": "si tuviera tu edad, un hermano…",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 45,
+   "start": 673.178,
+   "end": 685.34,
+   "es": "Si tuviera tu número, te llamaría.",
+   "group": "si tuviera tu edad, un hermano…",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 46,
+   "start": 685.34,
+   "end": 700.486,
+   "es": "Si tuviera una hija, le enseñaría a nadar.",
+   "group": "si tuviera tu edad, un hermano…",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 47,
+   "start": 700.486,
+   "end": 716.851,
+   "es": "Si tuviera más amigos aquí, me sentiría menos solo.",
+   "group": "si tuviera tu edad, un hermano…",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 716.851,
+   "end": 731.636,
+   "es": "Si tuviera tu paciencia, sería mejor profesor.",
+   "group": "si tuviera tu edad, un hermano…",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 731.636,
+   "end": 744.007,
+   "es": "Si tuviera la respuesta, te la daría.",
+   "group": "si tuviera tu edad, un hermano…",
+   "group_index": 4,
+   "level": "B1"
+  }
+ ]
+}

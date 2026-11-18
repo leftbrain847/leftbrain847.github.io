@@ -1,0 +1,26 @@
+{
+"hash": "883f57146192d782",
+"file": "audio/summary/powerautomate.mp3",
+"marks": [
+{
+"ci": 0,
+"start": 0.3,
+"end": 16.577
+},
+{
+"ci": 1,
+"start": 17.577,
+"end": 33.599
+},
+{
+"ci": 2,
+"start": 34.599,
+"end": 48.124
+},
+{
+"ci": 3,
+"start": 49.124,
+"end": 61.369
+}
+]
+}

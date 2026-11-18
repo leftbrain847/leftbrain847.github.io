@@ -1,0 +1,469 @@
+{
+ "word": "si fuera",
+ "slug": "si_fuera",
+ "kind": "word",
+ "hash": "3d3a0a73d617206d",
+ "duration": 542.52,
+ "voice": "mx",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 11.826,
+   "es": "Si fuera más joven, viajaría por todo el mundo.",
+   "group": "si fuera (ser)",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 1,
+   "start": 11.826,
+   "end": 23.419,
+   "es": "Si fuera rico, compraría una casa en la playa.",
+   "group": "si fuera (ser)",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 2,
+   "start": 23.419,
+   "end": 32.899,
+   "es": "Si fuera más fácil, todos lo harían.",
+   "group": "si fuera (ser)",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 3,
+   "start": 32.899,
+   "end": 42.379,
+   "es": "Si fuera verdad, ya lo sabríamos.",
+   "group": "si fuera (ser)",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 4,
+   "start": 42.379,
+   "end": 52.706,
+   "es": "Si fuera domingo, me quedaría en la cama.",
+   "group": "si fuera (ser)",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 5,
+   "start": 52.706,
+   "end": 65.634,
+   "es": "Si fuera más alto, alcanzaría el estante de arriba.",
+   "group": "si fuera (ser)",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 6,
+   "start": 65.634,
+   "end": 75.544,
+   "es": "Si fuera tan sencillo, no estaríamos aquí.",
+   "group": "si fuera (ser)",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 7,
+   "start": 75.544,
+   "end": 86.487,
+   "es": "Si fuera mi casa, pintaría las paredes de azul.",
+   "group": "si fuera (ser)",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 8,
+   "start": 86.487,
+   "end": 98.265,
+   "es": "Si el examen fuera mañana, estudiaría toda la noche.",
+   "group": "si fuera (ser)",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 9,
+   "start": 98.265,
+   "end": 109.557,
+   "es": "Si fuera barato, lo compraría ahora mismo.",
+   "group": "si fuera (ser)",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 10,
+   "start": 109.557,
+   "end": 121.939,
+   "es": "Si la comida fuera mejor, volveríamos a ese restaurante.",
+   "group": "si fuera (ser)",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 11,
+   "start": 121.939,
+   "end": 133.137,
+   "es": "Si fuera por mí, nos quedaríamos una semana más.",
+   "group": "si fuera (ser)",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 12,
+   "start": 133.137,
+   "end": 144.347,
+   "es": "Si fuera posible, me gustaría cambiar la cita.",
+   "group": "si fuera (ser)",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 13,
+   "start": 144.347,
+   "end": 153.897,
+   "es": "Si fuera más temprano, te llamaría.",
+   "group": "si fuera (ser)",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 14,
+   "start": 153.897,
+   "end": 166.558,
+   "es": "Si la cocina fuera un poco más grande, sería perfecta.",
+   "group": "si fuera (ser)",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 15,
+   "start": 168.058,
+   "end": 177.306,
+   "es": "Si yo fuera tú, hablaría con ella.",
+   "group": "si yo fuera tú",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 16,
+   "start": 177.306,
+   "end": 186.298,
+   "es": "Si yo fuera tú, no diría nada.",
+   "group": "si yo fuera tú",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 17,
+   "start": 186.298,
+   "end": 196.95,
+   "es": "Si fuera tú, llamaría al médico.",
+   "group": "si yo fuera tú",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 18,
+   "start": 196.95,
+   "end": 207.731,
+   "es": "Si yo fuera tú, aceptaría el trabajo.",
+   "group": "si yo fuera tú",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 19,
+   "start": 207.731,
+   "end": 217.478,
+   "es": "Si fuera usted, guardaría el recibo.",
+   "group": "si yo fuera tú",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 20,
+   "start": 217.478,
+   "end": 228.119,
+   "es": "Si yo fuera tú, me compraría los zapatos negros.",
+   "group": "si yo fuera tú",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 21,
+   "start": 228.119,
+   "end": 237.924,
+   "es": "Si fuera tú, no le prestaría más dinero.",
+   "group": "si yo fuera tú",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 22,
+   "start": 237.924,
+   "end": 249.041,
+   "es": "Si yo fuera ella, buscaría otro trabajo.",
+   "group": "si yo fuera tú",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 23,
+   "start": 249.041,
+   "end": 261.864,
+   "es": "Si yo fuera tú, saldría más temprano para evitar el tráfico.",
+   "group": "si yo fuera tú",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 24,
+   "start": 261.864,
+   "end": 271.588,
+   "es": "Si fuera tú, lo pensaría dos veces.",
+   "group": "si yo fuera tú",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 25,
+   "start": 273.088,
+   "end": 284.844,
+   "es": "Si fuera a México, visitaría a mis primos.",
+   "group": "si fuera (ir)",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 26,
+   "start": 284.844,
+   "end": 294.892,
+   "es": "Si fuera a la playa, llevaría un libro.",
+   "group": "si fuera (ir)",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 27,
+   "start": 294.892,
+   "end": 305.557,
+   "es": "Si fuera al mercado, compraría fruta fresca.",
+   "group": "si fuera (ir)",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 28,
+   "start": 305.557,
+   "end": 314.526,
+   "es": "Si fuera contigo, no me perdería.",
+   "group": "si fuera (ir)",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 29,
+   "start": 314.526,
+   "end": 324.516,
+   "es": "Si fuera en tren, llegaría más tranquilo.",
+   "group": "si fuera (ir)",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 30,
+   "start": 324.516,
+   "end": 336.028,
+   "es": "Si fuera a la fiesta, vería a todos mis amigos.",
+   "group": "si fuera (ir)",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 31,
+   "start": 336.028,
+   "end": 348.411,
+   "es": "Si fuera al médico con más frecuencia, me sentiría mejor.",
+   "group": "si fuera (ir)",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 32,
+   "start": 348.411,
+   "end": 358.599,
+   "es": "Si fuera caminando, tardaría media hora.",
+   "group": "si fuera (ir)",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 33,
+   "start": 358.599,
+   "end": 370.993,
+   "es": "Si fuera al gimnasio todos los días, estaría en forma.",
+   "group": "si fuera (ir)",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 34,
+   "start": 370.993,
+   "end": 382.075,
+   "es": "Si fuera a Madrid, comería churros con chocolate.",
+   "group": "si fuera (ir)",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 35,
+   "start": 383.575,
+   "end": 392.022,
+   "es": "Habla como si fuera el jefe.",
+   "group": "como si fuera",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 36,
+   "start": 392.022,
+   "end": 400.306,
+   "es": "Me trata como si fuera un niño.",
+   "group": "como si fuera",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 37,
+   "start": 400.306,
+   "end": 410.842,
+   "es": "Lo dijo como si fuera lo más normal del mundo.",
+   "group": "como si fuera",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 38,
+   "start": 410.842,
+   "end": 420.798,
+   "es": "Hoy hace un frío como si fuera invierno.",
+   "group": "como si fuera",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 39,
+   "start": 420.798,
+   "end": 429.593,
+   "es": "Gasta dinero como si fuera millonario.",
+   "group": "como si fuera",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 40,
+   "start": 429.593,
+   "end": 438.887,
+   "es": "Actúa como si la casa fuera suya.",
+   "group": "como si fuera",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 41,
+   "start": 438.887,
+   "end": 446.997,
+   "es": "Lo recuerdo como si fuera ayer.",
+   "group": "como si fuera",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 42,
+   "start": 448.497,
+   "end": 459.544,
+   "es": "Si fueras más paciente, todo saldría mejor.",
+   "group": "si fueras, si fuéramos, si fueran (ser / ir)",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 43,
+   "start": 459.544,
+   "end": 467.979,
+   "es": "¿Qué harías si fueras presidente?",
+   "group": "si fueras, si fuéramos, si fueran (ser / ir)",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 44,
+   "start": 467.979,
+   "end": 478.481,
+   "es": "Si fuéramos al cine, ¿qué película veríamos?",
+   "group": "si fueras, si fuéramos, si fueran (ser / ir)",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 45,
+   "start": 478.481,
+   "end": 489.435,
+   "es": "Si fueran más amables, tendrían más clientes.",
+   "group": "si fueras, si fuéramos, si fueran (ser / ir)",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 46,
+   "start": 489.435,
+   "end": 498.854,
+   "es": "Si fueras a Japón, ¿qué querrías ver?",
+   "group": "si fueras, si fuéramos, si fueran (ser / ir)",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 47,
+   "start": 498.854,
+   "end": 510.726,
+   "es": "Si fuéramos en coche, podríamos parar donde quisiéramos.",
+   "group": "si fueras, si fuéramos, si fueran (ser / ir)",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 510.726,
+   "end": 522.76,
+   "es": "Si ustedes fueran mis vecinos, los invitaría a cenar.",
+   "group": "si fueras, si fuéramos, si fueran (ser / ir)",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 522.76,
+   "end": 533.215,
+   "es": "¿Qué cambiarías si fueras el director de la escuela?",
+   "group": "si fueras, si fuéramos, si fueran (ser / ir)",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 50,
+   "start": 533.215,
+   "end": 542.451,
+   "es": "Si fueras un animal, ¿cuál serías?",
+   "group": "si fueras, si fuéramos, si fueran (ser / ir)",
+   "group_index": 4,
+   "level": "B1"
+  }
+ ]
+}

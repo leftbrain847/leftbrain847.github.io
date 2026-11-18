@@ -1,0 +1,460 @@
+{
+ "word": "si pudiera",
+ "slug": "si_pudiera",
+ "kind": "word",
+ "hash": "c9798fc4bfe5ba52",
+ "duration": 770.064,
+ "voice": "mx-lento",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 14.438,
+   "es": "Si pudiera, viajaría todos los meses.",
+   "group": "si pudiera…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 1,
+   "start": 14.438,
+   "end": 27.61,
+   "es": "Si pudiera, te ayudaría con la mudanza.",
+   "group": "si pudiera…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 2,
+   "start": 27.61,
+   "end": 43.394,
+   "es": "Si pudiera, dormiría hasta tarde todos los días.",
+   "group": "si pudiera…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 3,
+   "start": 43.394,
+   "end": 56.357,
+   "es": "Si pudiera, trabajaría desde casa.",
+   "group": "si pudiera…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 4,
+   "start": 56.357,
+   "end": 73.349,
+   "es": "Si pudiera cambiar algo, cambiaría mi horario.",
+   "group": "si pudiera…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 5,
+   "start": 73.349,
+   "end": 88.541,
+   "es": "Si pudiera elegir, viviría cerca del mar.",
+   "group": "si pudiera…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 6,
+   "start": 88.541,
+   "end": 101.945,
+   "es": "Si pudiera volar, iría a todas partes.",
+   "group": "si pudiera…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 7,
+   "start": 101.945,
+   "end": 116.371,
+   "es": "Si pudiera, aprendería a tocar la guitarra.",
+   "group": "si pudiera…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 8,
+   "start": 116.371,
+   "end": 130.309,
+   "es": "Si pudiera hablar con él, le pediría perdón.",
+   "group": "si pudiera…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 9,
+   "start": 130.309,
+   "end": 145.292,
+   "es": "Si pudiera, comería tacos todos los días.",
+   "group": "si pudiera…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 10,
+   "start": 145.292,
+   "end": 165.14,
+   "es": "Si pudiera tomarme un año libre, viajaría por Sudamérica.",
+   "group": "si pudiera…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 11,
+   "start": 165.14,
+   "end": 179.055,
+   "es": "Si pudiera, me quedaría un rato más.",
+   "group": "si pudiera…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 12,
+   "start": 180.555,
+   "end": 195.239,
+   "es": "Iría contigo si pudiera, pero tengo que trabajar.",
+   "group": "lo haría si pudiera",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 13,
+   "start": 195.239,
+   "end": 210.276,
+   "es": "Te prestaría el coche si pudiera, pero lo necesito hoy.",
+   "group": "lo haría si pudiera",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 14,
+   "start": 210.276,
+   "end": 226.095,
+   "es": "Me encantaría ir si pudiera, pero estoy enfermo.",
+   "group": "lo haría si pudiera",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 15,
+   "start": 226.095,
+   "end": 239.034,
+   "es": "Lo haría si pudiera, de verdad.",
+   "group": "lo haría si pudiera",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 16,
+   "start": 239.034,
+   "end": 254.772,
+   "es": "Si pudiera salir antes, te recogería en la estación.",
+   "group": "lo haría si pudiera",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 17,
+   "start": 254.772,
+   "end": 269.521,
+   "es": "Te llamaría más si pudiera, pero estoy muy ocupada.",
+   "group": "lo haría si pudiera",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 18,
+   "start": 269.521,
+   "end": 284.193,
+   "es": "Lo compraría si pudiera, pero es demasiado caro.",
+   "group": "lo haría si pudiera",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 19,
+   "start": 284.193,
+   "end": 298.027,
+   "es": "Si pudiera quedarme en casa hoy, lo haría.",
+   "group": "lo haría si pudiera",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 20,
+   "start": 298.027,
+   "end": 318.083,
+   "es": "Si pudiera ahorrar un poco más, me compraría una bicicleta.",
+   "group": "lo haría si pudiera",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 21,
+   "start": 318.083,
+   "end": 333.543,
+   "es": "Si pudiera arreglarlo yo, no llamaría al técnico.",
+   "group": "lo haría si pudiera",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 22,
+   "start": 333.543,
+   "end": 348.189,
+   "es": "Si pudiera repetirlo, lo haría de otra manera.",
+   "group": "lo haría si pudiera",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 23,
+   "start": 349.689,
+   "end": 362.28,
+   "es": "¿Qué harías si pudieras ser invisible un día?",
+   "group": "si pudieras",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 24,
+   "start": 362.28,
+   "end": 377.054,
+   "es": "Si pudieras vivir en otro país, ¿dónde vivirías?",
+   "group": "si pudieras",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 25,
+   "start": 377.054,
+   "end": 393.373,
+   "es": "Si pudieras cenar con alguien famoso, ¿con quién cenarías?",
+   "group": "si pudieras",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 26,
+   "start": 393.373,
+   "end": 409.331,
+   "es": "Si pudieras traerme un café, te lo agradecería mucho.",
+   "group": "si pudieras",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 27,
+   "start": 409.331,
+   "end": 425.115,
+   "es": "Si pudieras hablar más despacio, te entendería mejor.",
+   "group": "si pudieras",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 28,
+   "start": 425.115,
+   "end": 438.763,
+   "es": "Si pudieras cambiar de trabajo, ¿lo harías?",
+   "group": "si pudieras",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 29,
+   "start": 438.763,
+   "end": 453.038,
+   "es": "Si pudieras volver al pasado, ¿qué cambiarías?",
+   "group": "si pudieras",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 30,
+   "start": 453.038,
+   "end": 468.221,
+   "es": "Si pudieras mandarme la dirección, iría esta tarde.",
+   "group": "si pudieras",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 31,
+   "start": 468.221,
+   "end": 480.91,
+   "es": "¿Adónde irías si pudieras viajar mañana?",
+   "group": "si pudieras",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 32,
+   "start": 480.91,
+   "end": 496.404,
+   "es": "Si pudieras esperar cinco minutos, terminaría esto.",
+   "group": "si pudieras",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 33,
+   "start": 497.904,
+   "end": 511.528,
+   "es": "Si pudiéramos, nos mudaríamos al campo.",
+   "group": "si pudiéramos, si pudieran",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 34,
+   "start": 511.528,
+   "end": 526.558,
+   "es": "Si pudiéramos vernos el sábado, sería perfecto.",
+   "group": "si pudiéramos, si pudieran",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 35,
+   "start": 526.558,
+   "end": 542.249,
+   "es": "Si pudiéramos salir a las seis, llegaríamos a tiempo.",
+   "group": "si pudiéramos, si pudieran",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 36,
+   "start": 542.249,
+   "end": 556.431,
+   "es": "Si pudieran, mis padres vendrían a visitarnos.",
+   "group": "si pudiéramos, si pudieran",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 37,
+   "start": 556.431,
+   "end": 574.456,
+   "es": "Si pudieran elegir, los niños comerían pizza todos los días.",
+   "group": "si pudiéramos, si pudieran",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 38,
+   "start": 574.456,
+   "end": 591.68,
+   "es": "Si pudiéramos hablar con calma, todo sería más fácil.",
+   "group": "si pudiéramos, si pudieran",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 39,
+   "start": 591.68,
+   "end": 604.643,
+   "es": "Si pudieran ayudarnos, terminaríamos hoy.",
+   "group": "si pudiéramos, si pudieran",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 40,
+   "start": 604.643,
+   "end": 621.042,
+   "es": "Si pudiéramos pagar menos de alquiler, ahorraríamos más.",
+   "group": "si pudiéramos, si pudieran",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 41,
+   "start": 622.542,
+   "end": 638.001,
+   "es": "Si pudiera entender todo, no necesitaría subtítulos.",
+   "group": "si pudiera entender, hablar, ver…",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 42,
+   "start": 638.001,
+   "end": 658.279,
+   "es": "Si pudiera hablar español perfectamente, trabajaría en México.",
+   "group": "si pudiera entender, hablar, ver…",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 43,
+   "start": 658.279,
+   "end": 678.939,
+   "es": "Si pudiera leer más rápido, terminaría el libro esta semana.",
+   "group": "si pudiera entender, hablar, ver…",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 44,
+   "start": 678.939,
+   "end": 692.192,
+   "es": "Si pudiera recordar su nombre, te lo diría.",
+   "group": "si pudiera entender, hablar, ver…",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 45,
+   "start": 692.192,
+   "end": 707.199,
+   "es": "Si pudiera ver el futuro, no me preocuparía tanto.",
+   "group": "si pudiera entender, hablar, ver…",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 46,
+   "start": 707.199,
+   "end": 721.195,
+   "es": "Si pudiera explicarlo mejor, lo entenderías.",
+   "group": "si pudiera entender, hablar, ver…",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 47,
+   "start": 721.195,
+   "end": 735.771,
+   "es": "Si pudiera manejar, no dependería del autobús.",
+   "group": "si pudiera entender, hablar, ver…",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 735.771,
+   "end": 752.322,
+   "es": "Si pudiera nadar mejor, iría al mar contigo.",
+   "group": "si pudiera entender, hablar, ver…",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 752.322,
+   "end": 770.01,
+   "es": "Si pudiera cocinar como mi abuela, invitaría a todos a comer.",
+   "group": "si pudiera entender, hablar, ver…",
+   "group_index": 4,
+   "level": "B1"
+  }
+ ]
+}

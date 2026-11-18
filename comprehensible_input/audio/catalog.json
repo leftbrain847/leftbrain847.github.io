@@ -178,7 +178,7 @@
    "pos": "verbo",
    "category": null,
    "count": 59,
-   "duration": 524.232,
+   "duration": 524.52,
    "levels": [
     "A1",
     "A2",
@@ -273,7 +273,7 @@
    "pos": "preposicion",
    "category": null,
    "count": 62,
-   "duration": 531.48,
+   "duration": 530.832,
    "levels": [
     "A1",
     "A2",
@@ -394,6 +394,74 @@
     "B1"
    ],
    "groups": 7,
+   "voices": [
+    "mx",
+    "mx-lento"
+   ]
+  },
+  {
+   "slug": "si_estuviera",
+   "word": "si estuviera",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 50,
+   "duration": 525.6,
+   "levels": [
+    "B1"
+   ],
+   "groups": 5,
+   "voices": [
+    "mx",
+    "mx-lento"
+   ]
+  },
+  {
+   "slug": "si_fuera",
+   "word": "si fuera",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 51,
+   "duration": 542.52,
+   "levels": [
+    "B1"
+   ],
+   "groups": 5,
+   "voices": [
+    "mx",
+    "mx-lento"
+   ]
+  },
+  {
+   "slug": "si_pudiera",
+   "word": "si pudiera",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 50,
+   "duration": 571.488,
+   "levels": [
+    "B1"
+   ],
+   "groups": 5,
+   "voices": [
+    "mx",
+    "mx-lento"
+   ]
+  },
+  {
+   "slug": "si_tuviera",
+   "word": "si tuviera",
+   "kind": "word",
+   "pos": "verbo",
+   "category": null,
+   "count": 50,
+   "duration": 554.52,
+   "levels": [
+    "B1"
+   ],
+   "groups": 5,
    "voices": [
     "mx",
     "mx-lento"

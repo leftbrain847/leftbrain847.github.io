@@ -1,0 +1,460 @@
+{
+ "word": "si estuviera",
+ "slug": "si_estuviera",
+ "kind": "word",
+ "hash": "74ea2034e64384c2",
+ "duration": 694.44,
+ "voice": "mx-lento",
+ "marks": [
+  {
+   "i": 0,
+   "start": 0.5,
+   "end": 14.415,
+   "es": "Si estuviera cansado, me acostaría temprano.",
+   "group": "si estuviera cansado, triste…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 1,
+   "start": 14.415,
+   "end": 28.504,
+   "es": "Si estuviera enfermo, me quedaría en casa.",
+   "group": "si estuviera cansado, triste…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 2,
+   "start": 28.504,
+   "end": 40.155,
+   "es": "Si estuviera triste, te llamaría.",
+   "group": "si estuviera cansado, triste…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 3,
+   "start": 40.155,
+   "end": 52.262,
+   "es": "Si estuviera enojado, te lo diría.",
+   "group": "si estuviera cansado, triste…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 4,
+   "start": 52.262,
+   "end": 65.227,
+   "es": "Si estuviera nerviosa, no podría dormir.",
+   "group": "si estuviera cansado, triste…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 5,
+   "start": 65.227,
+   "end": 79.571,
+   "es": "Si estuviera aburrido, saldría a caminar.",
+   "group": "si estuviera cansado, triste…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 6,
+   "start": 79.571,
+   "end": 94.174,
+   "es": "Si estuviera preocupada, hablaría con mi madre.",
+   "group": "si estuviera cansado, triste…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 7,
+   "start": 94.174,
+   "end": 107.415,
+   "es": "Si estuviera más tranquilo, pensaría mejor.",
+   "group": "si estuviera cansado, triste…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 8,
+   "start": 107.415,
+   "end": 118.555,
+   "es": "Si estuviera contento, se notaría.",
+   "group": "si estuviera cansado, triste…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 9,
+   "start": 118.555,
+   "end": 131.925,
+   "es": "Si estuviera listo, saldríamos ahora.",
+   "group": "si estuviera cansado, triste…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 10,
+   "start": 131.925,
+   "end": 146.862,
+   "es": "Si estuviera ocupado, no contestaría el teléfono.",
+   "group": "si estuviera cansado, triste…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 11,
+   "start": 146.862,
+   "end": 158.865,
+   "es": "Si estuviera seguro, te lo diría.",
+   "group": "si estuviera cansado, triste…",
+   "group_index": 0,
+   "level": "B1"
+  },
+  {
+   "i": 12,
+   "start": 160.365,
+   "end": 174.907,
+   "es": "Si estuviera en la playa, estaría muy feliz.",
+   "group": "si estuviera en casa, cerca, allí…",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 13,
+   "start": 174.907,
+   "end": 188.799,
+   "es": "Si estuviera en casa, te abriría la puerta.",
+   "group": "si estuviera en casa, cerca, allí…",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 14,
+   "start": 188.799,
+   "end": 204.772,
+   "es": "Si estuviera en México, comería tacos al pastor.",
+   "group": "si estuviera en casa, cerca, allí…",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 15,
+   "start": 204.772,
+   "end": 219.087,
+   "es": "Si estuviera en tu lugar, aceptaría la oferta.",
+   "group": "si estuviera en casa, cerca, allí…",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 16,
+   "start": 219.087,
+   "end": 233.873,
+   "es": "Si estuviera en la oficina, te mandaría el archivo.",
+   "group": "si estuviera en casa, cerca, allí…",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 17,
+   "start": 233.873,
+   "end": 249.297,
+   "es": "Si estuviera en París, visitaría todos los museos.",
+   "group": "si estuviera en casa, cerca, allí…",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 18,
+   "start": 249.297,
+   "end": 263.839,
+   "es": "Si estuviera cerca, pasaría a saludarte.",
+   "group": "si estuviera en casa, cerca, allí…",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 19,
+   "start": 263.839,
+   "end": 275.42,
+   "es": "Si estuviera allí, te ayudaría.",
+   "group": "si estuviera en casa, cerca, allí…",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 20,
+   "start": 275.42,
+   "end": 291.09,
+   "es": "Si estuviera en la montaña, respiraría aire puro.",
+   "group": "si estuviera en casa, cerca, allí…",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 21,
+   "start": 291.09,
+   "end": 306.612,
+   "es": "Si estuviera de vacaciones, no revisaría el correo.",
+   "group": "si estuviera en casa, cerca, allí…",
+   "group_index": 1,
+   "level": "B1"
+  },
+  {
+   "i": 22,
+   "start": 308.112,
+   "end": 320.71,
+   "es": "Si estuviera lloviendo, no saldríamos.",
+   "group": "si estuviera + gerundio",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 23,
+   "start": 320.71,
+   "end": 333.759,
+   "es": "Si estuviera trabajando, no te contestaría.",
+   "group": "si estuviera + gerundio",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 24,
+   "start": 333.759,
+   "end": 349.662,
+   "es": "Si estuviera durmiendo, no oiría el teléfono.",
+   "group": "si estuviera + gerundio",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 25,
+   "start": 349.662,
+   "end": 362.567,
+   "es": "Si estuviera mintiendo, lo sabrías.",
+   "group": "si estuviera + gerundio",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 26,
+   "start": 362.567,
+   "end": 378.319,
+   "es": "Si estuviera estudiando, apagaría la música.",
+   "group": "si estuviera + gerundio",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 27,
+   "start": 378.319,
+   "end": 393.407,
+   "es": "Si estuviera manejando, no miraría el celular.",
+   "group": "si estuviera + gerundio",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 28,
+   "start": 393.407,
+   "end": 409.715,
+   "es": "Si estuviera nevando, haríamos un muñeco de nieve.",
+   "group": "si estuviera + gerundio",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 29,
+   "start": 409.715,
+   "end": 425.534,
+   "es": "Si estuviera cocinando, toda la casa olería a ajo.",
+   "group": "si estuviera + gerundio",
+   "group_index": 2,
+   "level": "B1"
+  },
+  {
+   "i": 30,
+   "start": 427.034,
+   "end": 439.532,
+   "es": "Si estuvieras aquí, todo sería mejor.",
+   "group": "si estuvieras, si estuviéramos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 31,
+   "start": 439.532,
+   "end": 450.44,
+   "es": "¿Qué harías si estuvieras en mi lugar?",
+   "group": "si estuvieras, si estuviéramos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 32,
+   "start": 450.44,
+   "end": 465.887,
+   "es": "Si estuvieras cansada, podríamos volver a casa.",
+   "group": "si estuvieras, si estuviéramos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 33,
+   "start": 465.887,
+   "end": 482.484,
+   "es": "Si estuviéramos juntos, celebraríamos tu cumpleaños.",
+   "group": "si estuvieras, si estuviéramos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 34,
+   "start": 482.484,
+   "end": 497.084,
+   "es": "Si estuviéramos en verano, iríamos a nadar.",
+   "group": "si estuvieras, si estuviéramos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 35,
+   "start": 497.084,
+   "end": 512.49,
+   "es": "Si estuvieran de acuerdo, empezaríamos mañana.",
+   "group": "si estuvieras, si estuviéramos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 36,
+   "start": 512.49,
+   "end": 526.231,
+   "es": "Si estuvieras de mal humor, ¿me lo dirías?",
+   "group": "si estuvieras, si estuviéramos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 37,
+   "start": 526.231,
+   "end": 541.519,
+   "es": "Si estuviéramos más cerca del centro, saldríamos más.",
+   "group": "si estuvieras, si estuviéramos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 38,
+   "start": 541.519,
+   "end": 556.703,
+   "es": "Si los chicos estuvieran listos, ya nos iríamos.",
+   "group": "si estuvieras, si estuviéramos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 39,
+   "start": 556.703,
+   "end": 572.185,
+   "es": "Si estuvieras enferma, te prepararía una sopa.",
+   "group": "si estuvieras, si estuviéramos",
+   "group_index": 3,
+   "level": "B1"
+  },
+  {
+   "i": 40,
+   "start": 573.685,
+   "end": 584.163,
+   "es": "Habla como si estuviera enojado.",
+   "group": "como si estuviera",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 41,
+   "start": 584.163,
+   "end": 595.723,
+   "es": "Se ríe como si estuviera nerviosa.",
+   "group": "como si estuviera",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 42,
+   "start": 595.723,
+   "end": 607.653,
+   "es": "Camina como si estuviera cansado.",
+   "group": "como si estuviera",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 43,
+   "start": 607.653,
+   "end": 618.689,
+   "es": "Me mira como si yo estuviera loco.",
+   "group": "como si estuviera",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 44,
+   "start": 618.689,
+   "end": 631.025,
+   "es": "Se comporta como si estuviera en su casa.",
+   "group": "como si estuviera",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 45,
+   "start": 631.025,
+   "end": 643.172,
+   "es": "Duerme como si estuviera en un hotel de lujo.",
+   "group": "como si estuviera",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 46,
+   "start": 643.172,
+   "end": 654.028,
+   "es": "Lo cuenta como si lo estuviera viendo.",
+   "group": "como si estuviera",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 47,
+   "start": 654.028,
+   "end": 667.215,
+   "es": "Grita como si estuviera en un partido de fútbol.",
+   "group": "como si estuviera",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 48,
+   "start": 667.215,
+   "end": 682.092,
+   "es": "Está tranquilo, como si no estuviera pasando nada.",
+   "group": "como si estuviera",
+   "group_index": 4,
+   "level": "B1"
+  },
+  {
+   "i": 49,
+   "start": 682.092,
+   "end": 694.381,
+   "es": "Se viste como si estuviera de vacaciones.",
+   "group": "como si estuviera",
+   "group_index": 4,
+   "level": "B1"
+  }
+ ]
+}
