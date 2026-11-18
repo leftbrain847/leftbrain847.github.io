@@ -7,7 +7,7 @@
    "pos": "verbo",
    "category": null,
    "count": 63,
-   "duration": 565.2,
+   "duration": 565.08,
    "levels": [
     "A1",
     "A2",
@@ -26,7 +26,7 @@
    "pos": "verbo",
    "category": null,
    "count": 62,
-   "duration": 597.576,
+   "duration": 597.696,
    "levels": [
     "A1",
     "A2",
@@ -45,7 +45,7 @@
    "pos": "verbo",
    "category": null,
    "count": 62,
-   "duration": 556.08,
+   "duration": 555.36,
    "levels": [
     "A1",
     "A2",
@@ -64,7 +64,7 @@
    "pos": "verbo",
    "category": null,
    "count": 59,
-   "duration": 503.016,
+   "duration": 501.408,
    "levels": [
     "A1",
     "A2",
@@ -83,7 +83,7 @@
    "pos": "verbo",
    "category": null,
    "count": 59,
-   "duration": 548.832,
+   "duration": 549.048,
    "levels": [
     "A1",
     "A2",
@@ -102,7 +102,7 @@
    "pos": "verbo",
    "category": null,
    "count": 59,
-   "duration": 513.864,
+   "duration": 514.272,
    "levels": [
     "A1",
     "A2",
@@ -121,7 +121,7 @@
    "pos": "verbo",
    "category": null,
    "count": 62,
-   "duration": 528.912,
+   "duration": 529.896,
    "levels": [
     "A1",
     "A2",
@@ -140,7 +140,7 @@
    "pos": "verbo",
    "category": null,
    "count": 61,
-   "duration": 526.344,
+   "duration": 527.112,
    "levels": [
     "A1",
     "A2",
@@ -159,7 +159,7 @@
    "pos": "adverbio",
    "category": null,
    "count": 63,
-   "duration": 575.184,
+   "duration": 575.112,
    "levels": [
     "A1",
     "A2",
@@ -178,7 +178,7 @@
    "pos": "verbo",
    "category": null,
    "count": 59,
-   "duration": 524.376,
+   "duration": 524.232,
    "levels": [
     "A1",
     "A2",
@@ -197,7 +197,7 @@
    "pos": "pronombre",
    "category": null,
    "count": 62,
-   "duration": 516.096,
+   "duration": 516.12,
    "levels": [
     "A1",
     "A2",
@@ -216,7 +216,7 @@
    "pos": "adjetivo",
    "category": null,
    "count": 56,
-   "duration": 489.672,
+   "duration": 488.712,
    "levels": [
     "A1",
     "A2",
@@ -235,7 +235,7 @@
    "pos": "verbo",
    "category": null,
    "count": 58,
-   "duration": 511.8,
+   "duration": 510.456,
    "levels": [
     "A1",
     "A2",
@@ -254,7 +254,7 @@
    "pos": "verbo",
    "category": null,
    "count": 61,
-   "duration": 564.336,
+   "duration": 564.312,
    "levels": [
     "A1",
     "A2",
@@ -273,7 +273,7 @@
    "pos": "preposicion",
    "category": null,
    "count": 62,
-   "duration": 531.288,
+   "duration": 531.48,
    "levels": [
     "A1",
     "A2",
@@ -292,7 +292,7 @@
    "pos": "conjuncion",
    "category": null,
    "count": 62,
-   "duration": 511.464,
+   "duration": 512.688,
    "levels": [
     "A1",
     "A2",
@@ -311,7 +311,7 @@
    "pos": "verbo",
    "category": null,
    "count": 58,
-   "duration": 504.384,
+   "duration": 504.192,
    "levels": [
     "A1",
     "A2",
@@ -330,7 +330,7 @@
    "pos": "verbo",
    "category": null,
    "count": 59,
-   "duration": 559.008,
+   "duration": 559.104,
    "levels": [
     "A1",
     "A2",
@@ -349,7 +349,7 @@
    "pos": null,
    "category": "conversacion",
    "count": 64,
-   "duration": 481.152,
+   "duration": 481.392,
    "levels": [
     "A1",
     "A2",
@@ -368,7 +368,7 @@
    "pos": "pronombre",
    "category": null,
    "count": 61,
-   "duration": 510.432,
+   "duration": 509.928,
    "levels": [
     "A1",
     "A2",
@@ -387,7 +387,7 @@
    "pos": "verbo",
    "category": null,
    "count": 58,
-   "duration": 495.888,
+   "duration": 494.28,
    "levels": [
     "A1",
     "A2",
@@ -406,7 +406,7 @@
    "pos": "verbo",
    "category": null,
    "count": 58,
-   "duration": 551.928,
+   "duration": 553.032,
    "levels": [
     "A1",
     "A2",
@@ -444,7 +444,7 @@
    "pos": "verbo",
    "category": null,
    "count": 57,
-   "duration": 517.296,
+   "duration": 517.848,
    "levels": [
     "A1",
     "A2",
@@ -463,7 +463,7 @@
    "pos": null,
    "category": "gramatica",
    "count": 64,
-   "duration": 570.12,
+   "duration": 569.664,
    "levels": [
     "A1",
     "A2",
@@ -482,7 +482,7 @@
    "pos": "sustantivo",
    "category": null,
    "count": 61,
-   "duration": 547.2,
+   "duration": 546.84,
    "levels": [
     "A1",
     "A2",
@@ -501,7 +501,7 @@
    "pos": "verbo",
    "category": null,
    "count": 62,
-   "duration": 536.136,
+   "duration": 534.648,
    "levels": [
     "A1",
     "A2",
@@ -520,7 +520,7 @@
    "pos": "adverbio",
    "category": null,
    "count": 63,
-   "duration": 553.392,
+   "duration": 553.704,
    "levels": [
     "A1",
     "A2",

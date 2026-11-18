@@ -41,6 +41,20 @@
   "page": "02460f98d2d1e1a6e5dca683e48074537a8dd65df1a6ed57f7fe445bae499eb1",
   "recorded_on": "2026-11-09"
  },
+ "mastery_field_guide": {
+  "file": "vid/mastery_field_guide.webm",
+  "start": 2.8376667499542236,
+  "dur": 8.0,
+  "crop": [
+   16.0,
+   34.41145833333334,
+   358,
+   477.3333333333333
+  ],
+  "script": "1eba8f5ad839452d911b544f99accedb9d006fea80a6d1496df7effc3ec49163",
+  "page": "61710a8ab4080b156d0585ff486a87eb6944413d447ec13d9554e2bca224d1d7",
+  "recorded_on": "2026-11-17"
+ },
  "november_sprint": {
   "file": "vid/november_sprint.webm",
   "start": 1.140381097793579,
@@ -125,20 +139,6 @@
   "page": "b6dedf82179f562849a93578e615abf6dd17915bb19d64388440ce5b1a186e70",
   "recorded_on": "2026-11-10"
  },
- "lull": {
-  "file": "vid/lull.webm",
-  "start": 1.5975978374481201,
-  "dur": 8.0,
-  "crop": [
-   16.0,
-   0.0,
-   358,
-   477.3333333333333
-  ],
-  "script": "5aacbad9185036f8c12b23a34d089688e0dec32c62d8c51665fa24fd4c6d0788",
-  "page": "e3eb583443dd008817eebf39515bc2d9ada4226c254dc3f860f523851a3ba4b7",
-  "recorded_on": "2026-11-09"
- },
  "habla": {
   "file": "vid/habla.webm",
   "start": 1.7454707622528076,
@@ -152,6 +152,20 @@
   "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
   "page": "31357a0b66b588ff52dd86e58046d767342a0b160b73624abfcf9ab7de76ecb4",
   "recorded_on": "2026-11-09"
+ },
+ "stock_screener": {
+  "file": "vid/stock_screener.webm",
+  "start": 2.2811968326568604,
+  "dur": 6.0,
+  "crop": [
+   0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
+  "page": "5cd39c8474ec6f1a70e5a5b0924690333658736aeb8d694a24e14fec61c62631",
+  "recorded_on": "2026-11-17"
  },
  "pinball": {
   "file": "vid/pinball.webm",
@@ -207,20 +221,6 @@
   ],
   "script": "b2b9a50853915c2ca2d146091114b2bdc16b37c9ff6db0d430cfeeea6d5aff15",
   "page": "ea50ecd034c862cfaacb60e449d4eab6bf5466e47ea4657c9141072632558fc0",
-  "recorded_on": "2026-11-09"
- },
- "ludo": {
-  "file": "vid/ludo.webm",
-  "start": 2.229553461074829,
-  "dur": 9,
-  "crop": [
-   16.0,
-   81.33333333333334,
-   358,
-   477.3333333333333
-  ],
-  "script": "a5ce26ee32258c593ee0f12b84d603bcbb8d7be4d6f66471d088003f2669bd45",
-  "page": "8f3d9aa0387da4e3fe80338f8c4039b9e4292adfeb14723a5962257ea40a1d48",
   "recorded_on": "2026-11-09"
  },
  "congress": {
@@ -279,23 +279,23 @@
   "page": "07fe31b4f2b4e2d38c163c1aa3c015eb64ffbfc928f13aeafc95fd4144626101",
   "recorded_on": "2026-11-17"
  },
- "mastery_field_guide": {
-  "file": "vid/mastery_field_guide.webm",
-  "start": 2.8376667499542236,
+ "lull": {
+  "file": "vid/lull.webm",
+  "start": 1.6313130855560303,
   "dur": 8.0,
   "crop": [
    16.0,
-   34.41145833333334,
+   0.0,
    358,
    477.3333333333333
   ],
-  "script": "1eba8f5ad839452d911b544f99accedb9d006fea80a6d1496df7effc3ec49163",
-  "page": "61710a8ab4080b156d0585ff486a87eb6944413d447ec13d9554e2bca224d1d7",
-  "recorded_on": "2026-11-17"
+  "script": "5aacbad9185036f8c12b23a34d089688e0dec32c62d8c51665fa24fd4c6d0788",
+  "page": "c102c7bb4b756e39f91eb06bc2b2ce10eaded0743de2987ad051b982a5c0848d",
+  "recorded_on": "2026-11-18"
  },
- "stock_screener": {
-  "file": "vid/stock_screener.webm",
-  "start": 2.2811968326568604,
+ "trending_five": {
+  "file": "vid/trending_five.webm",
+  "start": 1.6313605308532715,
   "dur": 6.0,
   "crop": [
    0,
@@ -304,21 +304,7 @@
    520.0
   ],
   "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
-  "page": "5cd39c8474ec6f1a70e5a5b0924690333658736aeb8d694a24e14fec61c62631",
-  "recorded_on": "2026-11-17"
- },
- "spatial_puzzles": {
-  "file": "vid/spatial_puzzles.webm",
-  "start": 6.822394609451294,
-  "dur": 6.0,
-  "crop": [
-   0,
-   60.0,
-   390,
-   520.0
-  ],
-  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
-  "page": "c097e5a4cb8062197cb90600aa3443c58e2c02840ed1e6c4352d1a29652ea511",
-  "recorded_on": "2026-11-17"
+  "page": "4dcdf76892d68440f7b839defaad2810207691f72f0968687d5a5e7cc8ec16ab",
+  "recorded_on": "2026-11-18"
  }
 }
