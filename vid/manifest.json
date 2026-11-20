@@ -362,5 +362,19 @@
   "script": "377edb40c5bc67a18ba869747db91e2091bf4d32458456af8b22aa64055ec997",
   "page": "4b55d07d18e7a705c6c05e24c5921f21520da2e6cf223201c8be170665f36bab",
   "recorded_on": "2026-11-20"
+ },
+ "artist_map": {
+  "file": "vid/artist_map.webm",
+  "start": 1.5234885215759277,
+  "dur": 6.0,
+  "crop": [
+   0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
+  "page": "17be44a7fcb305c24ff404c9c396d978f79b77ab9a4f120e31bb98fd40d7018e",
+  "recorded_on": "2026-11-20"
  }
 }
