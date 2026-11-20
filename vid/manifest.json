@@ -41,6 +41,20 @@
   "page": "02460f98d2d1e1a6e5dca683e48074537a8dd65df1a6ed57f7fe445bae499eb1",
   "recorded_on": "2026-11-09"
  },
+ "mastery_field_guide": {
+  "file": "vid/mastery_field_guide.webm",
+  "start": 2.2658751010894775,
+  "dur": 8.0,
+  "crop": [
+   16.0,
+   34.22395833333334,
+   358,
+   477.3333333333333
+  ],
+  "script": "1eba8f5ad839452d911b544f99accedb9d006fea80a6d1496df7effc3ec49163",
+  "page": "458ee0bcc56d1ac90b67eebba12c5d3ef38a5089ac9d00af89287be8957e058f",
+  "recorded_on": "2026-11-20"
+ },
  "november_sprint": {
   "file": "vid/november_sprint.webm",
   "start": 1.140381097793579,
@@ -181,6 +195,20 @@
   "page": "a00b0f75d38cc2820362c5cb9c2b6eb5f9f1622058447055a878f62f21948290",
   "recorded_on": "2026-11-18"
  },
+ "recipe_book": {
+  "file": "vid/recipe_book.webm",
+  "start": 1.5245368480682373,
+  "dur": 6.0,
+  "crop": [
+   0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
+  "page": "0a51e5be640f81816ef3ff54e6d7fe8b8166818593458969343b550c28c407bb",
+  "recorded_on": "2026-11-20"
+ },
  "pinball": {
   "file": "vid/pinball.webm",
   "start": 2.2144439220428467,
@@ -208,6 +236,20 @@
   "script": "c2f81fbe8f79559d95ad62d3088ded934a665f303f4e9a2802f01c6f2a9d7fc2",
   "page": "2d33d11a1c472a305136547aecd327a6a585219e8e59754b8c70b0ca3b473b95",
   "recorded_on": "2026-11-09"
+ },
+ "spatial_puzzles": {
+  "file": "vid/spatial_puzzles.webm",
+  "start": 4.707075119018555,
+  "dur": 6.0,
+  "crop": [
+   0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
+  "page": "0a72650bbba592b65fa8bf3d00e6e95801974fb70082bdf172e990efbb9c5762",
+  "recorded_on": "2026-11-20"
  },
  "sound_jam_band": {
   "file": "vid/sound_jam_band.webm",
@@ -306,48 +348,6 @@
   "script": "077c521567437b2b2fad701e1bce6283e194c0a0e27fc1da8a1f5c8c57fd3c72",
   "page": "07fe31b4f2b4e2d38c163c1aa3c015eb64ffbfc928f13aeafc95fd4144626101",
   "recorded_on": "2026-11-17"
- },
- "mastery_field_guide": {
-  "file": "vid/mastery_field_guide.webm",
-  "start": 2.2658751010894775,
-  "dur": 8.0,
-  "crop": [
-   16.0,
-   34.22395833333334,
-   358,
-   477.3333333333333
-  ],
-  "script": "1eba8f5ad839452d911b544f99accedb9d006fea80a6d1496df7effc3ec49163",
-  "page": "458ee0bcc56d1ac90b67eebba12c5d3ef38a5089ac9d00af89287be8957e058f",
-  "recorded_on": "2026-11-20"
- },
- "recipe_book": {
-  "file": "vid/recipe_book.webm",
-  "start": 1.5245368480682373,
-  "dur": 6.0,
-  "crop": [
-   0,
-   60.0,
-   390,
-   520.0
-  ],
-  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
-  "page": "0a51e5be640f81816ef3ff54e6d7fe8b8166818593458969343b550c28c407bb",
-  "recorded_on": "2026-11-20"
- },
- "spatial_puzzles": {
-  "file": "vid/spatial_puzzles.webm",
-  "start": 4.707075119018555,
-  "dur": 6.0,
-  "crop": [
-   0,
-   60.0,
-   390,
-   520.0
-  ],
-  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
-  "page": "0a72650bbba592b65fa8bf3d00e6e95801974fb70082bdf172e990efbb9c5762",
-  "recorded_on": "2026-11-20"
  },
  "crunchy": {
   "file": "vid/crunchy.webm",
