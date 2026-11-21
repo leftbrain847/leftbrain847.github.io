@@ -376,5 +376,19 @@
   "script": "377edb40c5bc67a18ba869747db91e2091bf4d32458456af8b22aa64055ec997",
   "page": "4b55d07d18e7a705c6c05e24c5921f21520da2e6cf223201c8be170665f36bab",
   "recorded_on": "2026-11-20"
+ },
+ "bankroll": {
+  "file": "vid/bankroll.webm",
+  "start": 1.6730842590332031,
+  "dur": 7.0,
+  "crop": [
+   0.0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "83fc80ad57cb767abb740c5f7eb4dbf8e8b5d0658514859a718e125369535d59",
+  "page": "6eb67def55cdda403eab32f795f0479f7a22aadf7caa1868d897e95d0a7f57ab",
+  "recorded_on": "2026-11-21"
  }
 }
