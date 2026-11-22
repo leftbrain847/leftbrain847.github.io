@@ -251,20 +251,6 @@
   "page": "2d33d11a1c472a305136547aecd327a6a585219e8e59754b8c70b0ca3b473b95",
   "recorded_on": "2026-11-09"
  },
- "spatial_puzzles": {
-  "file": "vid/spatial_puzzles.webm",
-  "start": 4.707075119018555,
-  "dur": 6.0,
-  "crop": [
-   0,
-   60.0,
-   390,
-   520.0
-  ],
-  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
-  "page": "0a72650bbba592b65fa8bf3d00e6e95801974fb70082bdf172e990efbb9c5762",
-  "recorded_on": "2026-11-20"
- },
  "sound_jam_band": {
   "file": "vid/sound_jam_band.webm",
   "start": 2.307236433029175,
@@ -391,9 +377,9 @@
   "page": "6eb67def55cdda403eab32f795f0479f7a22aadf7caa1868d897e95d0a7f57ab",
   "recorded_on": "2026-11-21"
  },
- "tandem_kart": {
-  "file": "vid/tandem_kart.webm",
-  "start": 4.674704074859619,
+ "kart": {
+  "file": "vid/kart.webm",
+  "start": 4.815653085708618,
   "dur": 7.0,
   "crop": [
    0.0,
@@ -402,7 +388,7 @@
    520.0
   ],
   "script": "999de77019434f73b8df073f8b89615e42b11b18036cc44a288afe59f92287cd",
-  "page": "35d13626ddccb66514d3861302b2dc5d1103c0135443ef9109238fa9b13de3ad",
+  "page": "a146c0bd01d7f122cc62125d3fce2bda6e1857142557918ef2526fcf0d183224",
   "recorded_on": "2026-11-22"
  }
 }
