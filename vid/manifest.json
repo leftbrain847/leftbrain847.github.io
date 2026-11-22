@@ -390,5 +390,19 @@
   "script": "83fc80ad57cb767abb740c5f7eb4dbf8e8b5d0658514859a718e125369535d59",
   "page": "6eb67def55cdda403eab32f795f0479f7a22aadf7caa1868d897e95d0a7f57ab",
   "recorded_on": "2026-11-21"
+ },
+ "tandem_kart": {
+  "file": "vid/tandem_kart.webm",
+  "start": 4.674704074859619,
+  "dur": 7.0,
+  "crop": [
+   0.0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "999de77019434f73b8df073f8b89615e42b11b18036cc44a288afe59f92287cd",
+  "page": "35d13626ddccb66514d3861302b2dc5d1103c0135443ef9109238fa9b13de3ad",
+  "recorded_on": "2026-11-22"
  }
 }
