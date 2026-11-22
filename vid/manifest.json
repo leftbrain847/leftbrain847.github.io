@@ -404,5 +404,19 @@
   "script": "999de77019434f73b8df073f8b89615e42b11b18036cc44a288afe59f92287cd",
   "page": "e012e1af03af31aff8cdb3d501660a5479c0a8238af6a476730ea4330cdc6e13",
   "recorded_on": "2026-11-22"
+ },
+ "poker_coach": {
+  "file": "vid/poker_coach.webm",
+  "start": 7.0421528816223145,
+  "dur": 7.0,
+  "crop": [
+   0.0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "d23695d467be906f40e78faf9bfa9b3c11f3cf7681537ff03f593933ef30a9f1",
+  "page": "add84fb0af6575f17af73c2c46daba0ef81706c85e0b3caa00c3a8f2e2812b6e",
+  "recorded_on": "2026-11-22"
  }
 }
