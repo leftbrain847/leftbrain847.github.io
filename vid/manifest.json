@@ -265,6 +265,20 @@
   "page": "16f2b39980ae04416301f6869655660943a81d9a38511bf8dcb8fa3d325689b3",
   "recorded_on": "2026-11-09"
  },
+ "project_index": {
+  "file": "vid/project_index.webm",
+  "start": 1.0024807453155518,
+  "dur": 7.0,
+  "crop": [
+   0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "b2b9a50853915c2ca2d146091114b2bdc16b37c9ff6db0d430cfeeea6d5aff15",
+  "page": "9178b365fa2da3a5f1eb2a597eeb3375d647f3a0493616adb9f65c3f41b694d7",
+  "recorded_on": "2026-11-23"
+ },
  "ludo": {
   "file": "vid/ludo.webm",
   "start": 1.9640862941741943,
@@ -377,9 +391,23 @@
   "page": "add84fb0af6575f17af73c2c46daba0ef81706c85e0b3caa00c3a8f2e2812b6e",
   "recorded_on": "2026-11-22"
  },
- "project_index": {
-  "file": "vid/project_index.webm",
-  "start": 1.0024807453155518,
+ "spatial_puzzles": {
+  "file": "vid/spatial_puzzles.webm",
+  "start": 9.132813453674316,
+  "dur": 6.0,
+  "crop": [
+   0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
+  "page": "0a72650bbba592b65fa8bf3d00e6e95801974fb70082bdf172e990efbb9c5762",
+  "recorded_on": "2026-11-23"
+ },
+ "kart": {
+  "file": "vid/kart.webm",
+  "start": 4.903726577758789,
   "dur": 7.0,
   "crop": [
    0,
@@ -387,22 +415,8 @@
    390,
    520.0
   ],
-  "script": "b2b9a50853915c2ca2d146091114b2bdc16b37c9ff6db0d430cfeeea6d5aff15",
-  "page": "9178b365fa2da3a5f1eb2a597eeb3375d647f3a0493616adb9f65c3f41b694d7",
-  "recorded_on": "2026-11-23"
- },
- "kart": {
-  "file": "vid/kart.webm",
-  "start": 4.854929685592651,
-  "dur": 7.0,
-  "crop": [
-   0.0,
-   60.0,
-   390,
-   520.0
-  ],
   "script": "999de77019434f73b8df073f8b89615e42b11b18036cc44a288afe59f92287cd",
-  "page": "c270dd349ec55dd478d87f61d05ea4d47d9e9201e4f2166b2eaabdd1ff717035",
+  "page": "a146c0bd01d7f122cc62125d3fce2bda6e1857142557918ef2526fcf0d183224",
   "recorded_on": "2026-11-23"
  }
 }
