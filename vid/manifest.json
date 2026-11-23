@@ -251,20 +251,6 @@
   "page": "2d33d11a1c472a305136547aecd327a6a585219e8e59754b8c70b0ca3b473b95",
   "recorded_on": "2026-11-09"
  },
- "spatial_puzzles": {
-  "file": "vid/spatial_puzzles.webm",
-  "start": 9.132813453674316,
-  "dur": 6.0,
-  "crop": [
-   0,
-   60.0,
-   390,
-   520.0
-  ],
-  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
-  "page": "0a72650bbba592b65fa8bf3d00e6e95801974fb70082bdf172e990efbb9c5762",
-  "recorded_on": "2026-11-23"
- },
  "sound_jam_band": {
   "file": "vid/sound_jam_band.webm",
   "start": 2.307236433029175,
@@ -391,20 +377,6 @@
   "page": "6eb67def55cdda403eab32f795f0479f7a22aadf7caa1868d897e95d0a7f57ab",
   "recorded_on": "2026-11-21"
  },
- "kart": {
-  "file": "vid/kart.webm",
-  "start": 4.903726577758789,
-  "dur": 7.0,
-  "crop": [
-   0,
-   60.0,
-   390,
-   520.0
-  ],
-  "script": "999de77019434f73b8df073f8b89615e42b11b18036cc44a288afe59f92287cd",
-  "page": "a146c0bd01d7f122cc62125d3fce2bda6e1857142557918ef2526fcf0d183224",
-  "recorded_on": "2026-11-23"
- },
  "poker_coach": {
   "file": "vid/poker_coach.webm",
   "start": 7.0421528816223145,
@@ -418,5 +390,19 @@
   "script": "d23695d467be906f40e78faf9bfa9b3c11f3cf7681537ff03f593933ef30a9f1",
   "page": "add84fb0af6575f17af73c2c46daba0ef81706c85e0b3caa00c3a8f2e2812b6e",
   "recorded_on": "2026-11-22"
+ },
+ "kart": {
+  "file": "vid/kart.webm",
+  "start": 4.811851978302002,
+  "dur": 7.0,
+  "crop": [
+   0.0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "999de77019434f73b8df073f8b89615e42b11b18036cc44a288afe59f92287cd",
+  "page": "dc205f57fd7b0cb0766d740f5a9a3ff144c7e1cc966cbee1f2b0b9ca564e98ce",
+  "recorded_on": "2026-11-23"
  }
 }
