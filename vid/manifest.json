@@ -111,20 +111,6 @@
   "page": "994274e69afe2b65c27e6c2a48b963d88e929e47eb2b64dd4f8ce46b46574c20",
   "recorded_on": "2026-11-20"
  },
- "nfl_roster_grader": {
-  "file": "vid/nfl_roster_grader.webm",
-  "start": 1.463916301727295,
-  "dur": 7.0,
-  "crop": [
-   0.0,
-   60.0,
-   390,
-   520.0
-  ],
-  "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
-  "page": "3c746978ef90434de20d776b5c9e8130b5dcd49be041a10715defe5603e8171d",
-  "recorded_on": "2026-11-22"
- },
  "redzone": {
   "file": "vid/redzone.webm",
   "start": 1.7171099185943604,
@@ -377,6 +363,20 @@
   "page": "6eb67def55cdda403eab32f795f0479f7a22aadf7caa1868d897e95d0a7f57ab",
   "recorded_on": "2026-11-21"
  },
+ "kart": {
+  "file": "vid/kart.webm",
+  "start": 4.811851978302002,
+  "dur": 7.0,
+  "crop": [
+   0.0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "999de77019434f73b8df073f8b89615e42b11b18036cc44a288afe59f92287cd",
+  "page": "dc205f57fd7b0cb0766d740f5a9a3ff144c7e1cc966cbee1f2b0b9ca564e98ce",
+  "recorded_on": "2026-11-23"
+ },
  "poker_coach": {
   "file": "vid/poker_coach.webm",
   "start": 7.0421528816223145,
@@ -391,9 +391,9 @@
   "page": "add84fb0af6575f17af73c2c46daba0ef81706c85e0b3caa00c3a8f2e2812b6e",
   "recorded_on": "2026-11-22"
  },
- "kart": {
-  "file": "vid/kart.webm",
-  "start": 4.811851978302002,
+ "nfl_roster_grader": {
+  "file": "vid/nfl_roster_grader.webm",
+  "start": 1.8491625785827637,
   "dur": 7.0,
   "crop": [
    0.0,
@@ -401,8 +401,22 @@
    390,
    520.0
   ],
-  "script": "999de77019434f73b8df073f8b89615e42b11b18036cc44a288afe59f92287cd",
-  "page": "dc205f57fd7b0cb0766d740f5a9a3ff144c7e1cc966cbee1f2b0b9ca564e98ce",
+  "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
+  "page": "58a78f1f7dde13e3fabb2d3f1b9a2eb40114d63fe8848e6caf0d918935cdaf20",
+  "recorded_on": "2026-11-23"
+ },
+ "spatial_puzzles": {
+  "file": "vid/spatial_puzzles.webm",
+  "start": 6.971106767654419,
+  "dur": 6.0,
+  "crop": [
+   0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
+  "page": "0a72650bbba592b65fa8bf3d00e6e95801974fb70082bdf172e990efbb9c5762",
   "recorded_on": "2026-11-23"
  }
 }
