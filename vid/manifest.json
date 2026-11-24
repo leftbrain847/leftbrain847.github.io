@@ -223,6 +223,34 @@
   "page": "0a51e5be640f81816ef3ff54e6d7fe8b8166818593458969343b550c28c407bb",
   "recorded_on": "2026-11-20"
  },
+ "exam_scan": {
+  "file": "vid/exam_scan.webm",
+  "start": 1.607649803161621,
+  "dur": 6.0,
+  "crop": [
+   0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
+  "page": "f8bbfc9cce446fb617368ccf1b555587d95cc9bb3ed2235120e6267dd5f38e5f",
+  "recorded_on": "2026-11-24"
+ },
+ "tx_lah": {
+  "file": "vid/tx_lah.webm",
+  "start": 1.57023286819458,
+  "dur": 6.0,
+  "crop": [
+   0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
+  "page": "831e8ea762c76cf9fa19949ff9133e616ff69c8dacbc0e996cfd49a9a7fbd39d",
+  "recorded_on": "2026-11-24"
+ },
  "pinball": {
   "file": "vid/pinball.webm",
   "start": 2.2144439220428467,
@@ -419,9 +447,9 @@
   "page": "add84fb0af6575f17af73c2c46daba0ef81706c85e0b3caa00c3a8f2e2812b6e",
   "recorded_on": "2026-11-22"
  },
- "exam_scan": {
-  "file": "vid/exam_scan.webm",
-  "start": 1.607649803161621,
+ "dca_forecast": {
+  "file": "vid/dca_forecast.webm",
+  "start": 1.523261547088623,
   "dur": 6.0,
   "crop": [
    0,
@@ -430,21 +458,7 @@
    520.0
   ],
   "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
-  "page": "f8bbfc9cce446fb617368ccf1b555587d95cc9bb3ed2235120e6267dd5f38e5f",
-  "recorded_on": "2026-11-24"
- },
- "tx_lah": {
-  "file": "vid/tx_lah.webm",
-  "start": 1.57023286819458,
-  "dur": 6.0,
-  "crop": [
-   0,
-   60.0,
-   390,
-   520.0
-  ],
-  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
-  "page": "831e8ea762c76cf9fa19949ff9133e616ff69c8dacbc0e996cfd49a9a7fbd39d",
+  "page": "96ca2574242f50c8f2b5646d7b0d2f2edd0445ab2af988e94070fcd14b3e3276",
   "recorded_on": "2026-11-24"
  }
 }
