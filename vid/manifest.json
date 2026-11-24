@@ -111,6 +111,20 @@
   "page": "994274e69afe2b65c27e6c2a48b963d88e929e47eb2b64dd4f8ce46b46574c20",
   "recorded_on": "2026-11-20"
  },
+ "nfl_roster_grader": {
+  "file": "vid/nfl_roster_grader.webm",
+  "start": 1.575573444366455,
+  "dur": 7.0,
+  "crop": [
+   0.0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
+  "page": "209a244d5c1ce2e31fe20ea968657216a60ae604a303866e7925f88abff16851",
+  "recorded_on": "2026-11-24"
+ },
  "redzone": {
   "file": "vid/redzone.webm",
   "start": 1.7171099185943604,
@@ -447,18 +461,18 @@
   "page": "96ca2574242f50c8f2b5646d7b0d2f2edd0445ab2af988e94070fcd14b3e3276",
   "recorded_on": "2026-11-24"
  },
- "nfl_roster_grader": {
-  "file": "vid/nfl_roster_grader.webm",
-  "start": 1.575573444366455,
-  "dur": 7.0,
+ "kart_roku": {
+  "file": "vid/kart_roku.webm",
+  "start": 1.4290533065795898,
+  "dur": 9,
   "crop": [
-   0.0,
-   60.0,
-   390,
-   520.0
+   7.8046875,
+   137.546875,
+   374.390625,
+   499.1875
   ],
-  "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
-  "page": "209a244d5c1ce2e31fe20ea968657216a60ae604a303866e7925f88abff16851",
+  "script": "13fc602e3bb2302f0df964d1c08ca75f66790a3a10428f13b68d05e669bc62eb",
+  "page": "3cd550143bfaa1e22d78a261e88c4112fb10f1dcca5adeace72ea7df29eeff17",
   "recorded_on": "2026-11-24"
  }
 }
