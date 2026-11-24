@@ -111,6 +111,20 @@
   "page": "994274e69afe2b65c27e6c2a48b963d88e929e47eb2b64dd4f8ce46b46574c20",
   "recorded_on": "2026-11-20"
  },
+ "nfl_roster_grader": {
+  "file": "vid/nfl_roster_grader.webm",
+  "start": 1.8491625785827637,
+  "dur": 7.0,
+  "crop": [
+   0.0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
+  "page": "58a78f1f7dde13e3fabb2d3f1b9a2eb40114d63fe8848e6caf0d918935cdaf20",
+  "recorded_on": "2026-11-23"
+ },
  "redzone": {
   "file": "vid/redzone.webm",
   "start": 1.7171099185943604,
@@ -236,6 +250,20 @@
   "script": "c2f81fbe8f79559d95ad62d3088ded934a665f303f4e9a2802f01c6f2a9d7fc2",
   "page": "2d33d11a1c472a305136547aecd327a6a585219e8e59754b8c70b0ca3b473b95",
   "recorded_on": "2026-11-09"
+ },
+ "spatial_puzzles": {
+  "file": "vid/spatial_puzzles.webm",
+  "start": 6.971106767654419,
+  "dur": 6.0,
+  "crop": [
+   0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
+  "page": "0a72650bbba592b65fa8bf3d00e6e95801974fb70082bdf172e990efbb9c5762",
+  "recorded_on": "2026-11-23"
  },
  "sound_jam_band": {
   "file": "vid/sound_jam_band.webm",
@@ -391,23 +419,9 @@
   "page": "add84fb0af6575f17af73c2c46daba0ef81706c85e0b3caa00c3a8f2e2812b6e",
   "recorded_on": "2026-11-22"
  },
- "nfl_roster_grader": {
-  "file": "vid/nfl_roster_grader.webm",
-  "start": 1.8491625785827637,
-  "dur": 7.0,
-  "crop": [
-   0.0,
-   60.0,
-   390,
-   520.0
-  ],
-  "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
-  "page": "58a78f1f7dde13e3fabb2d3f1b9a2eb40114d63fe8848e6caf0d918935cdaf20",
-  "recorded_on": "2026-11-23"
- },
- "spatial_puzzles": {
-  "file": "vid/spatial_puzzles.webm",
-  "start": 6.971106767654419,
+ "exam_scan": {
+  "file": "vid/exam_scan.webm",
+  "start": 1.607649803161621,
   "dur": 6.0,
   "crop": [
    0,
@@ -416,7 +430,21 @@
    520.0
   ],
   "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
-  "page": "0a72650bbba592b65fa8bf3d00e6e95801974fb70082bdf172e990efbb9c5762",
-  "recorded_on": "2026-11-23"
+  "page": "f8bbfc9cce446fb617368ccf1b555587d95cc9bb3ed2235120e6267dd5f38e5f",
+  "recorded_on": "2026-11-24"
+ },
+ "tx_lah": {
+  "file": "vid/tx_lah.webm",
+  "start": 1.57023286819458,
+  "dur": 6.0,
+  "crop": [
+   0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
+  "page": "831e8ea762c76cf9fa19949ff9133e616ff69c8dacbc0e996cfd49a9a7fbd39d",
+  "recorded_on": "2026-11-24"
  }
 }
