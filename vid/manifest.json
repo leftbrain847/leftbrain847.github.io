@@ -111,20 +111,6 @@
   "page": "994274e69afe2b65c27e6c2a48b963d88e929e47eb2b64dd4f8ce46b46574c20",
   "recorded_on": "2026-11-20"
  },
- "nfl_roster_grader": {
-  "file": "vid/nfl_roster_grader.webm",
-  "start": 1.7486767768859863,
-  "dur": 7.0,
-  "crop": [
-   0.0,
-   60.0,
-   390,
-   520.0
-  ],
-  "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
-  "page": "849bc16ac37f0bf7ec3e7872af24fad84b463bee379676eccc850f9e184bc222",
-  "recorded_on": "2026-11-25"
- },
  "redzone": {
   "file": "vid/redzone.webm",
   "start": 1.7171099185943604,
@@ -461,6 +447,20 @@
   "page": "96ca2574242f50c8f2b5646d7b0d2f2edd0445ab2af988e94070fcd14b3e3276",
   "recorded_on": "2026-11-24"
  },
+ "kart_roku": {
+  "file": "vid/kart_roku.webm",
+  "start": 1.4124696254730225,
+  "dur": 9,
+  "crop": [
+   7.8046875,
+   137.546875,
+   374.390625,
+   499.1875
+  ],
+  "script": "13fc602e3bb2302f0df964d1c08ca75f66790a3a10428f13b68d05e669bc62eb",
+  "page": "ff5f9bef7a4a64704cb34510ee41d392abccf1beb609361b90c420e5b8ca023b",
+  "recorded_on": "2026-11-25"
+ },
  "math_trainer": {
   "file": "vid/math_trainer.webm",
   "start": 1.1850786209106445,
@@ -475,18 +475,32 @@
   "page": "329f21c5146d262e24b37811d9feb466fe7883153997434145510e7db2127adb",
   "recorded_on": "2026-11-25"
  },
- "kart_roku": {
-  "file": "vid/kart_roku.webm",
-  "start": 1.4124696254730225,
-  "dur": 9,
+ "nfl_roster_grader": {
+  "file": "vid/nfl_roster_grader.webm",
+  "start": 1.6441171169281006,
+  "dur": 7.0,
   "crop": [
-   7.8046875,
-   137.546875,
-   374.390625,
-   499.1875
+   0.0,
+   60.0,
+   390,
+   520.0
   ],
-  "script": "13fc602e3bb2302f0df964d1c08ca75f66790a3a10428f13b68d05e669bc62eb",
-  "page": "ff5f9bef7a4a64704cb34510ee41d392abccf1beb609361b90c420e5b8ca023b",
-  "recorded_on": "2026-11-25"
+  "script": "fd54754d604112fb8e17e8f0e74d1f61b50dae74183a234434e318f697614488",
+  "page": "a1ade4a50e023347a235d3874e8b602ffff620ad937f60d8c8bd765c1b89b930",
+  "recorded_on": "2026-11-26"
+ },
+ "run_tracker": {
+  "file": "vid/run_tracker.webm",
+  "start": 1.6781411170959473,
+  "dur": 6.0,
+  "crop": [
+   0,
+   60.0,
+   390,
+   520.0
+  ],
+  "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
+  "page": "96017a30ae6fc53dd8b68bafd0eae5ae8beb6525581bcf849bd8ebd024c4f072",
+  "recorded_on": "2026-11-26"
  }
 }
