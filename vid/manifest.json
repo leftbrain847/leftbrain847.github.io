@@ -491,7 +491,7 @@
  },
  "run_tracker": {
   "file": "vid/run_tracker.webm",
-  "start": 1.60530424118042,
+  "start": 1.535398244857788,
   "dur": 6.0,
   "crop": [
    0,
@@ -500,7 +500,7 @@
    520.0
   ],
   "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
-  "page": "7936205a353f48c0fe6fada8705ba5483bba040e04f016482287415719cf4811",
-  "recorded_on": "2026-11-26"
+  "page": "1b0f73c757ea8a3fe2a7c5ad54a30e73d7ffc0129ec5d1be15aed8e2b011c784",
+  "recorded_on": "2026-11-27"
  }
 }
