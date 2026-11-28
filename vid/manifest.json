@@ -491,7 +491,7 @@
  },
  "run_tracker": {
   "file": "vid/run_tracker.webm",
-  "start": 1.535398244857788,
+  "start": 1.5898253917694092,
   "dur": 6.0,
   "crop": [
    0,
@@ -500,12 +500,12 @@
    520.0
   ],
   "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
-  "page": "1b0f73c757ea8a3fe2a7c5ad54a30e73d7ffc0129ec5d1be15aed8e2b011c784",
-  "recorded_on": "2026-11-27"
+  "page": "1e823310e237da15594b9ddc8d7772d814899b6b471597b515d3d3b9d2193b50",
+  "recorded_on": "2026-11-28"
  },
  "data_cleaner": {
   "file": "vid/data_cleaner.webm",
-  "start": 1.5483529567718506,
+  "start": 1.533539056777954,
   "dur": 6.0,
   "crop": [
    0,
@@ -514,7 +514,7 @@
    520.0
   ],
   "script": "7b4d8fa129a81f20d6bdbb048198e6c8cfd8b43b592a12b319475bd6765c796a",
-  "page": "1f024515911d1359cae5a446851a3156095378e47da09119ea160800fbb3bee1",
+  "page": "fa312a900324672a4979ed486b079fbc70eee86e1784b581123673454f1df6cc",
   "recorded_on": "2026-11-28"
  }
 }
